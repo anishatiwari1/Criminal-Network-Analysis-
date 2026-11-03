@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+data/admins.json
+data/.secret_key
