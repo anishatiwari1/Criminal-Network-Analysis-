@@ -1,0 +1,181 @@
+rel_id,person1_id,person1_name,person2_id,person2_name,relationship_type,strength,first_seen,last_seen,evidence
+REL0001,P059,Vijay Mondal,P034,Kavita Goud,Communication,0.15,2019-04-12,2024-05-14,Informer
+REL0002,P049,Rakesh Qureshi,P054,Imran Desai,Family,0.58,2022-05-20,2023-04-15,Surveillance
+REL0003,P051,Jaswinder Krishnan,P040,Vikram Shetty,Jail Contact,0.2,2018-06-20,2025-09-01,FIR
+REL0004,P007,Santosh Deshmukh,P031,Deepak Shaikh,Jail Contact,0.37,2018-01-20,2026-04-06,Financial
+REL0005,P056,Vikram Verma,P059,Vijay Mondal,Family,0.75,2020-06-25,2026-08-09,FIR
+REL0006,P038,Prakash Shaikh,P041,Vinod Selvam,Jail Contact,0.99,2019-05-31,2025-04-13,Informer
+REL0007,P018,Sanjay Kumar,P029,Sushma Krishnan,Co-accused,0.56,2020-11-19,2024-08-04,Witness
+REL0008,P020,Vijay Thakur,P028,Rahul Kulkarni,Co-accused,0.35,2021-02-23,2025-10-27,Surveillance
+REL0009,P041,Vinod Selvam,P029,Sushma Krishnan,Family,0.98,2019-01-09,2025-09-25,CDR
+REL0010,P021,Rakesh Reddy,P034,Kavita Goud,Jail Contact,0.55,2019-01-02,2023-05-15,CCTV
+REL0011,P028,Rahul Kulkarni,P020,Vijay Thakur,Jail Contact,0.41,2021-11-07,2026-01-08,CCTV
+REL0012,P012,Mukesh Jha,P013,Jaswinder Deshmukh,Command,0.29,2020-10-24,2024-09-17,Surveillance
+REL0013,P050,Senthil Mishra,P020,Vijay Thakur,Communication,0.93,2019-03-07,2026-03-15,Witness
+REL0014,P010,Vinod Chaudhary,P031,Deepak Shaikh,Vehicle Sharing,0.81,2022-10-12,2023-11-20,Informer
+REL0015,P043,Simran Verma,P055,Vinod Sidhu,Jail Contact,0.69,2022-06-04,2025-05-03,CCTV
+REL0016,P047,Jignesh Shaikh,P021,Rakesh Reddy,Jail Contact,0.94,2022-09-05,2024-09-13,Surveillance
+REL0017,P010,Vinod Chaudhary,P037,Rekha Das,Co-accused,0.5,2020-05-21,2026-02-27,Financial
+REL0018,P049,Rakesh Qureshi,P051,Jaswinder Krishnan,Associate,0.97,2019-12-26,2026-08-15,CCTV
+REL0019,P009,Bablu Malhotra,P051,Jaswinder Krishnan,Communication,0.12,2021-12-13,2024-02-19,FIR
+REL0020,P043,Simran Verma,P031,Deepak Shaikh,Co-accused,0.12,2020-05-25,2025-02-22,Surveillance
+REL0021,P036,Harpreet Shekhawat,P011,Hemant Dhillon,Command,0.66,2020-06-20,2024-07-15,CDR
+REL0022,P005,Nirmala Kulkarni,P049,Rakesh Qureshi,Jail Contact,0.95,2021-04-29,2025-08-20,CDR
+REL0023,P050,Senthil Mishra,P052,Srinivas Singh,Command,0.35,2021-05-27,2026-04-15,Financial
+REL0024,P004,Ajay Parmar,P037,Rekha Das,Communication,0.58,2020-06-16,2024-08-05,CDR
+REL0025,P031,Deepak Shaikh,P007,Santosh Deshmukh,Co-accused,0.98,2022-02-09,2025-04-27,CCTV
+REL0026,P010,Vinod Chaudhary,P039,Jaswinder Saxena,Communication,0.62,2021-02-24,2023-06-30,Financial
+REL0027,P016,Anil Bansal,P022,Nitin Subramanian,Communication,0.6,2022-08-01,2024-08-19,Witness
+REL0028,P002,Mukesh Tiwari,P009,Bablu Malhotra,Co-accused,0.96,2020-01-10,2025-07-02,Witness
+REL0029,P057,Geeta Tiwari,P009,Bablu Malhotra,Jail Contact,0.3,2020-01-12,2024-11-13,FIR
+REL0030,P044,Kishore Naidu,P017,Ajay Kumar,Communication,0.64,2018-02-17,2023-10-15,CDR
+REL0031,P042,Mary Qureshi,P037,Rekha Das,Jail Contact,0.82,2022-08-31,2025-12-18,CDR
+REL0032,P059,Vijay Mondal,P024,Dilip Shah,Associate,0.61,2018-03-07,2025-10-29,CCTV
+REL0033,P052,Srinivas Singh,P050,Senthil Mishra,Communication,0.62,2021-07-23,2023-05-18,Witness
+REL0034,P005,Nirmala Kulkarni,P027,Santosh Mishra,Financial Dependency,0.82,2022-09-30,2023-06-29,Informer
+REL0035,P060,Ganesh Jadhav,P030,Jignesh Shekhawat,Command,0.78,2022-04-21,2025-06-01,CCTV
+REL0036,P018,Sanjay Kumar,P029,Sushma Krishnan,Co-accused,0.17,2021-08-19,2026-03-24,Surveillance
+REL0037,P030,Jignesh Shekhawat,P035,Sunil Mishra,Vehicle Sharing,0.9,2020-04-02,2026-03-23,Surveillance
+REL0038,P001,Pankaj Khanna,P041,Vinod Selvam,Vehicle Sharing,0.12,2019-04-07,2024-10-22,Financial
+REL0039,P010,Vinod Chaudhary,P031,Deepak Shaikh,Co-accused,0.58,2021-08-31,2026-09-24,FIR
+REL0040,P050,Senthil Mishra,P023,Salman Shekhawat,Financial Dependency,0.27,2018-10-31,2024-02-27,Surveillance
+REL0041,P012,Mukesh Jha,P058,Sanjay Shaikh,Associate,0.8,2021-01-11,2024-12-14,CDR
+REL0042,P021,Rakesh Reddy,P015,Faizan Rao,Command,0.28,2018-12-01,2025-05-18,Surveillance
+REL0043,P015,Faizan Rao,P014,Sachin Singh,Co-accused,0.12,2022-12-03,2025-06-19,CDR
+REL0044,P054,Imran Desai,P002,Mukesh Tiwari,Jail Contact,0.88,2022-10-16,2024-03-03,Financial
+REL0045,P004,Ajay Parmar,P042,Mary Qureshi,Command,0.29,2020-02-19,2026-04-23,CCTV
+REL0046,P008,Ananya Pillai,P011,Hemant Dhillon,Family,0.25,2019-03-06,2023-09-04,Financial
+REL0047,P048,Nirmala Choudhary,P049,Rakesh Qureshi,Vehicle Sharing,0.27,2018-07-05,2025-11-04,Surveillance
+REL0048,P031,Deepak Shaikh,P007,Santosh Deshmukh,Jail Contact,0.11,2020-02-18,2025-05-10,Financial
+REL0049,P055,Vinod Sidhu,P033,Revathi Patel,Communication,0.85,2020-06-08,2026-08-28,Surveillance
+REL0050,P015,Faizan Rao,P006,Deepak Raghuvanshi,Vehicle Sharing,0.89,2018-02-02,2024-07-16,Witness
+REL0051,P042,Mary Qureshi,P003,Jignesh Choudhary,Financial Dependency,0.86,2018-12-30,2026-03-02,CDR
+REL0052,P009,Bablu Malhotra,P002,Mukesh Tiwari,Jail Contact,0.79,2018-05-06,2026-05-06,CCTV
+REL0053,P014,Sachin Singh,P044,Kishore Naidu,Communication,0.43,2020-04-29,2023-11-19,Financial
+REL0054,P012,Mukesh Jha,P058,Sanjay Shaikh,Financial Dependency,0.77,2022-07-18,2026-10-01,FIR
+REL0055,P024,Dilip Shah,P008,Ananya Pillai,Financial Dependency,0.13,2019-02-22,2024-09-18,Financial
+REL0056,P041,Vinod Selvam,P024,Dilip Shah,Communication,0.66,2018-02-28,2023-02-22,Surveillance
+REL0057,P002,Mukesh Tiwari,P004,Ajay Parmar,Financial Dependency,0.92,2018-04-06,2026-01-09,Financial
+REL0058,P049,Rakesh Qureshi,P027,Santosh Mishra,Financial Dependency,0.19,2019-12-16,2024-04-01,CDR
+REL0059,P027,Santosh Mishra,P008,Ananya Pillai,Jail Contact,0.52,2020-04-30,2026-01-04,Financial
+REL0060,P009,Bablu Malhotra,P053,Harpreet Pandey,Associate,0.38,2020-08-19,2024-06-10,FIR
+REL0061,P021,Rakesh Reddy,P023,Salman Shekhawat,Family,0.53,2022-03-14,2026-03-15,FIR
+REL0062,P009,Bablu Malhotra,P002,Mukesh Tiwari,Financial Dependency,0.3,2018-06-18,2023-07-14,Witness
+REL0063,P026,Bhupinder Ansari,P027,Santosh Mishra,Command,0.3,2019-01-14,2026-09-12,Surveillance
+REL0064,P022,Nitin Subramanian,P052,Srinivas Singh,Communication,0.78,2018-09-27,2024-11-02,Financial
+REL0065,P024,Dilip Shah,P045,Anirban Sinha,Associate,0.77,2022-06-26,2025-02-27,Witness
+REL0066,P004,Ajay Parmar,P017,Ajay Kumar,Associate,0.23,2018-03-11,2024-05-02,FIR
+REL0067,P026,Bhupinder Ansari,P054,Imran Desai,Jail Contact,0.87,2019-01-20,2026-07-11,CCTV
+REL0068,P053,Harpreet Pandey,P037,Rekha Das,Vehicle Sharing,0.51,2019-03-16,2025-07-17,Informer
+REL0069,P017,Ajay Kumar,P007,Santosh Deshmukh,Communication,0.69,2020-11-19,2024-11-21,Surveillance
+REL0070,P058,Sanjay Shaikh,P021,Rakesh Reddy,Jail Contact,0.79,2020-07-23,2026-09-20,CDR
+REL0071,P043,Simran Verma,P050,Senthil Mishra,Communication,0.16,2020-01-19,2025-05-23,Witness
+REL0072,P002,Mukesh Tiwari,P010,Vinod Chaudhary,Family,0.3,2020-07-25,2023-08-16,CDR
+REL0073,P036,Harpreet Shekhawat,P008,Ananya Pillai,Co-accused,0.38,2020-06-12,2026-02-07,CDR
+REL0074,P056,Vikram Verma,P033,Revathi Patel,Financial Dependency,0.46,2022-12-19,2025-11-12,FIR
+REL0075,P010,Vinod Chaudhary,P016,Anil Bansal,Associate,0.28,2022-03-05,2024-12-25,Informer
+REL0076,P039,Jaswinder Saxena,P045,Anirban Sinha,Associate,0.82,2020-01-13,2026-01-09,FIR
+REL0077,P045,Anirban Sinha,P034,Kavita Goud,Financial Dependency,0.44,2018-07-25,2023-12-06,Witness
+REL0078,P041,Vinod Selvam,P056,Vikram Verma,Command,0.86,2022-03-19,2023-11-08,Informer
+REL0079,P040,Vikram Shetty,P044,Kishore Naidu,Communication,0.14,2020-03-31,2024-08-30,Financial
+REL0080,P058,Sanjay Shaikh,P023,Salman Shekhawat,Jail Contact,0.52,2018-10-06,2024-09-06,CDR
+REL0081,P005,Nirmala Kulkarni,P048,Nirmala Choudhary,Command,0.93,2021-06-09,2026-05-01,CDR
+REL0082,P004,Ajay Parmar,P017,Ajay Kumar,Financial Dependency,0.53,2018-11-25,2024-05-11,Financial
+REL0083,P051,Jaswinder Krishnan,P049,Rakesh Qureshi,Vehicle Sharing,0.63,2019-05-25,2024-12-18,CDR
+REL0084,P015,Faizan Rao,P019,Meena Chouhan,Financial Dependency,0.9,2018-09-10,2026-04-14,Witness
+REL0085,P010,Vinod Chaudhary,P017,Ajay Kumar,Communication,0.78,2018-01-23,2026-07-28,CDR
+REL0086,P034,Kavita Goud,P059,Vijay Mondal,Jail Contact,0.31,2020-06-16,2024-09-03,CCTV
+REL0087,P008,Ananya Pillai,P045,Anirban Sinha,Jail Contact,0.24,2022-12-08,2024-11-30,Surveillance
+REL0088,P003,Jignesh Choudhary,P019,Meena Chouhan,Family,0.66,2020-05-22,2026-04-13,FIR
+REL0089,P057,Geeta Tiwari,P009,Bablu Malhotra,Communication,0.3,2018-07-31,2023-07-01,Witness
+REL0090,P039,Jaswinder Saxena,P057,Geeta Tiwari,Co-accused,0.32,2022-10-07,2026-09-23,Financial
+REL0091,P054,Imran Desai,P049,Rakesh Qureshi,Vehicle Sharing,0.15,2018-08-04,2024-07-27,CCTV
+REL0092,P047,Jignesh Shaikh,P021,Rakesh Reddy,Co-accused,0.48,2022-09-09,2024-05-29,Surveillance
+REL0093,P006,Deepak Raghuvanshi,P036,Harpreet Shekhawat,Command,0.63,2019-03-30,2026-04-25,Financial
+REL0094,P043,Simran Verma,P042,Mary Qureshi,Vehicle Sharing,0.65,2022-11-18,2026-09-29,Financial
+REL0095,P003,Jignesh Choudhary,P045,Anirban Sinha,Family,0.62,2018-08-29,2024-05-03,Surveillance
+REL0096,P038,Prakash Shaikh,P032,Rekha Rathore,Vehicle Sharing,0.75,2018-03-23,2024-12-12,Witness
+REL0097,P051,Jaswinder Krishnan,P054,Imran Desai,Associate,0.95,2022-07-24,2026-07-10,Witness
+REL0098,P050,Senthil Mishra,P020,Vijay Thakur,Command,0.61,2018-02-19,2026-07-15,Surveillance
+REL0099,P007,Santosh Deshmukh,P042,Mary Qureshi,Associate,0.76,2022-10-06,2024-06-03,Surveillance
+REL0100,P053,Harpreet Pandey,P044,Kishore Naidu,Co-accused,0.42,2019-05-25,2024-07-20,Financial
+REL0101,P051,Jaswinder Krishnan,P054,Imran Desai,Communication,0.79,2018-11-25,2024-03-04,Informer
+REL0102,P050,Senthil Mishra,P042,Mary Qureshi,Co-accused,0.77,2022-03-23,2024-12-14,CCTV
+REL0103,P053,Harpreet Pandey,P012,Mukesh Jha,Jail Contact,0.87,2019-11-15,2024-12-21,Informer
+REL0104,P035,Sunil Mishra,P011,Hemant Dhillon,Co-accused,0.85,2018-07-27,2023-07-05,Witness
+REL0105,P026,Bhupinder Ansari,P054,Imran Desai,Financial Dependency,0.78,2019-02-19,2024-06-26,CCTV
+REL0106,P046,Prakash Verma,P032,Rekha Rathore,Co-accused,0.4,2020-06-15,2025-01-10,CCTV
+REL0107,P011,Hemant Dhillon,P022,Nitin Subramanian,Associate,0.2,2021-04-06,2024-09-27,Informer
+REL0108,P045,Anirban Sinha,P015,Faizan Rao,Financial Dependency,0.46,2021-11-25,2023-06-05,FIR
+REL0109,P006,Deepak Raghuvanshi,P045,Anirban Sinha,Vehicle Sharing,0.87,2018-10-26,2024-11-27,Informer
+REL0110,P023,Salman Shekhawat,P047,Jignesh Shaikh,Family,0.86,2022-02-16,2024-08-24,Informer
+REL0111,P037,Rekha Das,P021,Rakesh Reddy,Command,0.5,2018-03-25,2024-05-18,Informer
+REL0112,P010,Vinod Chaudhary,P033,Revathi Patel,Associate,0.55,2022-09-03,2024-03-24,FIR
+REL0113,P057,Geeta Tiwari,P002,Mukesh Tiwari,Financial Dependency,0.11,2019-05-15,2023-02-12,CCTV
+REL0114,P040,Vikram Shetty,P054,Imran Desai,Vehicle Sharing,0.6,2021-03-09,2024-01-29,Financial
+REL0115,P012,Mukesh Jha,P039,Jaswinder Saxena,Vehicle Sharing,0.66,2022-12-25,2025-03-03,Witness
+REL0116,P017,Ajay Kumar,P037,Rekha Das,Communication,0.49,2020-01-17,2024-04-25,Surveillance
+REL0117,P035,Sunil Mishra,P008,Ananya Pillai,Co-accused,0.87,2021-12-09,2024-05-20,CCTV
+REL0118,P035,Sunil Mishra,P006,Deepak Raghuvanshi,Jail Contact,0.58,2018-08-03,2026-05-22,FIR
+REL0119,P047,Jignesh Shaikh,P058,Sanjay Shaikh,Command,0.52,2021-03-22,2023-04-19,Financial
+REL0120,P040,Vikram Shetty,P051,Jaswinder Krishnan,Family,0.96,2018-12-17,2023-02-15,Informer
+REL0121,P029,Sushma Krishnan,P014,Sachin Singh,Co-accused,0.53,2021-12-17,2023-10-30,CDR
+REL0122,P044,Kishore Naidu,P048,Nirmala Choudhary,Communication,0.95,2022-01-30,2023-02-26,Witness
+REL0123,P039,Jaswinder Saxena,P008,Ananya Pillai,Vehicle Sharing,0.29,2020-07-14,2024-09-26,Informer
+REL0124,P045,Anirban Sinha,P019,Meena Chouhan,Command,0.61,2022-11-29,2025-11-06,Financial
+REL0125,P010,Vinod Chaudhary,P037,Rekha Das,Associate,0.97,2018-04-19,2025-01-03,Informer
+REL0126,P008,Ananya Pillai,P006,Deepak Raghuvanshi,Family,0.58,2022-02-04,2023-11-27,Witness
+REL0127,P013,Jaswinder Deshmukh,P058,Sanjay Shaikh,Financial Dependency,0.85,2018-03-02,2026-08-22,Financial
+REL0128,P047,Jignesh Shaikh,P012,Mukesh Jha,Family,0.95,2021-03-21,2025-03-04,CCTV
+REL0129,P027,Santosh Mishra,P054,Imran Desai,Financial Dependency,0.86,2019-01-10,2023-07-16,Surveillance
+REL0130,P023,Salman Shekhawat,P047,Jignesh Shaikh,Communication,0.55,2019-01-13,2024-06-17,Financial
+REL0131,P013,Jaswinder Deshmukh,P012,Mukesh Jha,Co-accused,0.51,2018-07-12,2025-12-08,Surveillance
+REL0132,P002,Mukesh Tiwari,P005,Nirmala Kulkarni,Associate,0.71,2018-07-15,2023-12-12,CDR
+REL0133,P034,Kavita Goud,P059,Vijay Mondal,Vehicle Sharing,0.38,2022-06-27,2026-03-09,Informer
+REL0134,P024,Dilip Shah,P012,Mukesh Jha,Command,0.67,2020-10-17,2024-01-08,Informer
+REL0135,P014,Sachin Singh,P007,Santosh Deshmukh,Financial Dependency,0.64,2021-03-21,2023-12-29,Financial
+REL0136,P046,Prakash Verma,P056,Vikram Verma,Financial Dependency,0.56,2022-07-26,2025-06-30,CDR
+REL0137,P040,Vikram Shetty,P026,Bhupinder Ansari,Communication,0.94,2018-08-09,2024-12-15,Witness
+REL0138,P012,Mukesh Jha,P021,Rakesh Reddy,Family,0.55,2021-05-20,2023-11-14,Informer
+REL0139,P059,Vijay Mondal,P034,Kavita Goud,Vehicle Sharing,0.81,2018-08-27,2026-10-01,Informer
+REL0140,P005,Nirmala Kulkarni,P049,Rakesh Qureshi,Financial Dependency,0.32,2022-08-02,2025-10-02,FIR
+REL0141,P051,Jaswinder Krishnan,P048,Nirmala Choudhary,Associate,0.92,2020-09-10,2026-09-12,Witness
+REL0142,P049,Rakesh Qureshi,P007,Santosh Deshmukh,Family,0.7,2019-10-19,2025-12-15,Informer
+REL0143,P037,Rekha Das,P055,Vinod Sidhu,Vehicle Sharing,0.78,2021-08-10,2024-02-16,Surveillance
+REL0144,P021,Rakesh Reddy,P013,Jaswinder Deshmukh,Communication,0.95,2020-05-23,2025-04-07,Financial
+REL0145,P025,Rahul Reddy,P006,Deepak Raghuvanshi,Jail Contact,0.12,2018-08-02,2024-10-20,Informer
+REL0146,P031,Deepak Shaikh,P033,Revathi Patel,Jail Contact,0.99,2022-04-28,2024-08-11,CCTV
+REL0147,P044,Kishore Naidu,P005,Nirmala Kulkarni,Command,0.95,2019-09-21,2026-04-18,Witness
+REL0148,P058,Sanjay Shaikh,P013,Jaswinder Deshmukh,Co-accused,0.77,2020-12-30,2023-02-27,CDR
+REL0149,P020,Vijay Thakur,P050,Senthil Mishra,Associate,0.84,2021-11-02,2025-06-07,Witness
+REL0150,P033,Revathi Patel,P010,Vinod Chaudhary,Co-accused,0.71,2018-04-02,2024-03-15,CDR
+REL0151,P030,Jignesh Shekhawat,P012,Mukesh Jha,Command,0.74,2018-05-30,2024-02-21,Financial
+REL0152,P014,Sachin Singh,P018,Sanjay Kumar,Associate,0.93,2019-02-26,2023-08-27,Surveillance
+REL0153,P001,Pankaj Khanna,P059,Vijay Mondal,Command,0.69,2022-08-30,2024-11-08,FIR
+REL0154,P025,Rahul Reddy,P054,Imran Desai,Command,0.43,2022-09-12,2025-04-03,CDR
+REL0155,P010,Vinod Chaudhary,P031,Deepak Shaikh,Communication,0.89,2020-05-15,2026-03-14,Witness
+REL0156,P056,Vikram Verma,P059,Vijay Mondal,Communication,0.28,2022-12-05,2026-08-31,Witness
+REL0157,P059,Vijay Mondal,P034,Kavita Goud,Vehicle Sharing,0.84,2020-02-12,2024-07-23,CCTV
+REL0158,P058,Sanjay Shaikh,P023,Salman Shekhawat,Communication,0.64,2021-07-07,2025-03-20,CDR
+REL0159,P045,Anirban Sinha,P008,Ananya Pillai,Command,0.16,2018-08-23,2023-08-25,FIR
+REL0160,P058,Sanjay Shaikh,P012,Mukesh Jha,Financial Dependency,0.58,2018-12-09,2024-06-09,Witness
+REL0161,P046,Prakash Verma,P045,Anirban Sinha,Vehicle Sharing,0.36,2019-08-10,2024-08-06,CCTV
+REL0162,P037,Rekha Das,P007,Santosh Deshmukh,Vehicle Sharing,0.84,2022-12-16,2024-02-18,CDR
+REL0163,P036,Harpreet Shekhawat,P013,Jaswinder Deshmukh,Financial Dependency,0.57,2018-03-15,2025-08-18,Financial
+REL0164,P007,Santosh Deshmukh,P004,Ajay Parmar,Vehicle Sharing,0.27,2022-04-11,2023-05-19,FIR
+REL0165,P028,Rahul Kulkarni,P052,Srinivas Singh,Financial Dependency,0.5,2022-04-25,2023-03-26,Witness
+REL0166,P060,Ganesh Jadhav,P033,Revathi Patel,Command,0.79,2022-01-24,2024-10-13,CDR
+REL0167,P037,Rekha Das,P010,Vinod Chaudhary,Co-accused,0.87,2019-05-29,2023-12-26,Surveillance
+REL0168,P030,Jignesh Shekhawat,P013,Jaswinder Deshmukh,Associate,0.45,2018-11-10,2024-08-20,Informer
+REL0169,P005,Nirmala Kulkarni,P044,Kishore Naidu,Co-accused,0.69,2020-06-17,2023-02-21,CCTV
+REL0170,P029,Sushma Krishnan,P018,Sanjay Kumar,Communication,0.6,2018-10-21,2026-01-25,Surveillance
+REL0171,P004,Ajay Parmar,P010,Vinod Chaudhary,Vehicle Sharing,0.57,2018-02-05,2026-06-20,Witness
+REL0172,P011,Hemant Dhillon,P024,Dilip Shah,Co-accused,0.13,2018-08-01,2024-04-23,CDR
+REL0173,P025,Rahul Reddy,P001,Pankaj Khanna,Associate,0.83,2022-04-24,2026-03-07,CDR
+REL0174,P055,Vinod Sidhu,P004,Ajay Parmar,Family,0.12,2022-08-15,2025-09-02,Informer
+REL0175,P042,Mary Qureshi,P037,Rekha Das,Jail Contact,0.92,2019-05-02,2025-10-01,Informer
+REL0176,P017,Ajay Kumar,P043,Simran Verma,Jail Contact,0.93,2018-11-10,2025-07-19,Informer
+REL0177,P057,Geeta Tiwari,P002,Mukesh Tiwari,Communication,0.67,2018-12-24,2025-03-06,Surveillance
+REL0178,P057,Geeta Tiwari,P002,Mukesh Tiwari,Vehicle Sharing,0.82,2018-10-22,2023-03-29,Financial
+REL0179,P027,Santosh Mishra,P044,Kishore Naidu,Vehicle Sharing,0.21,2021-07-07,2024-12-23,FIR
+REL0180,P026,Bhupinder Ansari,P051,Jaswinder Krishnan,Jail Contact,0.76,2020-06-28,2025-03-06,Financial

@@ -1,0 +1,401 @@
+cdr_id,datetime,caller_id,caller_name,caller_phone,receiver_id,receiver_name,receiver_phone,duration_seconds,call_type,operator,tower_location,state,frequency,suspicious
+CDR00001,2023-01-16 03:18:17,P013,Jaswinder Deshmukh,+91-7984593961,P021,Rakesh Reddy,+91-7952101056,522,VoIP,BSNL,"Paltan Bazaar, Kamrup Metropolitan",Assam,47,False
+CDR00002,2026-05-29 15:23:29,P006,Deepak Raghuvanshi,+91-9730514014,P036,Harpreet Shekhawat,+91-9443742830,2864,Voice,Vi,"Sarafa Bazaar, Indore",Madhya Pradesh,6,True
+CDR00003,2023-01-29 08:52:24,P010,Vinod Chaudhary,+91-9519046318,P042,Mary Qureshi,+91-8787201917,3402,Voice,Jio,"Sarabha Nagar, Ludhiana",Punjab,50,True
+CDR00004,2023-02-12 14:47:49,P025,Rahul Reddy,+91-8972350830,P051,Jaswinder Krishnan,+91-9095618110,394,Signal,Airtel,"Charminar, Hyderabad",Telangana,31,False
+CDR00005,2023-06-03 15:40:19,P020,Vijay Thakur,+91-9347393469,P011,Hemant Dhillon,+91-9165177213,823,WhatsApp,Jio,"Gandhi Maidan, Patna",Bihar,43,False
+CDR00006,2025-04-12 03:25:50,P008,Ananya Pillai,+91-6358718453,P035,Sunil Mishra,+91-9573900135,1005,Voice,Jio,"Egmore, Chennai",Tamil Nadu,38,True
+CDR00007,2022-11-19 15:05:43,P031,Deepak Shaikh,+91-7959512272,P010,Vinod Chaudhary,+91-9519046318,2543,WhatsApp,Jio,"Crawford Market, Mumbai City",Maharashtra,4,False
+CDR00008,2025-02-17 20:48:22,P010,Vinod Chaudhary,+91-9519046318,P007,Santosh Deshmukh,+91-9845351479,3309,Telegram,Airtel,"Salt Lake, North 24 Parganas",West Bengal,2,True
+CDR00009,2024-06-15 17:18:34,P023,Salman Shekhawat,+91-9187844239,P021,Rakesh Reddy,+91-7952101056,2865,Telegram,Airtel,"Ghanta Ghar, Jodhpur",Rajasthan,37,False
+CDR00010,2024-12-23 04:28:18,P023,Salman Shekhawat,+91-9187844239,P047,Jignesh Shaikh,+91-8982937948,3366,WhatsApp,Vi,"Mylapore, Chennai",Tamil Nadu,30,False
+CDR00011,2025-06-23 11:49:39,P041,Vinod Selvam,+91-9832269779,P033,Revathi Patel,+91-8630534124,988,WhatsApp,Jio,"Mylapore, Chennai",Tamil Nadu,43,True
+CDR00012,2025-06-09 09:20:26,P053,Harpreet Pandey,+91-7998473848,P025,Rahul Reddy,+91-8972350830,2635,WhatsApp,Jio,"Broadway, Ernakulam",Kerala,7,False
+CDR00013,2022-08-08 15:12:06,P005,Nirmala Kulkarni,+91-8852235350,P040,Vikram Shetty,+91-9414380847,140,Signal,BSNL,"Bandra West, Mumbai Suburban",Maharashtra,43,False
+CDR00014,2026-01-10 02:00:59,P040,Vikram Shetty,+91-9414380847,P048,Nirmala Choudhary,+91-8854559574,864,VoIP,BSNL,"Tiljala, Kolkata",West Bengal,6,False
+CDR00015,2026-06-15 22:03:52,P041,Vinod Selvam,+91-9832269779,P004,Ajay Parmar,+91-8732969840,2536,WhatsApp,Jio,"Gandhipuram, Coimbatore",Tamil Nadu,47,False
+CDR00016,2026-01-25 07:34:24,P020,Vijay Thakur,+91-9347393469,P028,Rahul Kulkarni,+91-9182238741,786,SMS,Airtel,"Gandhi Maidan, Patna",Bihar,37,True
+CDR00017,2025-10-13 14:44:42,P012,Mukesh Jha,+91-8923141087,P058,Sanjay Shaikh,+91-9816788532,1759,Voice,Airtel,"Patna City, Patna",Bihar,12,False
+CDR00018,2023-10-08 17:20:54,P033,Revathi Patel,+91-8630534124,P010,Vinod Chaudhary,+91-9519046318,1532,Telegram,BSNL,"Udhna, Surat",Gujarat,47,False
+CDR00019,2024-01-08 14:28:25,P016,Anil Bansal,+91-8780993218,P038,Prakash Shaikh,+91-7074119726,10,VoIP,Jio,"Chandni Chowk, Central Delhi",Delhi,19,False
+CDR00020,2026-10-19 10:01:49,P034,Kavita Goud,+91-8760867083,P059,Vijay Mondal,+91-8943642236,3376,VoIP,Vi,"Bowbazar, Kolkata",West Bengal,36,False
+CDR00021,2022-11-16 04:16:23,P037,Rekha Das,+91-8681690398,P010,Vinod Chaudhary,+91-9519046318,2394,SMS,Airtel,"Civil Lines, Gaya",Bihar,17,True
+CDR00022,2026-06-12 15:11:31,P006,Deepak Raghuvanshi,+91-9730514014,P045,Anirban Sinha,+91-9884121929,3392,VoIP,Jio,"Kohefiza, Bhopal",Madhya Pradesh,39,True
+CDR00023,2023-12-14 13:26:59,P003,Jignesh Choudhary,+91-9716150444,P045,Anirban Sinha,+91-9884121929,3564,Voice,Airtel,"MI Road, Jaipur",Rajasthan,48,True
+CDR00024,2023-09-17 16:02:20,P039,Jaswinder Saxena,+91-9486320155,P042,Mary Qureshi,+91-8787201917,2221,Signal,Airtel,"Vijay Nagar, Indore",Madhya Pradesh,21,False
+CDR00025,2024-06-03 09:50:25,P015,Faizan Rao,+91-9052436584,P035,Sunil Mishra,+91-9573900135,616,SMS,Vi,"Banjara Hills, Hyderabad",Telangana,6,False
+CDR00026,2026-05-04 22:08:48,P048,Nirmala Choudhary,+91-8854559574,P051,Jaswinder Krishnan,+91-9095618110,562,Telegram,Airtel,"Chowk Bazaar, Bhopal",Madhya Pradesh,32,False
+CDR00027,2026-05-10 13:20:43,P037,Rekha Das,+91-8681690398,P055,Vinod Sidhu,+91-9111868130,2369,Voice,Jio,"Gole Market, New Delhi",Delhi,43,False
+CDR00028,2022-12-13 11:39:52,P024,Dilip Shah,+91-9816202700,P019,Meena Chouhan,+91-6354585178,3298,Telegram,Airtel,"Kalupur, Ahmedabad",Gujarat,29,False
+CDR00029,2026-04-01 23:54:05,P053,Harpreet Pandey,+91-7998473848,P015,Faizan Rao,+91-9052436584,470,VoIP,Jio,"Malviya Nagar, Jaipur",Rajasthan,16,True
+CDR00030,2023-12-05 22:51:07,P060,Ganesh Jadhav,+91-8824636981,P010,Vinod Chaudhary,+91-9519046318,1259,Telegram,BSNL,"Andheri East, Mumbai Suburban",Maharashtra,2,False
+CDR00031,2025-06-29 23:09:44,P048,Nirmala Choudhary,+91-8854559574,P040,Vikram Shetty,+91-9414380847,2872,VoIP,Jio,"Sanganer, Jaipur",Rajasthan,25,False
+CDR00032,2026-06-05 22:39:17,P043,Simran Verma,+91-8724039158,P031,Deepak Shaikh,+91-7959512272,227,Telegram,Jio,"Gomti Nagar, Lucknow",Uttar Pradesh,5,False
+CDR00033,2025-08-22 12:14:24,P018,Sanjay Kumar,+91-8929876811,P032,Rekha Rathore,+91-8650477742,2092,VoIP,Jio,"Patna City, Patna",Bihar,21,False
+CDR00034,2025-12-30 00:02:15,P039,Jaswinder Saxena,+91-9486320155,P008,Ananya Pillai,+91-6358718453,2178,WhatsApp,Vi,"Bodh Gaya Road, Gaya",Bihar,32,False
+CDR00035,2024-10-23 08:51:03,P011,Hemant Dhillon,+91-9165177213,P024,Dilip Shah,+91-9816202700,2573,WhatsApp,BSNL,"Ranjit Avenue, Amritsar",Punjab,2,True
+CDR00036,2026-02-03 12:33:43,P018,Sanjay Kumar,+91-8929876811,P032,Rekha Rathore,+91-8650477742,2518,VoIP,Airtel,"Gandhi Maidan, Patna",Bihar,27,False
+CDR00037,2025-01-15 04:13:41,P010,Vinod Chaudhary,+91-9519046318,P033,Revathi Patel,+91-8630534124,577,Signal,Airtel,"Mahidharpura, Surat",Gujarat,9,False
+CDR00038,2026-04-27 04:41:59,P046,Prakash Verma,+91-9590447099,P059,Vijay Mondal,+91-8943642236,2323,SMS,Vi,"Chowk, Lucknow",Uttar Pradesh,5,False
+CDR00039,2026-04-17 10:56:26,P047,Jignesh Shaikh,+91-8982937948,P021,Rakesh Reddy,+91-7952101056,1694,WhatsApp,BSNL,"Colaba Causeway, Mumbai City",Maharashtra,48,True
+CDR00040,2022-09-27 05:01:48,P058,Sanjay Shaikh,+91-9816788532,P021,Rakesh Reddy,+91-7952101056,2516,Signal,Vi,"R.S. Puram, Coimbatore",Tamil Nadu,39,False
+CDR00041,2025-11-10 15:08:32,P015,Faizan Rao,+91-9052436584,P011,Hemant Dhillon,+91-9165177213,3475,Signal,BSNL,"Gachibowli, Rangareddy",Telangana,46,True
+CDR00042,2023-04-09 01:26:48,P012,Mukesh Jha,+91-8923141087,P033,Revathi Patel,+91-8630534124,71,WhatsApp,BSNL,"Kankarbagh, Patna",Bihar,15,True
+CDR00043,2025-11-09 10:55:29,P013,Jaswinder Deshmukh,+91-7984593961,P012,Mukesh Jha,+91-8923141087,1020,Telegram,BSNL,"Danapur, Patna",Bihar,50,False
+CDR00044,2024-07-13 14:52:56,P048,Nirmala Choudhary,+91-8854559574,P047,Jignesh Shaikh,+91-8982937948,183,SMS,BSNL,"Johari Bazaar, Jaipur",Rajasthan,48,False
+CDR00045,2023-08-20 14:25:56,P025,Rahul Reddy,+91-8972350830,P035,Sunil Mishra,+91-9573900135,1257,WhatsApp,BSNL,"Banjara Hills, Hyderabad",Telangana,11,False
+CDR00046,2026-08-27 20:28:05,P040,Vikram Shetty,+91-9414380847,P046,Prakash Verma,+91-9590447099,2969,Signal,Jio,"Majestic, Bengaluru Urban",Karnataka,12,True
+CDR00047,2022-02-21 05:29:37,P058,Sanjay Shaikh,+91-9816788532,P013,Jaswinder Deshmukh,+91-7984593961,2928,SMS,BSNL,"Swargate Bus Stand, Pune City",Maharashtra,6,False
+CDR00048,2022-08-22 22:28:40,P045,Anirban Sinha,+91-9884121929,P008,Ananya Pillai,+91-6358718453,1496,Voice,BSNL,"Gandhi Maidan, Patna",Bihar,47,True
+CDR00049,2026-04-23 05:58:21,P033,Revathi Patel,+91-8630534124,P010,Vinod Chaudhary,+91-9519046318,2326,VoIP,Airtel,"Ring Road Textile Market, Surat",Gujarat,11,True
+CDR00050,2023-08-15 20:11:07,P012,Mukesh Jha,+91-8923141087,P013,Jaswinder Deshmukh,+91-7984593961,548,SMS,Jio,"Danapur, Patna",Bihar,40,True
+CDR00051,2025-05-30 15:15:13,P001,Pankaj Khanna,+91-8921668732,P031,Deepak Shaikh,+91-7959512272,2421,VoIP,BSNL,"Paharganj, Central Delhi",Delhi,30,False
+CDR00052,2025-07-11 17:52:52,P006,Deepak Raghuvanshi,+91-9730514014,P003,Jignesh Choudhary,+91-9716150444,860,Voice,Airtel,"Alambagh, Lucknow",Uttar Pradesh,10,False
+CDR00053,2022-06-29 01:06:26,P023,Salman Shekhawat,+91-9187844239,P012,Mukesh Jha,+91-8923141087,740,SMS,Vi,"MI Road, Jaipur",Rajasthan,40,True
+CDR00054,2025-03-31 11:59:02,P045,Anirban Sinha,+91-9884121929,P036,Harpreet Shekhawat,+91-9443742830,391,WhatsApp,Vi,"Bodh Gaya Road, Gaya",Bihar,24,True
+CDR00055,2024-08-22 04:07:44,P053,Harpreet Pandey,+91-7998473848,P005,Nirmala Kulkarni,+91-8852235350,3530,WhatsApp,Vi,"Aminabad, Lucknow",Uttar Pradesh,34,False
+CDR00056,2024-09-17 23:44:38,P014,Sachin Singh,+91-7041568532,P018,Sanjay Kumar,+91-8929876811,3238,VoIP,Vi,"Paltan Bazaar, Kamrup Metropolitan",Assam,28,True
+CDR00057,2025-06-12 18:31:33,P021,Rakesh Reddy,+91-7952101056,P058,Sanjay Shaikh,+91-9816788532,2996,VoIP,BSNL,"Gachibowli, Rangareddy",Telangana,32,True
+CDR00058,2022-02-19 14:40:50,P057,Geeta Tiwari,+91-9859731689,P009,Bablu Malhotra,+91-6382383095,493,VoIP,Airtel,"New Market, Bhopal",Madhya Pradesh,40,True
+CDR00059,2025-08-04 06:44:18,P027,Santosh Mishra,+91-8638716269,P049,Rakesh Qureshi,+91-9381621574,1052,Voice,Vi,"Mall Road, Kanpur Nagar",Uttar Pradesh,20,False
+CDR00060,2026-01-23 18:39:01,P021,Rakesh Reddy,+91-7952101056,P012,Mukesh Jha,+91-8923141087,3418,SMS,Airtel,"HITEC City, Rangareddy",Telangana,22,True
+CDR00061,2025-08-15 04:30:09,P060,Ganesh Jadhav,+91-8824636981,P044,Kishore Naidu,+91-9117275149,2579,Telegram,Vi,"Sitabuldi Main Road, Nagpur City",Maharashtra,30,True
+CDR00062,2025-02-11 17:01:13,P027,Santosh Mishra,+91-8638716269,P004,Ajay Parmar,+91-8732969840,2375,VoIP,Vi,"Lanka, Varanasi",Uttar Pradesh,23,False
+CDR00063,2025-03-15 19:24:11,P010,Vinod Chaudhary,+91-9519046318,P004,Ajay Parmar,+91-8732969840,2447,Voice,Vi,"Varachha, Surat",Gujarat,46,True
+CDR00064,2023-05-02 11:28:53,P046,Prakash Verma,+91-9590447099,P003,Jignesh Choudhary,+91-9716150444,1249,SMS,Vi,"Mehrauli, South Delhi",Delhi,12,False
+CDR00065,2022-02-21 15:57:32,P051,Jaswinder Krishnan,+91-9095618110,P040,Vikram Shetty,+91-9414380847,641,SMS,Vi,"Ukkadam, Coimbatore",Tamil Nadu,31,True
+CDR00066,2023-02-25 23:02:29,P034,Kavita Goud,+91-8760867083,P059,Vijay Mondal,+91-8943642236,1597,VoIP,Jio,"Jafrabad, North East Delhi",Delhi,1,False
+CDR00067,2022-04-05 03:33:49,P003,Jignesh Choudhary,+91-9716150444,P045,Anirban Sinha,+91-9884121929,2709,VoIP,Vi,"Ratanada, Jodhpur",Rajasthan,2,False
+CDR00068,2023-07-21 17:20:49,P020,Vijay Thakur,+91-9347393469,P028,Rahul Kulkarni,+91-9182238741,1816,VoIP,Jio,"Patna City, Patna",Bihar,18,False
+CDR00069,2023-10-15 08:09:45,P018,Sanjay Kumar,+91-8929876811,P014,Sachin Singh,+91-7041568532,3303,WhatsApp,Airtel,"Vatva GIDC, Ahmedabad",Gujarat,11,False
+CDR00070,2024-08-22 21:03:06,P040,Vikram Shetty,+91-9414380847,P035,Sunil Mishra,+91-9573900135,1581,Voice,Jio,"Koramangala 5th Block, Bengaluru Urban",Karnataka,28,False
+CDR00071,2023-12-30 09:21:52,P046,Prakash Verma,+91-9590447099,P039,Jaswinder Saxena,+91-9486320155,821,VoIP,Jio,"Greater Noida West, Gautam Buddh Nagar",Uttar Pradesh,49,True
+CDR00072,2024-08-21 07:14:09,P037,Rekha Das,+91-8681690398,P043,Simran Verma,+91-8724039158,3537,Signal,Vi,"Cantt, Varanasi",Uttar Pradesh,24,False
+CDR00073,2024-09-25 00:04:30,P045,Anirban Sinha,+91-9884121929,P022,Nitin Subramanian,+91-6350308572,472,WhatsApp,BSNL,"Civil Lines, Gaya",Bihar,30,True
+CDR00074,2026-08-02 22:50:06,P019,Meena Chouhan,+91-6354585178,P045,Anirban Sinha,+91-9884121929,1344,Signal,Jio,"Chowk Bazaar, Bhopal",Madhya Pradesh,20,False
+CDR00075,2024-02-26 02:21:13,P026,Bhupinder Ansari,+91-9044788100,P044,Kishore Naidu,+91-9117275149,3343,VoIP,BSNL,"Chamanganj, Kanpur Nagar",Uttar Pradesh,28,False
+CDR00076,2022-08-23 18:38:29,P022,Nitin Subramanian,+91-6350308572,P028,Rahul Kulkarni,+91-9182238741,1342,Signal,Jio,"Mandi House, New Delhi",Delhi,29,False
+CDR00077,2024-10-09 20:42:03,P026,Bhupinder Ansari,+91-9044788100,P027,Santosh Mishra,+91-8638716269,380,SMS,Airtel,"Lanka, Varanasi",Uttar Pradesh,38,True
+CDR00078,2024-07-16 17:18:24,P041,Vinod Selvam,+91-9832269779,P053,Harpreet Pandey,+91-7998473848,2531,Signal,BSNL,"Whitefield, Bengaluru Urban",Karnataka,13,False
+CDR00079,2022-07-02 18:00:39,P057,Geeta Tiwari,+91-9859731689,P009,Bablu Malhotra,+91-6382383095,2100,Telegram,Airtel,"Sarafa Bazaar, Indore",Madhya Pradesh,19,False
+CDR00080,2023-08-01 00:15:27,P058,Sanjay Shaikh,+91-9816788532,P012,Mukesh Jha,+91-8923141087,2886,Signal,BSNL,"Ring Road Textile Market, Surat",Gujarat,41,False
+CDR00081,2024-08-30 04:12:35,P025,Rahul Reddy,+91-8972350830,P027,Santosh Mishra,+91-8638716269,1585,WhatsApp,BSNL,"Banjara Hills, Hyderabad",Telangana,10,False
+CDR00082,2025-08-20 00:09:46,P056,Vikram Verma,+91-9814994527,P043,Simran Verma,+91-8724039158,2003,VoIP,BSNL,"Colaba Causeway, Mumbai City",Maharashtra,9,False
+CDR00083,2024-07-19 16:27:35,P042,Mary Qureshi,+91-8787201917,P057,Geeta Tiwari,+91-9859731689,3369,Telegram,BSNL,"Karol Bagh, Central Delhi",Delhi,23,False
+CDR00084,2023-07-06 13:59:34,P028,Rahul Kulkarni,+91-9182238741,P052,Srinivas Singh,+91-9186762164,2370,WhatsApp,Jio,"Malad Malvani, Mumbai Suburban",Maharashtra,3,False
+CDR00085,2022-10-18 23:46:33,P046,Prakash Verma,+91-9590447099,P024,Dilip Shah,+91-9816202700,3529,WhatsApp,BSNL,"Hall Bazaar, Amritsar",Punjab,34,False
+CDR00086,2025-06-09 01:57:21,P057,Geeta Tiwari,+91-9859731689,P002,Mukesh Tiwari,+91-9638898923,2201,Voice,BSNL,"Kohefiza, Bhopal",Madhya Pradesh,30,False
+CDR00087,2022-12-10 01:44:59,P031,Deepak Shaikh,+91-7959512272,P037,Rekha Das,+91-8681690398,2457,VoIP,Vi,"Kurla West, Mumbai Suburban",Maharashtra,47,True
+CDR00088,2026-07-15 23:39:01,P017,Ajay Kumar,+91-8975569635,P043,Simran Verma,+91-8724039158,1184,Telegram,Jio,"Jayanagar 4th Block, Bengaluru Urban",Karnataka,9,False
+CDR00089,2023-06-11 00:47:07,P055,Vinod Sidhu,+91-9111868130,P031,Deepak Shaikh,+91-7959512272,2483,SMS,Airtel,"Aminabad, Lucknow",Uttar Pradesh,43,False
+CDR00090,2022-06-22 04:38:59,P052,Srinivas Singh,+91-9186762164,P022,Nitin Subramanian,+91-6350308572,3375,SMS,BSNL,"Aminabad, Lucknow",Uttar Pradesh,49,True
+CDR00091,2025-03-29 23:53:22,P050,Senthil Mishra,+91-9816172803,P052,Srinivas Singh,+91-9186762164,232,VoIP,Vi,"Kalyanpur, Kanpur Nagar",Uttar Pradesh,49,True
+CDR00092,2024-02-17 21:45:24,P004,Ajay Parmar,+91-8732969840,P042,Mary Qureshi,+91-8787201917,1953,WhatsApp,Airtel,"Varachha, Surat",Gujarat,34,True
+CDR00093,2025-10-21 10:33:43,P001,Pankaj Khanna,+91-8921668732,P020,Vijay Thakur,+91-9347393469,178,Voice,Vi,"Sadar Bazaar, Central Delhi",Delhi,28,True
+CDR00094,2025-09-02 18:25:29,P042,Mary Qureshi,+91-8787201917,P022,Nitin Subramanian,+91-6350308572,3176,VoIP,Airtel,"Gokulpuri, North East Delhi",Delhi,47,True
+CDR00095,2025-01-26 00:43:00,P050,Senthil Mishra,+91-9816172803,P028,Rahul Kulkarni,+91-9182238741,3416,Voice,Jio,"Swaroop Nagar, Kanpur Nagar",Uttar Pradesh,27,False
+CDR00096,2023-01-31 01:01:39,P007,Santosh Deshmukh,+91-9845351479,P037,Rekha Das,+91-8681690398,386,Voice,Airtel,"Aminabad, Lucknow",Uttar Pradesh,39,True
+CDR00097,2025-09-06 20:36:51,P046,Prakash Verma,+91-9590447099,P008,Ananya Pillai,+91-6358718453,766,Voice,Airtel,"Majestic, Bengaluru Urban",Karnataka,17,False
+CDR00098,2025-11-18 21:49:49,P043,Simran Verma,+91-8724039158,P041,Vinod Selvam,+91-9832269779,1334,WhatsApp,Airtel,"Chamanganj, Kanpur Nagar",Uttar Pradesh,50,False
+CDR00099,2026-07-23 08:11:28,P050,Senthil Mishra,+91-9816172803,P052,Srinivas Singh,+91-9186762164,294,Telegram,Airtel,"Aminabad, Lucknow",Uttar Pradesh,40,False
+CDR00100,2025-06-11 20:06:58,P042,Mary Qureshi,+91-8787201917,P010,Vinod Chaudhary,+91-9519046318,1818,VoIP,Vi,"Karol Bagh, Central Delhi",Delhi,7,False
+CDR00101,2022-11-01 20:40:00,P005,Nirmala Kulkarni,+91-8852235350,P048,Nirmala Choudhary,+91-8854559574,164,VoIP,BSNL,"Lalbaug, Mumbai City",Maharashtra,18,False
+CDR00102,2024-06-12 12:54:46,P022,Nitin Subramanian,+91-6350308572,P038,Prakash Shaikh,+91-7074119726,3208,Voice,Airtel,"Sultanwind, Amritsar",Punjab,1,False
+CDR00103,2023-11-14 21:19:25,P045,Anirban Sinha,+91-9884121929,P031,Deepak Shaikh,+91-7959512272,236,VoIP,Jio,"Fancy Bazaar, Kamrup Metropolitan",Assam,24,False
+CDR00104,2022-12-28 17:02:24,P022,Nitin Subramanian,+91-6350308572,P052,Srinivas Singh,+91-9186762164,2716,SMS,Vi,"Pondy Bazaar, Chennai",Tamil Nadu,45,False
+CDR00105,2023-01-24 04:02:12,P007,Santosh Deshmukh,+91-9845351479,P037,Rekha Das,+91-8681690398,113,VoIP,Airtel,"Itwari, Nagpur City",Maharashtra,32,False
+CDR00106,2022-03-17 10:03:21,P051,Jaswinder Krishnan,+91-9095618110,P044,Kishore Naidu,+91-9117275149,3236,VoIP,Jio,"R.S. Puram, Coimbatore",Tamil Nadu,26,False
+CDR00107,2023-04-23 02:02:47,P052,Srinivas Singh,+91-9186762164,P050,Senthil Mishra,+91-9816172803,589,Telegram,Jio,"Alambagh, Lucknow",Uttar Pradesh,31,True
+CDR00108,2026-08-08 03:29:39,P040,Vikram Shetty,+91-9414380847,P027,Santosh Mishra,+91-8638716269,709,Signal,Jio,"Hadapsar Gaon, Pune City",Maharashtra,7,False
+CDR00109,2023-11-22 23:43:25,P039,Jaswinder Saxena,+91-9486320155,P011,Hemant Dhillon,+91-9165177213,1338,Voice,Airtel,"Anna Nagar, Madurai",Tamil Nadu,21,True
+CDR00110,2022-09-05 08:09:48,P051,Jaswinder Krishnan,+91-9095618110,P005,Nirmala Kulkarni,+91-8852235350,1710,SMS,Vi,"R.S. Puram, Coimbatore",Tamil Nadu,36,False
+CDR00111,2026-05-12 05:01:56,P016,Anil Bansal,+91-8780993218,P039,Jaswinder Saxena,+91-9486320155,2004,Voice,Jio,"Bhajanpura, North East Delhi",Delhi,1,False
+CDR00112,2025-11-18 04:13:09,P006,Deepak Raghuvanshi,+91-9730514014,P045,Anirban Sinha,+91-9884121929,2630,WhatsApp,BSNL,"Palasia, Indore",Madhya Pradesh,27,False
+CDR00113,2022-06-30 20:52:50,P012,Mukesh Jha,+91-8923141087,P013,Jaswinder Deshmukh,+91-7984593961,1243,WhatsApp,BSNL,"Bodh Gaya Road, Gaya",Bihar,1,False
+CDR00114,2024-08-08 20:42:13,P013,Jaswinder Deshmukh,+91-7984593961,P058,Sanjay Shaikh,+91-9816788532,1142,Voice,Airtel,"Kothrud Depot, Pune City",Maharashtra,8,True
+CDR00115,2025-10-04 01:03:41,P044,Kishore Naidu,+91-9117275149,P060,Ganesh Jadhav,+91-8824636981,1501,WhatsApp,Airtel,"Banjara Hills, Hyderabad",Telangana,28,False
+CDR00116,2025-01-05 05:10:50,P040,Vikram Shetty,+91-9414380847,P050,Senthil Mishra,+91-9816172803,129,Telegram,Jio,"Koramangala 5th Block, Bengaluru Urban",Karnataka,5,True
+CDR00117,2023-04-17 03:20:14,P047,Jignesh Shaikh,+91-8982937948,P058,Sanjay Shaikh,+91-9816788532,411,SMS,BSNL,"Kurla West, Mumbai Suburban",Maharashtra,13,False
+CDR00118,2023-03-19 19:29:11,P015,Faizan Rao,+91-9052436584,P045,Anirban Sinha,+91-9884121929,1596,WhatsApp,Airtel,"Gachibowli, Rangareddy",Telangana,30,True
+CDR00119,2022-09-18 01:44:36,P041,Vinod Selvam,+91-9832269779,P023,Salman Shekhawat,+91-9187844239,254,WhatsApp,Airtel,"Egmore, Chennai",Tamil Nadu,8,True
+CDR00120,2023-08-28 19:10:50,P030,Jignesh Shekhawat,+91-8916990811,P027,Santosh Mishra,+91-8638716269,3264,VoIP,Airtel,"Maninagar, Ahmedabad",Gujarat,37,True
+CDR00121,2025-04-26 15:53:29,P055,Vinod Sidhu,+91-9111868130,P037,Rekha Das,+91-8681690398,1153,Voice,BSNL,"Ranjit Avenue, Amritsar",Punjab,48,True
+CDR00122,2025-03-20 00:26:02,P016,Anil Bansal,+91-8780993218,P022,Nitin Subramanian,+91-6350308572,174,Telegram,Jio,"Saket, South Delhi",Delhi,28,False
+CDR00123,2023-05-08 02:35:48,P031,Deepak Shaikh,+91-7959512272,P046,Prakash Verma,+91-9590447099,60,VoIP,BSNL,"Sadar Bazaar, Nagpur City",Maharashtra,14,False
+CDR00124,2025-12-11 14:54:36,P019,Meena Chouhan,+91-6354585178,P006,Deepak Raghuvanshi,+91-9730514014,3070,Signal,Jio,"Godowlia, Varanasi",Uttar Pradesh,30,False
+CDR00125,2025-12-12 20:00:55,P009,Bablu Malhotra,+91-6382383095,P027,Santosh Mishra,+91-8638716269,2579,Voice,BSNL,"Sanganer, Jaipur",Rajasthan,45,False
+CDR00126,2025-06-24 10:47:59,P003,Jignesh Choudhary,+91-9716150444,P019,Meena Chouhan,+91-6354585178,234,Signal,Vi,"Johari Bazaar, Jaipur",Rajasthan,4,False
+CDR00127,2025-12-14 02:35:45,P024,Dilip Shah,+91-9816202700,P003,Jignesh Choudhary,+91-9716150444,3178,SMS,Airtel,"Vatva GIDC, Ahmedabad",Gujarat,22,False
+CDR00128,2023-10-19 11:57:17,P008,Ananya Pillai,+91-6358718453,P045,Anirban Sinha,+91-9884121929,2072,VoIP,BSNL,"Pondy Bazaar, Chennai",Tamil Nadu,18,False
+CDR00129,2025-12-24 17:43:52,P024,Dilip Shah,+91-9816202700,P036,Harpreet Shekhawat,+91-9443742830,2192,WhatsApp,BSNL,"Satellite, Ahmedabad",Gujarat,40,False
+CDR00130,2024-07-26 02:05:25,P044,Kishore Naidu,+91-9117275149,P053,Harpreet Pandey,+91-7998473848,742,WhatsApp,Jio,"Banjara Hills, Hyderabad",Telangana,7,False
+CDR00131,2025-07-08 00:18:26,P008,Ananya Pillai,+91-6358718453,P036,Harpreet Shekhawat,+91-9443742830,2805,Signal,Airtel,"Tiljala, Kolkata",West Bengal,31,False
+CDR00132,2026-07-01 07:53:33,P029,Sushma Krishnan,+91-9796268397,P014,Sachin Singh,+91-7041568532,2650,WhatsApp,BSNL,"Sitabuldi Main Road, Nagpur City",Maharashtra,38,False
+CDR00133,2023-09-15 18:08:57,P042,Mary Qureshi,+91-8787201917,P043,Simran Verma,+91-8724039158,3243,WhatsApp,Airtel,"Sadar Bazaar, Central Delhi",Delhi,17,False
+CDR00134,2023-08-06 14:10:39,P024,Dilip Shah,+91-9816202700,P051,Jaswinder Krishnan,+91-9095618110,668,VoIP,Vi,"Kalupur, Ahmedabad",Gujarat,12,True
+CDR00135,2023-10-11 18:08:28,P054,Imran Desai,+91-8959104566,P027,Santosh Mishra,+91-8638716269,1076,WhatsApp,Airtel,"Paharganj, Central Delhi",Delhi,14,False
+CDR00136,2024-12-28 09:07:58,P003,Jignesh Choudhary,+91-9716150444,P024,Dilip Shah,+91-9816202700,112,Telegram,BSNL,"Kankarbagh, Patna",Bihar,50,False
+CDR00137,2025-08-18 22:18:30,P030,Jignesh Shekhawat,+91-8916990811,P021,Rakesh Reddy,+91-7952101056,1197,Signal,Airtel,"Kalamassery, Ernakulam",Kerala,37,True
+CDR00138,2022-03-24 04:43:35,P060,Ganesh Jadhav,+91-8824636981,P029,Sushma Krishnan,+91-9796268397,488,WhatsApp,Jio,"Lalbaug, Mumbai City",Maharashtra,26,True
+CDR00139,2024-12-14 07:50:59,P015,Faizan Rao,+91-9052436584,P006,Deepak Raghuvanshi,+91-9730514014,3152,WhatsApp,Airtel,"Koti, Hyderabad",Telangana,2,False
+CDR00140,2024-10-01 10:38:38,P055,Vinod Sidhu,+91-9111868130,P007,Santosh Deshmukh,+91-9845351479,2105,Voice,Vi,"Ranjit Avenue, Amritsar",Punjab,26,False
+CDR00141,2023-12-21 09:28:55,P055,Vinod Sidhu,+91-9111868130,P037,Rekha Das,+91-8681690398,2307,Voice,Airtel,"Lawrence Road, Amritsar",Punjab,47,True
+CDR00142,2026-02-01 13:08:53,P048,Nirmala Choudhary,+91-8854559574,P053,Harpreet Pandey,+91-7998473848,2415,Signal,Jio,"Sanganer, Jaipur",Rajasthan,10,False
+CDR00143,2026-03-29 12:05:00,P031,Deepak Shaikh,+91-7959512272,P035,Sunil Mishra,+91-9573900135,1687,VoIP,Vi,"Dadar TT, Mumbai City",Maharashtra,27,False
+CDR00144,2023-01-16 12:18:35,P030,Jignesh Shekhawat,+91-8916990811,P047,Jignesh Shaikh,+91-8982937948,2019,Voice,Vi,"Malviya Nagar, Jaipur",Rajasthan,38,False
+CDR00145,2023-06-22 09:40:53,P036,Harpreet Shekhawat,+91-9443742830,P011,Hemant Dhillon,+91-9165177213,2617,Telegram,Jio,"Crawford Market, Mumbai City",Maharashtra,42,True
+CDR00146,2022-09-02 08:31:04,P019,Meena Chouhan,+91-6354585178,P036,Harpreet Shekhawat,+91-9443742830,2463,VoIP,Vi,"New Market, Bhopal",Madhya Pradesh,38,False
+CDR00147,2024-11-15 23:36:01,P028,Rahul Kulkarni,+91-9182238741,P042,Mary Qureshi,+91-8787201917,3472,WhatsApp,Airtel,"Mohammed Ali Road, Mumbai City",Maharashtra,38,False
+CDR00148,2024-01-10 13:40:58,P021,Rakesh Reddy,+91-7952101056,P013,Jaswinder Deshmukh,+91-7984593961,1468,Voice,Vi,"Abids, Hyderabad",Telangana,19,False
+CDR00149,2025-05-11 05:34:20,P060,Ganesh Jadhav,+91-8824636981,P005,Nirmala Kulkarni,+91-8852235350,3583,WhatsApp,Vi,"Andheri East, Mumbai Suburban",Maharashtra,18,True
+CDR00150,2022-10-08 16:18:23,P045,Anirban Sinha,+91-9884121929,P036,Harpreet Shekhawat,+91-9443742830,3199,Telegram,BSNL,"Gandhi Maidan, Patna",Bihar,22,True
+CDR00151,2024-05-04 14:58:04,P011,Hemant Dhillon,+91-9165177213,P008,Ananya Pillai,+91-6358718453,487,SMS,Jio,"Chaura Bazaar, Ludhiana",Punjab,31,False
+CDR00152,2025-12-24 09:01:47,P045,Anirban Sinha,+91-9884121929,P035,Sunil Mishra,+91-9573900135,3346,Voice,Airtel,"Station Road, Gaya",Bihar,9,True
+CDR00153,2024-05-20 22:48:50,P010,Vinod Chaudhary,+91-9519046318,P033,Revathi Patel,+91-8630534124,467,Voice,Jio,"Koramangala 5th Block, Bengaluru Urban",Karnataka,50,False
+CDR00154,2024-08-18 03:58:16,P028,Rahul Kulkarni,+91-9182238741,P020,Vijay Thakur,+91-9347393469,187,Voice,Vi,"Palayam, Thiruvananthapuram",Kerala,43,False
+CDR00155,2025-10-05 11:01:05,P007,Santosh Deshmukh,+91-9845351479,P031,Deepak Shaikh,+91-7959512272,606,VoIP,Vi,"Bandra West, Mumbai Suburban",Maharashtra,38,False
+CDR00156,2022-07-22 18:48:00,P011,Hemant Dhillon,+91-9165177213,P051,Jaswinder Krishnan,+91-9095618110,2176,SMS,Airtel,"Chaura Bazaar, Ludhiana",Punjab,19,False
+CDR00157,2025-11-30 18:11:28,P049,Rakesh Qureshi,+91-9381621574,P026,Bhupinder Ansari,+91-9044788100,2768,Voice,Airtel,"Chandni Chowk, Central Delhi",Delhi,23,True
+CDR00158,2024-08-12 03:33:08,P028,Rahul Kulkarni,+91-9182238741,P022,Nitin Subramanian,+91-6350308572,2040,WhatsApp,Vi,"FC Road, Pune City",Maharashtra,36,True
+CDR00159,2025-11-08 14:14:35,P006,Deepak Raghuvanshi,+91-9730514014,P008,Ananya Pillai,+91-6358718453,1678,WhatsApp,BSNL,"Sarafa Bazaar, Indore",Madhya Pradesh,13,True
+CDR00160,2022-01-27 21:31:43,P058,Sanjay Shaikh,+91-9816788532,P031,Deepak Shaikh,+91-7959512272,440,Telegram,BSNL,"Kothrud Depot, Pune City",Maharashtra,34,True
+CDR00161,2022-05-13 11:12:21,P006,Deepak Raghuvanshi,+91-9730514014,P035,Sunil Mishra,+91-9573900135,830,Signal,BSNL,"Habibganj, Bhopal",Madhya Pradesh,8,False
+CDR00162,2023-12-31 15:42:38,P028,Rahul Kulkarni,+91-9182238741,P050,Senthil Mishra,+91-9816172803,1666,Telegram,Vi,"Dharavi, Mumbai Suburban",Maharashtra,10,True
+CDR00163,2022-07-23 23:03:53,P007,Santosh Deshmukh,+91-9845351479,P043,Simran Verma,+91-8724039158,289,Telegram,Jio,"Colaba Causeway, Mumbai City",Maharashtra,12,False
+CDR00164,2025-09-15 16:49:31,P044,Kishore Naidu,+91-9117275149,P048,Nirmala Choudhary,+91-8854559574,3257,Telegram,Airtel,"Charminar, Hyderabad",Telangana,19,True
+CDR00165,2024-05-31 03:24:28,P032,Rekha Rathore,+91-8650477742,P029,Sushma Krishnan,+91-9796268397,1298,Telegram,BSNL,"Johari Bazaar, Jaipur",Rajasthan,30,False
+CDR00166,2024-06-01 04:19:45,P012,Mukesh Jha,+91-8923141087,P023,Salman Shekhawat,+91-9187844239,1603,Telegram,Jio,"Danapur, Patna",Bihar,37,True
+CDR00167,2026-10-16 05:32:03,P043,Simran Verma,+91-8724039158,P055,Vinod Sidhu,+91-9111868130,1613,WhatsApp,BSNL,"Greater Noida West, Gautam Buddh Nagar",Uttar Pradesh,38,True
+CDR00168,2022-04-03 04:53:23,P040,Vikram Shetty,+91-9414380847,P048,Nirmala Choudhary,+91-8854559574,1438,VoIP,Jio,"Hebbal, Bengaluru Urban",Karnataka,49,True
+CDR00169,2023-12-21 01:42:15,P022,Nitin Subramanian,+91-6350308572,P052,Srinivas Singh,+91-9186762164,1024,SMS,Vi,"Gandhipuram, Coimbatore",Tamil Nadu,38,False
+CDR00170,2025-01-07 10:02:29,P045,Anirban Sinha,+91-9884121929,P015,Faizan Rao,+91-9052436584,2704,Telegram,BSNL,"Mylapore, Chennai",Tamil Nadu,18,False
+CDR00171,2025-03-18 03:51:31,P031,Deepak Shaikh,+91-7959512272,P037,Rekha Das,+91-8681690398,419,VoIP,Airtel,"Hadapsar Gaon, Pune City",Maharashtra,22,False
+CDR00172,2024-06-11 06:31:40,P052,Srinivas Singh,+91-9186762164,P028,Rahul Kulkarni,+91-9182238741,3480,Voice,Airtel,"Swaroop Nagar, Kanpur Nagar",Uttar Pradesh,19,False
+CDR00173,2025-04-27 10:17:04,P020,Vijay Thakur,+91-9347393469,P027,Santosh Mishra,+91-8638716269,2330,Signal,BSNL,"Gandhi Maidan, Patna",Bihar,28,False
+CDR00174,2025-09-20 17:20:12,P051,Jaswinder Krishnan,+91-9095618110,P044,Kishore Naidu,+91-9117275149,1707,Telegram,Vi,"Parrys Corner, Chennai",Tamil Nadu,40,False
+CDR00175,2023-03-13 21:52:47,P043,Simran Verma,+91-8724039158,P010,Vinod Chaudhary,+91-9519046318,1924,WhatsApp,BSNL,"Chamanganj, Kanpur Nagar",Uttar Pradesh,37,True
+CDR00176,2026-03-09 21:48:19,P004,Ajay Parmar,+91-8732969840,P037,Rekha Das,+91-8681690398,3467,Telegram,BSNL,"Maninagar, Ahmedabad",Gujarat,21,True
+CDR00177,2025-08-16 05:16:43,P059,Vijay Mondal,+91-8943642236,P034,Kavita Goud,+91-8760867083,2472,SMS,BSNL,"Burrabazar, Kolkata",West Bengal,16,False
+CDR00178,2025-08-17 01:12:10,P013,Jaswinder Deshmukh,+91-7984593961,P023,Salman Shekhawat,+91-9187844239,1127,SMS,Jio,"Swargate Bus Stand, Pune City",Maharashtra,17,True
+CDR00179,2026-05-22 00:03:55,P018,Sanjay Kumar,+91-8929876811,P029,Sushma Krishnan,+91-9796268397,353,WhatsApp,Vi,"Danapur, Patna",Bihar,5,True
+CDR00180,2026-09-16 23:53:08,P027,Santosh Mishra,+91-8638716269,P044,Kishore Naidu,+91-9117275149,976,Voice,Jio,"Chowk, Lucknow",Uttar Pradesh,34,True
+CDR00181,2025-05-13 03:49:51,P038,Prakash Shaikh,+91-7074119726,P034,Kavita Goud,+91-8760867083,1293,WhatsApp,BSNL,"Saket, South Delhi",Delhi,48,True
+CDR00182,2023-03-15 08:28:26,P060,Ganesh Jadhav,+91-8824636981,P028,Rahul Kulkarni,+91-9182238741,1051,Signal,Jio,"Jafrabad, North East Delhi",Delhi,32,False
+CDR00183,2023-05-20 08:56:50,P045,Anirban Sinha,+91-9884121929,P021,Rakesh Reddy,+91-7952101056,603,WhatsApp,BSNL,"Bodh Gaya Road, Gaya",Bihar,46,False
+CDR00184,2023-06-03 17:24:19,P020,Vijay Thakur,+91-9347393469,P022,Nitin Subramanian,+91-6350308572,2627,VoIP,Vi,"Kankarbagh, Patna",Bihar,44,False
+CDR00185,2024-03-15 08:19:05,P056,Vikram Verma,+91-9814994527,P016,Anil Bansal,+91-8780993218,3379,SMS,Vi,"Dashashwamedh Ghat, Varanasi",Uttar Pradesh,14,True
+CDR00186,2023-07-16 02:52:49,P011,Hemant Dhillon,+91-9165177213,P042,Mary Qureshi,+91-8787201917,2023,Telegram,BSNL,"Hall Bazaar, Amritsar",Punjab,22,True
+CDR00187,2023-12-22 13:38:46,P057,Geeta Tiwari,+91-9859731689,P007,Santosh Deshmukh,+91-9845351479,3341,Signal,Vi,"Vijay Nagar, Indore",Madhya Pradesh,30,True
+CDR00188,2024-03-31 06:40:19,P049,Rakesh Qureshi,+91-9381621574,P027,Santosh Mishra,+91-8638716269,1295,Signal,Jio,"Hauz Khas Village, South Delhi",Delhi,8,False
+CDR00189,2024-07-13 15:55:47,P034,Kavita Goud,+91-8760867083,P059,Vijay Mondal,+91-8943642236,556,WhatsApp,Airtel,"HITEC City, Rangareddy",Telangana,44,False
+CDR00190,2024-03-16 12:53:56,P021,Rakesh Reddy,+91-7952101056,P013,Jaswinder Deshmukh,+91-7984593961,2346,SMS,Jio,"Malviya Nagar, Jaipur",Rajasthan,2,True
+CDR00191,2023-06-21 22:54:10,P042,Mary Qureshi,+91-8787201917,P017,Ajay Kumar,+91-8975569635,213,Telegram,BSNL,"Karol Bagh, Central Delhi",Delhi,39,False
+CDR00192,2026-01-11 16:27:49,P006,Deepak Raghuvanshi,+91-9730514014,P012,Mukesh Jha,+91-8923141087,1868,VoIP,BSNL,"New Market, Bhopal",Madhya Pradesh,8,False
+CDR00193,2022-09-24 13:54:13,P014,Sachin Singh,+91-7041568532,P032,Rekha Rathore,+91-8650477742,2467,SMS,Vi,"Fort Kochi, Ernakulam",Kerala,47,True
+CDR00194,2025-06-19 14:58:15,P027,Santosh Mishra,+91-8638716269,P040,Vikram Shetty,+91-9414380847,1524,Signal,BSNL,"Gachibowli, Rangareddy",Telangana,6,False
+CDR00195,2025-12-21 13:47:38,P009,Bablu Malhotra,+91-6382383095,P046,Prakash Verma,+91-9590447099,1059,Voice,Jio,"Mehrauli, South Delhi",Delhi,36,False
+CDR00196,2026-07-02 19:45:47,P022,Nitin Subramanian,+91-6350308572,P032,Rekha Rathore,+91-8650477742,3327,Voice,Jio,"Goripalayam, Madurai",Tamil Nadu,17,False
+CDR00197,2025-02-19 01:37:11,P025,Rahul Reddy,+91-8972350830,P020,Vijay Thakur,+91-9347393469,1076,SMS,BSNL,"Gachibowli, Rangareddy",Telangana,22,True
+CDR00198,2022-04-01 04:31:55,P009,Bablu Malhotra,+91-6382383095,P057,Geeta Tiwari,+91-9859731689,3429,WhatsApp,Vi,"Chandni Chowk, Central Delhi",Delhi,28,False
+CDR00199,2023-10-09 23:31:48,P057,Geeta Tiwari,+91-9859731689,P009,Bablu Malhotra,+91-6382383095,629,Signal,BSNL,"Rajwada, Indore",Madhya Pradesh,4,False
+CDR00200,2024-06-12 03:57:59,P004,Ajay Parmar,+91-8732969840,P007,Santosh Deshmukh,+91-9845351479,2037,Voice,BSNL,"Satellite, Ahmedabad",Gujarat,23,True
+CDR00201,2023-12-17 02:13:55,P036,Harpreet Shekhawat,+91-9443742830,P035,Sunil Mishra,+91-9573900135,1173,SMS,Airtel,"Koramangala 5th Block, Bengaluru Urban",Karnataka,48,False
+CDR00202,2024-05-02 02:15:49,P018,Sanjay Kumar,+91-8929876811,P029,Sushma Krishnan,+91-9796268397,2050,VoIP,Jio,"Kankarbagh, Patna",Bihar,22,False
+CDR00203,2022-11-11 00:05:29,P044,Kishore Naidu,+91-9117275149,P008,Ananya Pillai,+91-6358718453,3412,VoIP,BSNL,"Abids, Hyderabad",Telangana,30,True
+CDR00204,2023-10-28 23:46:58,P018,Sanjay Kumar,+91-8929876811,P014,Sachin Singh,+91-7041568532,3274,Signal,Airtel,"Danapur, Patna",Bihar,14,True
+CDR00205,2025-05-18 12:05:25,P052,Srinivas Singh,+91-9186762164,P028,Rahul Kulkarni,+91-9182238741,1055,SMS,Airtel,"Alambagh, Lucknow",Uttar Pradesh,50,True
+CDR00206,2025-08-18 20:09:07,P006,Deepak Raghuvanshi,+91-9730514014,P015,Faizan Rao,+91-9052436584,1232,Telegram,BSNL,"Kohefiza, Bhopal",Madhya Pradesh,48,True
+CDR00207,2024-11-15 06:31:28,P020,Vijay Thakur,+91-9347393469,P040,Vikram Shetty,+91-9414380847,1599,Telegram,Vi,"Lajpat Nagar, South Delhi",Delhi,37,True
+CDR00208,2022-07-10 01:32:21,P006,Deepak Raghuvanshi,+91-9730514014,P024,Dilip Shah,+91-9816202700,1908,VoIP,Airtel,"Palasia, Indore",Madhya Pradesh,42,True
+CDR00209,2023-08-19 14:27:05,P010,Vinod Chaudhary,+91-9519046318,P035,Sunil Mishra,+91-9573900135,3293,Telegram,Vi,"Ring Road Textile Market, Surat",Gujarat,10,True
+CDR00210,2025-03-10 01:35:04,P044,Kishore Naidu,+91-9117275149,P055,Vinod Sidhu,+91-9111868130,194,Signal,Jio,"Sarafa Bazaar, Indore",Madhya Pradesh,33,False
+CDR00211,2022-02-03 03:47:42,P007,Santosh Deshmukh,+91-9845351479,P033,Revathi Patel,+91-8630534124,1905,SMS,Airtel,"Dadar TT, Mumbai City",Maharashtra,26,False
+CDR00212,2024-07-10 19:51:16,P027,Santosh Mishra,+91-8638716269,P020,Vijay Thakur,+91-9347393469,1408,SMS,Airtel,"Greater Noida West, Gautam Buddh Nagar",Uttar Pradesh,12,False
+CDR00213,2024-03-19 03:00:10,P039,Jaswinder Saxena,+91-9486320155,P006,Deepak Raghuvanshi,+91-9730514014,2696,Telegram,BSNL,"New Market, Bhopal",Madhya Pradesh,45,False
+CDR00214,2025-11-15 21:44:43,P043,Simran Verma,+91-8724039158,P039,Jaswinder Saxena,+91-9486320155,1627,WhatsApp,Jio,"Lanka, Varanasi",Uttar Pradesh,9,False
+CDR00215,2023-03-05 15:41:09,P013,Jaswinder Deshmukh,+91-7984593961,P012,Mukesh Jha,+91-8923141087,2671,SMS,BSNL,"Andheri East, Mumbai Suburban",Maharashtra,41,True
+CDR00216,2024-05-14 00:07:10,P035,Sunil Mishra,+91-9573900135,P015,Faizan Rao,+91-9052436584,634,VoIP,BSNL,"Chowk, Lucknow",Uttar Pradesh,32,False
+CDR00217,2025-03-12 12:03:21,P056,Vikram Verma,+91-9814994527,P029,Sushma Krishnan,+91-9796268397,42,Voice,BSNL,"Swaroop Nagar, Kanpur Nagar",Uttar Pradesh,27,True
+CDR00218,2024-11-17 18:46:39,P048,Nirmala Choudhary,+91-8854559574,P044,Kishore Naidu,+91-9117275149,2789,Telegram,Airtel,"Chowk Bazaar, Bhopal",Madhya Pradesh,46,False
+CDR00219,2024-08-27 03:31:39,P002,Mukesh Tiwari,+91-9638898923,P057,Geeta Tiwari,+91-9859731689,2656,WhatsApp,BSNL,"Palasia, Indore",Madhya Pradesh,45,False
+CDR00220,2024-11-05 07:37:58,P011,Hemant Dhillon,+91-9165177213,P015,Faizan Rao,+91-9052436584,2815,WhatsApp,BSNL,"Ranjit Avenue, Amritsar",Punjab,9,True
+CDR00221,2026-06-26 05:39:13,P047,Jignesh Shaikh,+91-8982937948,P023,Salman Shekhawat,+91-9187844239,1166,VoIP,Jio,"Swargate Bus Stand, Pune City",Maharashtra,43,False
+CDR00222,2023-09-14 07:13:35,P012,Mukesh Jha,+91-8923141087,P058,Sanjay Shaikh,+91-9816788532,202,Voice,Vi,"Civil Lines, Gaya",Bihar,17,False
+CDR00223,2024-05-31 03:39:14,P011,Hemant Dhillon,+91-9165177213,P039,Jaswinder Saxena,+91-9486320155,504,Signal,Airtel,"Sadar Bazaar, Nagpur City",Maharashtra,32,False
+CDR00224,2022-11-06 22:55:32,P022,Nitin Subramanian,+91-6350308572,P020,Vijay Thakur,+91-9347393469,2485,VoIP,Jio,"Anna Nagar, Madurai",Tamil Nadu,46,False
+CDR00225,2026-05-21 03:52:35,P029,Sushma Krishnan,+91-9796268397,P014,Sachin Singh,+91-7041568532,181,Signal,Jio,"Goripalayam, Madurai",Tamil Nadu,11,True
+CDR00226,2025-12-21 14:48:32,P056,Vikram Verma,+91-9814994527,P014,Sachin Singh,+91-7041568532,2051,VoIP,Jio,"Swaroop Nagar, Kanpur Nagar",Uttar Pradesh,10,True
+CDR00227,2026-04-25 00:15:53,P022,Nitin Subramanian,+91-6350308572,P008,Ananya Pillai,+91-6358718453,3324,Telegram,Vi,"Gandhipuram, Coimbatore",Tamil Nadu,19,False
+CDR00228,2026-03-23 16:26:50,P006,Deepak Raghuvanshi,+91-9730514014,P035,Sunil Mishra,+91-9573900135,944,SMS,BSNL,"Habibganj, Bhopal",Madhya Pradesh,27,True
+CDR00229,2024-06-25 04:49:00,P058,Sanjay Shaikh,+91-9816788532,P047,Jignesh Shaikh,+91-8982937948,2949,Signal,Jio,"FC Road, Pune City",Maharashtra,6,False
+CDR00230,2025-09-14 20:09:57,P026,Bhupinder Ansari,+91-9044788100,P011,Hemant Dhillon,+91-9165177213,2363,Voice,Vi,"Dashashwamedh Ghat, Varanasi",Uttar Pradesh,27,False
+CDR00231,2022-01-17 08:57:33,P044,Kishore Naidu,+91-9117275149,P048,Nirmala Choudhary,+91-8854559574,2510,SMS,BSNL,"HITEC City, Rangareddy",Telangana,29,True
+CDR00232,2023-09-10 02:02:34,P057,Geeta Tiwari,+91-9859731689,P009,Bablu Malhotra,+91-6382383095,1380,Telegram,Airtel,"Rajwada, Indore",Madhya Pradesh,34,True
+CDR00233,2022-02-17 00:56:50,P019,Meena Chouhan,+91-6354585178,P039,Jaswinder Saxena,+91-9486320155,2221,Signal,Vi,"Rajwada, Indore",Madhya Pradesh,16,True
+CDR00234,2025-07-08 16:22:07,P020,Vijay Thakur,+91-9347393469,P022,Nitin Subramanian,+91-6350308572,205,VoIP,Jio,"Civil Lines, Gaya",Bihar,29,False
+CDR00235,2023-09-05 09:42:50,P048,Nirmala Choudhary,+91-8854559574,P049,Rakesh Qureshi,+91-9381621574,3348,VoIP,Airtel,"MI Road, Jaipur",Rajasthan,46,False
+CDR00236,2024-07-19 03:09:45,P048,Nirmala Choudhary,+91-8854559574,P049,Rakesh Qureshi,+91-9381621574,1753,Telegram,Jio,"MI Road, Jaipur",Rajasthan,6,False
+CDR00237,2025-04-19 17:33:49,P057,Geeta Tiwari,+91-9859731689,P002,Mukesh Tiwari,+91-9638898923,1627,WhatsApp,BSNL,"Palasia, Indore",Madhya Pradesh,41,False
+CDR00238,2022-10-23 16:08:31,P029,Sushma Krishnan,+91-9796268397,P038,Prakash Shaikh,+91-7074119726,2922,Telegram,Airtel,"R.S. Puram, Coimbatore",Tamil Nadu,46,False
+CDR00239,2025-02-18 11:58:07,P034,Kavita Goud,+91-8760867083,P059,Vijay Mondal,+91-8943642236,2474,Telegram,Jio,"Banjara Hills, Hyderabad",Telangana,8,False
+CDR00240,2023-09-14 09:31:01,P019,Meena Chouhan,+91-6354585178,P008,Ananya Pillai,+91-6358718453,3250,SMS,Airtel,"Lanka, Varanasi",Uttar Pradesh,38,False
+CDR00241,2023-01-10 23:31:00,P060,Ganesh Jadhav,+91-8824636981,P058,Sanjay Shaikh,+91-9816788532,511,Signal,Vi,"Bandra West, Mumbai Suburban",Maharashtra,5,True
+CDR00242,2024-08-31 23:53:38,P027,Santosh Mishra,+91-8638716269,P048,Nirmala Choudhary,+91-8854559574,553,SMS,BSNL,"Cantt, Varanasi",Uttar Pradesh,49,False
+CDR00243,2023-04-22 12:21:34,P029,Sushma Krishnan,+91-9796268397,P032,Rekha Rathore,+91-8650477742,197,VoIP,BSNL,"Chowk Bazaar, Bhopal",Madhya Pradesh,48,False
+CDR00244,2025-08-11 17:05:12,P006,Deepak Raghuvanshi,+91-9730514014,P047,Jignesh Shaikh,+91-8982937948,2544,Signal,Jio,"Dashashwamedh Ghat, Varanasi",Uttar Pradesh,37,False
+CDR00245,2022-02-08 08:50:13,P049,Rakesh Qureshi,+91-9381621574,P005,Nirmala Kulkarni,+91-8852235350,1014,VoIP,BSNL,"Dispur, Kamrup Metropolitan",Assam,6,True
+CDR00246,2024-06-14 05:26:01,P039,Jaswinder Saxena,+91-9486320155,P045,Anirban Sinha,+91-9884121929,3531,Signal,Vi,"Kurla West, Mumbai Suburban",Maharashtra,25,False
+CDR00247,2023-06-08 02:09:19,P008,Ananya Pillai,+91-6358718453,P036,Harpreet Shekhawat,+91-9443742830,1678,VoIP,Airtel,"Whitefield, Bengaluru Urban",Karnataka,4,True
+CDR00248,2022-10-19 13:57:20,P021,Rakesh Reddy,+91-7952101056,P012,Mukesh Jha,+91-8923141087,1066,Telegram,Jio,"Gokulpuri, North East Delhi",Delhi,4,False
+CDR00249,2023-07-06 01:20:29,P049,Rakesh Qureshi,+91-9381621574,P040,Vikram Shetty,+91-9414380847,2275,Telegram,Jio,"Paharganj, Central Delhi",Delhi,31,False
+CDR00250,2025-02-08 18:43:06,P041,Vinod Selvam,+91-9832269779,P015,Faizan Rao,+91-9052436584,1018,Signal,Airtel,"Egmore, Chennai",Tamil Nadu,20,False
+CDR00251,2025-01-11 05:50:15,P029,Sushma Krishnan,+91-9796268397,P018,Sanjay Kumar,+91-8929876811,2211,Telegram,BSNL,"Egmore, Chennai",Tamil Nadu,3,False
+CDR00252,2022-05-04 15:17:38,P030,Jignesh Shekhawat,+91-8916990811,P055,Vinod Sidhu,+91-9111868130,1037,VoIP,BSNL,"Johari Bazaar, Jaipur",Rajasthan,23,True
+CDR00253,2023-09-08 02:25:44,P014,Sachin Singh,+91-7041568532,P032,Rekha Rathore,+91-8650477742,513,SMS,Vi,"Paltan Bazaar, Kamrup Metropolitan",Assam,28,False
+CDR00254,2026-03-22 22:28:17,P033,Revathi Patel,+91-8630534124,P021,Rakesh Reddy,+91-7952101056,1017,VoIP,Vi,"Udhna, Surat",Gujarat,22,False
+CDR00255,2022-01-09 00:43:11,P039,Jaswinder Saxena,+91-9486320155,P008,Ananya Pillai,+91-6358718453,1702,Signal,BSNL,"Chowk Bazaar, Bhopal",Madhya Pradesh,49,False
+CDR00256,2023-12-24 12:52:38,P006,Deepak Raghuvanshi,+91-9730514014,P008,Ananya Pillai,+91-6358718453,1476,Telegram,Airtel,"Vijay Nagar, Indore",Madhya Pradesh,50,True
+CDR00257,2022-01-20 07:47:01,P001,Pankaj Khanna,+91-8921668732,P009,Bablu Malhotra,+91-6382383095,3116,WhatsApp,Vi,"Mehrauli, South Delhi",Delhi,13,False
+CDR00258,2022-03-17 08:31:57,P040,Vikram Shetty,+91-9414380847,P044,Kishore Naidu,+91-9117275149,2893,VoIP,Airtel,"Kalamassery, Ernakulam",Kerala,1,False
+CDR00259,2022-12-16 17:12:42,P053,Harpreet Pandey,+91-7998473848,P041,Vinod Selvam,+91-9832269779,3036,Signal,Airtel,"Chamanganj, Kanpur Nagar",Uttar Pradesh,5,False
+CDR00260,2023-01-28 21:01:44,P048,Nirmala Choudhary,+91-8854559574,P044,Kishore Naidu,+91-9117275149,2786,Signal,Vi,"MI Road, Jaipur",Rajasthan,44,False
+CDR00261,2024-06-04 13:17:07,P030,Jignesh Shekhawat,+91-8916990811,P001,Pankaj Khanna,+91-8921668732,2795,Signal,BSNL,"MI Road, Jaipur",Rajasthan,32,False
+CDR00262,2023-10-10 00:25:12,P049,Rakesh Qureshi,+91-9381621574,P040,Vikram Shetty,+91-9414380847,1380,Voice,Jio,"Palasia, Indore",Madhya Pradesh,48,False
+CDR00263,2023-11-06 09:04:40,P045,Anirban Sinha,+91-9884121929,P006,Deepak Raghuvanshi,+91-9730514014,2571,Voice,Jio,"Kankarbagh, Patna",Bihar,31,False
+CDR00264,2024-08-27 07:21:53,P002,Mukesh Tiwari,+91-9638898923,P057,Geeta Tiwari,+91-9859731689,232,WhatsApp,Airtel,"New Market, Bhopal",Madhya Pradesh,5,True
+CDR00265,2022-05-05 01:24:20,P040,Vikram Shetty,+91-9414380847,P026,Bhupinder Ansari,+91-9044788100,3482,VoIP,Jio,"Koramangala 5th Block, Bengaluru Urban",Karnataka,9,False
+CDR00266,2022-07-28 21:03:35,P052,Srinivas Singh,+91-9186762164,P028,Rahul Kulkarni,+91-9182238741,223,WhatsApp,BSNL,"Sector 18 Noida, Gautam Buddh Nagar",Uttar Pradesh,26,False
+CDR00267,2025-06-24 19:06:21,P049,Rakesh Qureshi,+91-9381621574,P005,Nirmala Kulkarni,+91-8852235350,2676,VoIP,Jio,"Sadar Bazaar, Central Delhi",Delhi,30,False
+CDR00268,2025-03-19 04:40:32,P038,Prakash Shaikh,+91-7074119726,P014,Sachin Singh,+91-7041568532,1059,WhatsApp,BSNL,"Janpath, New Delhi",Delhi,31,True
+CDR00269,2023-10-01 18:27:32,P029,Sushma Krishnan,+91-9796268397,P018,Sanjay Kumar,+91-8929876811,2679,WhatsApp,Vi,"Pondy Bazaar, Chennai",Tamil Nadu,38,True
+CDR00270,2024-01-26 00:33:37,P050,Senthil Mishra,+91-9816172803,P052,Srinivas Singh,+91-9186762164,2703,VoIP,Airtel,"Lanka, Varanasi",Uttar Pradesh,4,False
+CDR00271,2023-12-06 06:12:40,P053,Harpreet Pandey,+91-7998473848,P055,Vinod Sidhu,+91-9111868130,834,Voice,Vi,"Chowk, Lucknow",Uttar Pradesh,13,True
+CDR00272,2025-03-05 10:39:19,P045,Anirban Sinha,+91-9884121929,P035,Sunil Mishra,+91-9573900135,1724,WhatsApp,Airtel,"Bodh Gaya Road, Gaya",Bihar,7,False
+CDR00273,2025-11-20 07:29:39,P051,Jaswinder Krishnan,+91-9095618110,P032,Rekha Rathore,+91-8650477742,883,SMS,BSNL,"Crawford Market, Mumbai City",Maharashtra,48,True
+CDR00274,2024-03-30 05:52:00,P053,Harpreet Pandey,+91-7998473848,P022,Nitin Subramanian,+91-6350308572,1496,Voice,Jio,"Godowlia, Varanasi",Uttar Pradesh,23,False
+CDR00275,2022-03-02 06:12:18,P008,Ananya Pillai,+91-6358718453,P036,Harpreet Shekhawat,+91-9443742830,723,SMS,Vi,"Ring Road Textile Market, Surat",Gujarat,47,False
+CDR00276,2022-07-27 00:53:43,P055,Vinod Sidhu,+91-9111868130,P010,Vinod Chaudhary,+91-9519046318,572,Telegram,Jio,"Egmore, Chennai",Tamil Nadu,22,True
+CDR00277,2025-12-27 02:07:09,P020,Vijay Thakur,+91-9347393469,P050,Senthil Mishra,+91-9816172803,545,SMS,Airtel,"Danapur, Patna",Bihar,35,False
+CDR00278,2026-04-12 19:37:12,P024,Dilip Shah,+91-9816202700,P035,Sunil Mishra,+91-9573900135,3509,Signal,Vi,"Navrangpura, Ahmedabad",Gujarat,10,False
+CDR00279,2023-03-05 23:05:50,P004,Ajay Parmar,+91-8732969840,P033,Revathi Patel,+91-8630534124,1937,VoIP,Jio,"Mahidharpura, Surat",Gujarat,11,False
+CDR00280,2023-01-02 10:45:23,P049,Rakesh Qureshi,+91-9381621574,P050,Senthil Mishra,+91-9816172803,2162,VoIP,BSNL,"Sadar Bazaar, Central Delhi",Delhi,46,True
+CDR00281,2023-03-26 06:28:55,P031,Deepak Shaikh,+91-7959512272,P042,Mary Qureshi,+91-8787201917,970,Telegram,Airtel,"Crawford Market, Mumbai City",Maharashtra,20,False
+CDR00282,2025-02-01 02:08:48,P025,Rahul Reddy,+91-8972350830,P038,Prakash Shaikh,+91-7074119726,354,WhatsApp,BSNL,"MI Road, Jaipur",Rajasthan,34,False
+CDR00283,2024-04-17 11:51:31,P038,Prakash Shaikh,+91-7074119726,P029,Sushma Krishnan,+91-9796268397,1308,WhatsApp,BSNL,"Sadar Bazaar, Nagpur City",Maharashtra,2,False
+CDR00284,2026-09-22 16:32:34,P015,Faizan Rao,+91-9052436584,P006,Deepak Raghuvanshi,+91-9730514014,2646,Voice,Vi,"Abids, Hyderabad",Telangana,15,False
+CDR00285,2023-09-12 23:52:49,P005,Nirmala Kulkarni,+91-8852235350,P044,Kishore Naidu,+91-9117275149,2809,WhatsApp,Airtel,"Hadapsar Gaon, Pune City",Maharashtra,46,True
+CDR00286,2026-04-27 09:18:52,P009,Bablu Malhotra,+91-6382383095,P050,Senthil Mishra,+91-9816172803,1429,Telegram,BSNL,"Seelampur, North East Delhi",Delhi,38,True
+CDR00287,2023-04-12 07:46:47,P001,Pankaj Khanna,+91-8921668732,P032,Rekha Rathore,+91-8650477742,869,Telegram,Airtel,"Mehrauli, South Delhi",Delhi,34,False
+CDR00288,2026-09-29 06:27:49,P036,Harpreet Shekhawat,+91-9443742830,P035,Sunil Mishra,+91-9573900135,2868,Telegram,Airtel,"MI Road, Jaipur",Rajasthan,29,False
+CDR00289,2026-02-20 00:31:51,P036,Harpreet Shekhawat,+91-9443742830,P008,Ananya Pillai,+91-6358718453,2708,WhatsApp,Vi,"MI Road, Jaipur",Rajasthan,15,False
+CDR00290,2026-05-28 01:59:08,P044,Kishore Naidu,+91-9117275149,P048,Nirmala Choudhary,+91-8854559574,639,WhatsApp,BSNL,"Koti, Hyderabad",Telangana,25,False
+CDR00291,2025-03-12 14:40:57,P026,Bhupinder Ansari,+91-9044788100,P051,Jaswinder Krishnan,+91-9095618110,1257,Voice,Airtel,"Gokulpuri, North East Delhi",Delhi,7,True
+CDR00292,2022-05-23 12:18:13,P012,Mukesh Jha,+91-8923141087,P058,Sanjay Shaikh,+91-9816788532,964,WhatsApp,Jio,"Kankarbagh, Patna",Bihar,30,False
+CDR00293,2022-11-18 03:08:34,P034,Kavita Goud,+91-8760867083,P059,Vijay Mondal,+91-8943642236,1723,Telegram,Jio,"HITEC City, Rangareddy",Telangana,25,True
+CDR00294,2024-06-04 22:42:30,P056,Vikram Verma,+91-9814994527,P014,Sachin Singh,+91-7041568532,660,Signal,Vi,"Burrabazar, Kolkata",West Bengal,38,False
+CDR00295,2022-10-20 14:04:52,P046,Prakash Verma,+91-9590447099,P044,Kishore Naidu,+91-9117275149,1645,Signal,Airtel,"Mall Road, Kanpur Nagar",Uttar Pradesh,34,False
+CDR00296,2023-08-13 20:56:58,P037,Rekha Das,+91-8681690398,P030,Jignesh Shekhawat,+91-8916990811,1879,WhatsApp,Vi,"Paltan Bazaar, Kamrup Metropolitan",Assam,26,True
+CDR00297,2024-02-27 21:11:44,P052,Srinivas Singh,+91-9186762164,P027,Santosh Mishra,+91-8638716269,2339,Voice,BSNL,"Danapur, Patna",Bihar,45,True
+CDR00298,2025-09-27 02:44:46,P016,Anil Bansal,+91-8780993218,P058,Sanjay Shaikh,+91-9816788532,2968,SMS,BSNL,"Gokulpuri, North East Delhi",Delhi,27,True
+CDR00299,2024-04-19 14:10:16,P036,Harpreet Shekhawat,+91-9443742830,P019,Meena Chouhan,+91-6354585178,859,Signal,Jio,"Gokulpuri, North East Delhi",Delhi,30,False
+CDR00300,2023-12-05 23:25:54,P041,Vinod Selvam,+91-9832269779,P046,Prakash Verma,+91-9590447099,806,Telegram,Jio,"Gandhipuram, Coimbatore",Tamil Nadu,1,False
+CDR00301,2024-08-02 02:05:35,P046,Prakash Verma,+91-9590447099,P060,Ganesh Jadhav,+91-8824636981,2701,SMS,BSNL,"Focal Point, Ludhiana",Punjab,9,False
+CDR00302,2023-08-26 03:34:47,P018,Sanjay Kumar,+91-8929876811,P011,Hemant Dhillon,+91-9165177213,1610,SMS,Jio,"Kankarbagh, Patna",Bihar,43,True
+CDR00303,2025-10-14 17:13:28,P044,Kishore Naidu,+91-9117275149,P054,Imran Desai,+91-8959104566,2863,Voice,Jio,"Charminar, Hyderabad",Telangana,25,True
+CDR00304,2023-05-27 11:58:15,P029,Sushma Krishnan,+91-9796268397,P014,Sachin Singh,+91-7041568532,829,Voice,Jio,"Malviya Nagar, Jaipur",Rajasthan,27,False
+CDR00305,2022-07-17 21:10:46,P001,Pankaj Khanna,+91-8921668732,P023,Salman Shekhawat,+91-9187844239,694,Voice,BSNL,"Janpath, New Delhi",Delhi,33,False
+CDR00306,2022-09-05 07:13:06,P021,Rakesh Reddy,+91-7952101056,P013,Jaswinder Deshmukh,+91-7984593961,1470,WhatsApp,Airtel,"HITEC City, Rangareddy",Telangana,1,False
+CDR00307,2025-08-24 19:23:02,P021,Rakesh Reddy,+91-7952101056,P013,Jaswinder Deshmukh,+91-7984593961,285,SMS,BSNL,"Abids, Hyderabad",Telangana,20,True
+CDR00308,2022-07-14 19:20:40,P032,Rekha Rathore,+91-8650477742,P007,Santosh Deshmukh,+91-9845351479,2862,Telegram,Airtel,"MI Road, Jaipur",Rajasthan,22,False
+CDR00309,2023-11-18 00:38:58,P049,Rakesh Qureshi,+91-9381621574,P021,Rakesh Reddy,+91-7952101056,2406,Telegram,BSNL,"Paharganj, Central Delhi",Delhi,33,True
+CDR00310,2023-04-30 23:27:48,P015,Faizan Rao,+91-9052436584,P003,Jignesh Choudhary,+91-9716150444,1007,Signal,Jio,"Chandni Chowk, Central Delhi",Delhi,4,False
+CDR00311,2026-01-25 19:28:47,P032,Rekha Rathore,+91-8650477742,P018,Sanjay Kumar,+91-8929876811,1356,SMS,Vi,"Malviya Nagar, Jaipur",Rajasthan,21,True
+CDR00312,2023-04-15 23:21:21,P049,Rakesh Qureshi,+91-9381621574,P051,Jaswinder Krishnan,+91-9095618110,1002,SMS,Jio,"Seelampur, North East Delhi",Delhi,43,True
+CDR00313,2023-01-11 14:40:00,P052,Srinivas Singh,+91-9186762164,P022,Nitin Subramanian,+91-6350308572,274,Telegram,Jio,"Lanka, Varanasi",Uttar Pradesh,13,False
+CDR00314,2024-11-05 02:27:46,P010,Vinod Chaudhary,+91-9519046318,P009,Bablu Malhotra,+91-6382383095,1923,WhatsApp,Airtel,"Bowbazar, Kolkata",West Bengal,47,False
+CDR00315,2023-02-17 08:55:50,P028,Rahul Kulkarni,+91-9182238741,P022,Nitin Subramanian,+91-6350308572,1980,Voice,Vi,"Itwari, Nagpur City",Maharashtra,26,False
+CDR00316,2026-08-06 15:01:48,P031,Deepak Shaikh,+91-7959512272,P055,Vinod Sidhu,+91-9111868130,1572,Telegram,Jio,"Kothrud Depot, Pune City",Maharashtra,49,True
+CDR00317,2024-02-19 14:19:29,P020,Vijay Thakur,+91-9347393469,P028,Rahul Kulkarni,+91-9182238741,1170,Telegram,BSNL,"Patna City, Patna",Bihar,5,False
+CDR00318,2022-01-27 16:46:46,P046,Prakash Verma,+91-9590447099,P031,Deepak Shaikh,+91-7959512272,1542,Telegram,BSNL,"R.S. Puram, Coimbatore",Tamil Nadu,27,True
+CDR00319,2022-03-21 03:24:59,P048,Nirmala Choudhary,+91-8854559574,P054,Imran Desai,+91-8959104566,2326,SMS,Airtel,"Sanganer, Jaipur",Rajasthan,49,False
+CDR00320,2025-11-11 11:44:03,P017,Ajay Kumar,+91-8975569635,P037,Rekha Das,+91-8681690398,2676,Telegram,BSNL,"Vijayanagar, Mysuru",Karnataka,48,False
+CDR00321,2023-06-20 19:29:43,P031,Deepak Shaikh,+91-7959512272,P037,Rekha Das,+91-8681690398,613,WhatsApp,Airtel,"Crawford Market, Mumbai City",Maharashtra,39,False
+CDR00322,2024-03-25 22:37:57,P043,Simran Verma,+91-8724039158,P001,Pankaj Khanna,+91-8921668732,339,Signal,Airtel,"Mehrauli, South Delhi",Delhi,28,False
+CDR00323,2026-02-12 13:48:56,P028,Rahul Kulkarni,+91-9182238741,P050,Senthil Mishra,+91-9816172803,2990,Voice,Jio,"Hadapsar Gaon, Pune City",Maharashtra,41,False
+CDR00324,2025-12-02 09:00:10,P052,Srinivas Singh,+91-9186762164,P022,Nitin Subramanian,+91-6350308572,3353,Telegram,Jio,"Esplanade, Kolkata",West Bengal,7,False
+CDR00325,2022-12-28 11:11:45,P045,Anirban Sinha,+91-9884121929,P024,Dilip Shah,+91-9816202700,560,SMS,BSNL,"Station Road, Gaya",Bihar,12,False
+CDR00326,2023-01-10 06:16:57,P008,Ananya Pillai,+91-6358718453,P015,Faizan Rao,+91-9052436584,3580,Telegram,BSNL,"Itwari, Nagpur City",Maharashtra,41,True
+CDR00327,2022-09-13 08:04:21,P007,Santosh Deshmukh,+91-9845351479,P012,Mukesh Jha,+91-8923141087,131,Signal,Airtel,"Mehrauli, South Delhi",Delhi,31,False
+CDR00328,2026-06-05 01:06:13,P049,Rakesh Qureshi,+91-9381621574,P005,Nirmala Kulkarni,+91-8852235350,2149,Voice,BSNL,"Dadar TT, Mumbai City",Maharashtra,39,False
+CDR00329,2023-11-21 11:43:56,P049,Rakesh Qureshi,+91-9381621574,P054,Imran Desai,+91-8959104566,1415,WhatsApp,Airtel,"Bhajanpura, North East Delhi",Delhi,24,True
+CDR00330,2026-07-10 03:00:29,P025,Rahul Reddy,+91-8972350830,P041,Vinod Selvam,+91-9832269779,3575,VoIP,BSNL,"Udhna, Surat",Gujarat,47,True
+CDR00331,2025-12-03 07:23:28,P060,Ganesh Jadhav,+91-8824636981,P009,Bablu Malhotra,+91-6382383095,2542,VoIP,BSNL,"Chandni Chowk, Central Delhi",Delhi,33,False
+CDR00332,2026-07-12 23:20:43,P013,Jaswinder Deshmukh,+91-7984593961,P023,Salman Shekhawat,+91-9187844239,1829,SMS,BSNL,"Ring Road Textile Market, Surat",Gujarat,26,True
+CDR00333,2025-12-03 03:46:24,P051,Jaswinder Krishnan,+91-9095618110,P049,Rakesh Qureshi,+91-9381621574,1213,Signal,Airtel,"Ukkadam, Coimbatore",Tamil Nadu,46,False
+CDR00334,2024-10-16 02:19:53,P034,Kavita Goud,+91-8760867083,P052,Srinivas Singh,+91-9186762164,2766,Signal,BSNL,"Banjara Hills, Hyderabad",Telangana,11,True
+CDR00335,2026-03-23 21:44:05,P008,Ananya Pillai,+91-6358718453,P039,Jaswinder Saxena,+91-9486320155,442,Telegram,Jio,"Bowbazar, Kolkata",West Bengal,11,True
+CDR00336,2025-10-05 03:42:08,P021,Rakesh Reddy,+91-7952101056,P051,Jaswinder Krishnan,+91-9095618110,2199,VoIP,BSNL,"Tolichowki, Hyderabad",Telangana,6,True
+CDR00337,2025-08-11 10:24:58,P022,Nitin Subramanian,+91-6350308572,P038,Prakash Shaikh,+91-7074119726,2948,VoIP,BSNL,"Meenakshi Amman Kovil St, Madurai",Tamil Nadu,42,True
+CDR00338,2022-08-25 09:05:07,P036,Harpreet Shekhawat,+91-9443742830,P028,Rahul Kulkarni,+91-9182238741,375,WhatsApp,Airtel,"MI Road, Jaipur",Rajasthan,48,True
+CDR00339,2022-05-07 18:34:12,P037,Rekha Das,+91-8681690398,P033,Revathi Patel,+91-8630534124,3479,Telegram,BSNL,"Fancy Bazaar, Kamrup Metropolitan",Assam,21,True
+CDR00340,2024-03-20 00:34:54,P052,Srinivas Singh,+91-9186762164,P022,Nitin Subramanian,+91-6350308572,1896,WhatsApp,Airtel,"Mall Road, Kanpur Nagar",Uttar Pradesh,19,True
+CDR00341,2025-05-11 10:19:32,P032,Rekha Rathore,+91-8650477742,P018,Sanjay Kumar,+91-8929876811,2830,Voice,Vi,"Johari Bazaar, Jaipur",Rajasthan,46,False
+CDR00342,2022-05-01 10:09:52,P041,Vinod Selvam,+91-9832269779,P055,Vinod Sidhu,+91-9111868130,2945,SMS,Airtel,"Chamanganj, Kanpur Nagar",Uttar Pradesh,45,True
+CDR00343,2024-03-13 09:52:42,P060,Ganesh Jadhav,+91-8824636981,P056,Vikram Verma,+91-9814994527,3485,SMS,Jio,"Itwari, Nagpur City",Maharashtra,36,False
+CDR00344,2024-12-17 23:18:18,P028,Rahul Kulkarni,+91-9182238741,P050,Senthil Mishra,+91-9816172803,2862,SMS,BSNL,"FC Road, Pune City",Maharashtra,7,False
+CDR00345,2025-09-02 05:36:08,P049,Rakesh Qureshi,+91-9381621574,P005,Nirmala Kulkarni,+91-8852235350,1819,VoIP,BSNL,"Bhajanpura, North East Delhi",Delhi,19,True
+CDR00346,2026-01-26 18:06:43,P014,Sachin Singh,+91-7041568532,P029,Sushma Krishnan,+91-9796268397,3227,SMS,BSNL,"Model Town, Ludhiana",Punjab,28,True
+CDR00347,2022-04-18 03:32:41,P011,Hemant Dhillon,+91-9165177213,P007,Santosh Deshmukh,+91-9845351479,1396,Signal,BSNL,"Ranjit Avenue, Amritsar",Punjab,10,True
+CDR00348,2025-11-09 19:11:41,P026,Bhupinder Ansari,+91-9044788100,P027,Santosh Mishra,+91-8638716269,3062,Telegram,Jio,"Lawrence Road, Amritsar",Punjab,50,False
+CDR00349,2022-01-24 03:07:05,P053,Harpreet Pandey,+91-7998473848,P042,Mary Qureshi,+91-8787201917,509,Telegram,Airtel,"Sector 62 Noida, Gautam Buddh Nagar",Uttar Pradesh,2,False
+CDR00350,2024-09-18 20:44:27,P037,Rekha Das,+91-8681690398,P007,Santosh Deshmukh,+91-9845351479,1232,Signal,Airtel,"Beltola, Kamrup Metropolitan",Assam,7,False
+CDR00351,2026-07-23 22:01:25,P046,Prakash Verma,+91-9590447099,P060,Ganesh Jadhav,+91-8824636981,2287,Signal,BSNL,"Chamanganj, Kanpur Nagar",Uttar Pradesh,5,False
+CDR00352,2023-01-06 19:44:11,P038,Prakash Shaikh,+91-7074119726,P014,Sachin Singh,+91-7041568532,31,Signal,BSNL,"Andheri East, Mumbai Suburban",Maharashtra,21,False
+CDR00353,2022-06-23 03:32:19,P009,Bablu Malhotra,+91-6382383095,P002,Mukesh Tiwari,+91-9638898923,1499,Signal,Airtel,"Charminar, Hyderabad",Telangana,28,True
+CDR00354,2025-09-11 17:28:08,P043,Simran Verma,+91-8724039158,P031,Deepak Shaikh,+91-7959512272,2373,Telegram,Vi,"Thampanoor, Thiruvananthapuram",Kerala,34,True
+CDR00355,2023-05-01 01:12:09,P023,Salman Shekhawat,+91-9187844239,P058,Sanjay Shaikh,+91-9816788532,1237,SMS,Airtel,"Seelampur, North East Delhi",Delhi,39,False
+CDR00356,2025-01-31 08:16:24,P038,Prakash Shaikh,+91-7074119726,P018,Sanjay Kumar,+91-8929876811,2671,SMS,BSNL,"FC Road, Pune City",Maharashtra,30,False
+CDR00357,2025-07-20 22:41:12,P017,Ajay Kumar,+91-8975569635,P010,Vinod Chaudhary,+91-9519046318,2936,WhatsApp,Airtel,"Jayanagar 4th Block, Bengaluru Urban",Karnataka,27,True
+CDR00358,2023-07-08 03:34:07,P021,Rakesh Reddy,+91-7952101056,P029,Sushma Krishnan,+91-9796268397,2811,Signal,BSNL,"Charminar, Hyderabad",Telangana,5,False
+CDR00359,2023-07-15 00:06:24,P006,Deepak Raghuvanshi,+91-9730514014,P024,Dilip Shah,+91-9816202700,920,Telegram,Jio,"Habibganj, Bhopal",Madhya Pradesh,8,False
+CDR00360,2024-12-19 11:44:36,P047,Jignesh Shaikh,+91-8982937948,P038,Prakash Shaikh,+91-7074119726,3554,WhatsApp,Vi,"Sitabuldi Main Road, Nagpur City",Maharashtra,39,False
+CDR00361,2024-09-03 18:08:16,P004,Ajay Parmar,+91-8732969840,P042,Mary Qureshi,+91-8787201917,48,VoIP,Airtel,"Beltola, Kamrup Metropolitan",Assam,43,False
+CDR00362,2025-12-19 07:43:38,P025,Rahul Reddy,+91-8972350830,P038,Prakash Shaikh,+91-7074119726,1723,VoIP,BSNL,"Abids, Hyderabad",Telangana,12,False
+CDR00363,2023-09-18 20:54:05,P023,Salman Shekhawat,+91-9187844239,P058,Sanjay Shaikh,+91-9816788532,1261,Telegram,Vi,"Rajwada, Indore",Madhya Pradesh,6,True
+CDR00364,2026-03-03 09:35:59,P005,Nirmala Kulkarni,+91-8852235350,P027,Santosh Mishra,+91-8638716269,2028,Voice,BSNL,"Sitabuldi Main Road, Nagpur City",Maharashtra,44,False
+CDR00365,2022-01-29 19:12:58,P047,Jignesh Shaikh,+91-8982937948,P023,Salman Shekhawat,+91-9187844239,3415,VoIP,Jio,"Lalbaug, Mumbai City",Maharashtra,46,False
+CDR00366,2024-07-07 05:43:59,P035,Sunil Mishra,+91-9573900135,P011,Hemant Dhillon,+91-9165177213,3138,Signal,Airtel,"Alambagh, Lucknow",Uttar Pradesh,12,False
+CDR00367,2024-02-16 05:23:07,P054,Imran Desai,+91-8959104566,P048,Nirmala Choudhary,+91-8854559574,1394,VoIP,Airtel,"Mahidharpura, Surat",Gujarat,35,True
+CDR00368,2022-01-05 23:40:36,P055,Vinod Sidhu,+91-9111868130,P031,Deepak Shaikh,+91-7959512272,1622,SMS,Vi,"Ranjit Avenue, Amritsar",Punjab,42,False
+CDR00369,2023-12-30 00:39:29,P058,Sanjay Shaikh,+91-9816788532,P023,Salman Shekhawat,+91-9187844239,1355,WhatsApp,Vi,"Sitabuldi Main Road, Nagpur City",Maharashtra,7,False
+CDR00370,2024-10-04 06:05:33,P057,Geeta Tiwari,+91-9859731689,P009,Bablu Malhotra,+91-6382383095,2116,SMS,BSNL,"Chowk Bazaar, Bhopal",Madhya Pradesh,8,True
+CDR00371,2024-08-21 12:23:19,P001,Pankaj Khanna,+91-8921668732,P011,Hemant Dhillon,+91-9165177213,1502,Telegram,Airtel,"Jafrabad, North East Delhi",Delhi,35,True
+CDR00372,2023-12-26 23:27:00,P007,Santosh Deshmukh,+91-9845351479,P044,Kishore Naidu,+91-9117275149,1481,VoIP,Airtel,"Bandra West, Mumbai Suburban",Maharashtra,8,False
+CDR00373,2025-09-26 06:30:42,P003,Jignesh Choudhary,+91-9716150444,P035,Sunil Mishra,+91-9573900135,1098,Voice,BSNL,"Malviya Nagar, Jaipur",Rajasthan,32,False
+CDR00374,2022-09-27 03:06:50,P052,Srinivas Singh,+91-9186762164,P022,Nitin Subramanian,+91-6350308572,96,SMS,Airtel,"Cantt, Varanasi",Uttar Pradesh,23,False
+CDR00375,2025-05-07 23:00:27,P050,Senthil Mishra,+91-9816172803,P020,Vijay Thakur,+91-9347393469,1976,WhatsApp,Vi,"Cantt, Varanasi",Uttar Pradesh,32,False
+CDR00376,2023-07-30 03:55:16,P028,Rahul Kulkarni,+91-9182238741,P022,Nitin Subramanian,+91-6350308572,2881,SMS,BSNL,"Bandra West, Mumbai Suburban",Maharashtra,13,False
+CDR00377,2023-01-22 18:40:40,P051,Jaswinder Krishnan,+91-9095618110,P045,Anirban Sinha,+91-9884121929,619,SMS,Jio,"Meenakshi Amman Kovil St, Madurai",Tamil Nadu,9,False
+CDR00378,2022-04-15 12:26:33,P018,Sanjay Kumar,+91-8929876811,P010,Vinod Chaudhary,+91-9519046318,1265,VoIP,Airtel,"Gandhi Maidan, Patna",Bihar,15,False
+CDR00379,2023-07-06 11:17:22,P031,Deepak Shaikh,+91-7959512272,P042,Mary Qureshi,+91-8787201917,2924,Telegram,Airtel,"Andheri East, Mumbai Suburban",Maharashtra,21,True
+CDR00380,2023-08-08 15:17:58,P012,Mukesh Jha,+91-8923141087,P013,Jaswinder Deshmukh,+91-7984593961,2494,Voice,BSNL,"Station Road, Gaya",Bihar,12,False
+CDR00381,2026-04-27 04:21:23,P032,Rekha Rathore,+91-8650477742,P029,Sushma Krishnan,+91-9796268397,3046,WhatsApp,Vi,"Dadar TT, Mumbai City",Maharashtra,16,True
+CDR00382,2022-03-26 18:58:56,P014,Sachin Singh,+91-7041568532,P018,Sanjay Kumar,+91-8929876811,2690,SMS,Airtel,"Chaura Bazaar, Ludhiana",Punjab,46,False
+CDR00383,2026-04-08 06:34:46,P007,Santosh Deshmukh,+91-9845351479,P055,Vinod Sidhu,+91-9111868130,639,Voice,Airtel,"Dharavi, Mumbai Suburban",Maharashtra,13,False
+CDR00384,2024-07-07 20:45:07,P046,Prakash Verma,+91-9590447099,P017,Ajay Kumar,+91-8975569635,1796,Voice,BSNL,"Lanka, Varanasi",Uttar Pradesh,27,False
+CDR00385,2022-04-04 18:03:50,P033,Revathi Patel,+91-8630534124,P010,Vinod Chaudhary,+91-9519046318,2851,SMS,BSNL,"Kalupur, Ahmedabad",Gujarat,32,True
+CDR00386,2026-03-18 16:24:35,P056,Vikram Verma,+91-9814994527,P033,Revathi Patel,+91-8630534124,3202,Telegram,BSNL,"Chamanganj, Kanpur Nagar",Uttar Pradesh,39,False
+CDR00387,2024-07-21 16:45:46,P012,Mukesh Jha,+91-8923141087,P058,Sanjay Shaikh,+91-9816788532,2160,WhatsApp,Vi,"Dadar TT, Mumbai City",Maharashtra,15,False
+CDR00388,2023-08-21 01:40:09,P018,Sanjay Kumar,+91-8929876811,P029,Sushma Krishnan,+91-9796268397,1147,SMS,Vi,"Dispur, Kamrup Metropolitan",Assam,4,True
+CDR00389,2025-08-21 11:40:38,P016,Anil Bansal,+91-8780993218,P054,Imran Desai,+91-8959104566,1521,WhatsApp,Jio,"Paharganj, Central Delhi",Delhi,46,True
+CDR00390,2022-04-28 20:52:00,P017,Ajay Kumar,+91-8975569635,P042,Mary Qureshi,+91-8787201917,3384,WhatsApp,Airtel,"Jayanagar 4th Block, Bengaluru Urban",Karnataka,47,True
+CDR00391,2025-09-01 08:55:40,P012,Mukesh Jha,+91-8923141087,P013,Jaswinder Deshmukh,+91-7984593961,2608,Signal,Airtel,"Danapur, Patna",Bihar,29,False
+CDR00392,2024-01-25 04:57:30,P018,Sanjay Kumar,+91-8929876811,P038,Prakash Shaikh,+91-7074119726,393,Telegram,Airtel,"Basirhat, North 24 Parganas",West Bengal,30,False
+CDR00393,2025-08-19 09:01:19,P056,Vikram Verma,+91-9814994527,P012,Mukesh Jha,+91-8923141087,677,SMS,BSNL,"Ranjit Avenue, Amritsar",Punjab,44,True
+CDR00394,2026-01-23 16:08:46,P005,Nirmala Kulkarni,+91-8852235350,P051,Jaswinder Krishnan,+91-9095618110,3083,Voice,Jio,"New Market, Bhopal",Madhya Pradesh,25,False
+CDR00395,2023-05-24 02:17:09,P008,Ananya Pillai,+91-6358718453,P050,Senthil Mishra,+91-9816172803,2579,Signal,Jio,"Pondy Bazaar, Chennai",Tamil Nadu,1,True
+CDR00396,2022-10-13 15:48:36,P007,Santosh Deshmukh,+91-9845351479,P037,Rekha Das,+91-8681690398,1829,SMS,Vi,"Crawford Market, Mumbai City",Maharashtra,22,False
+CDR00397,2022-02-13 01:06:34,P016,Anil Bansal,+91-8780993218,P004,Ajay Parmar,+91-8732969840,1225,Voice,BSNL,"Seelampur, North East Delhi",Delhi,10,False
+CDR00398,2023-08-11 07:58:56,P015,Faizan Rao,+91-9052436584,P035,Sunil Mishra,+91-9573900135,2813,Telegram,Jio,"LB Nagar, Rangareddy",Telangana,32,False
+CDR00399,2022-08-31 11:59:59,P008,Ananya Pillai,+91-6358718453,P019,Meena Chouhan,+91-6354585178,357,Voice,Airtel,"Anna Nagar, Madurai",Tamil Nadu,12,False
+CDR00400,2023-12-15 03:17:58,P022,Nitin Subramanian,+91-6350308572,P052,Srinivas Singh,+91-9186762164,2054,VoIP,Vi,"Swaroop Nagar, Kanpur Nagar",Uttar Pradesh,17,True

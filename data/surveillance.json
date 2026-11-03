@@ -1,0 +1,1978 @@
+[
+  {
+    "report_id": "SUR0001",
+    "date": "2023-02-26",
+    "location": "Chennai",
+    "state": "Tamil Nadu",
+    "neighborhood": "Washermanpet",
+    "subject_ids": [
+      "P022",
+      "P052"
+    ],
+    "subject_names": [
+      "Nitin Subramanian",
+      "Srinivas Singh"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": null,
+    "description": "Surveillance near Washermanpet (Egmore PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "ASI Bhupinder Selvam"
+  },
+  {
+    "report_id": "SUR0002",
+    "date": "2025-08-11",
+    "location": "Surat",
+    "state": "Gujarat",
+    "neighborhood": "Udhna",
+    "subject_ids": [
+      "P024",
+      "P037",
+      "P052"
+    ],
+    "subject_names": [
+      "Dilip Shah",
+      "Rekha Das",
+      "Srinivas Singh"
+    ],
+    "activity": "Vehicle Transfer",
+    "vehicle": null,
+    "description": "Surveillance near Udhna (Varachha PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "Inspector Manoj Chaudhary"
+  },
+  {
+    "report_id": "SUR0003",
+    "date": "2022-11-17",
+    "location": "Coimbatore",
+    "state": "Tamil Nadu",
+    "neighborhood": "Ukkadam",
+    "subject_ids": [
+      "P029",
+      "P038",
+      "P018"
+    ],
+    "subject_names": [
+      "Sushma Krishnan",
+      "Prakash Shaikh",
+      "Sanjay Kumar"
+    ],
+    "activity": "Recce",
+    "vehicle": null,
+    "description": "Surveillance near Ukkadam (R.S. Puram PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "ASI Venkatesh Pillai"
+  },
+  {
+    "report_id": "SUR0004",
+    "date": "2026-02-21",
+    "location": "Amritsar",
+    "state": "Punjab",
+    "neighborhood": "Ranjit Avenue",
+    "subject_ids": [
+      "P014",
+      "P029",
+      "P032"
+    ],
+    "subject_names": [
+      "Sachin Singh",
+      "Sushma Krishnan",
+      "Rekha Rathore"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": "PB65LW8694",
+    "description": "Surveillance near Ranjit Avenue (Sultanwind PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "Low",
+    "officer": "HC Vijay Singh"
+  },
+  {
+    "report_id": "SUR0005",
+    "date": "2023-11-10",
+    "location": "Bhopal",
+    "state": "Madhya Pradesh",
+    "neighborhood": "New Market",
+    "subject_ids": [
+      "P002"
+    ],
+    "subject_names": [
+      "Mukesh Tiwari"
+    ],
+    "activity": "Meeting",
+    "vehicle": null,
+    "description": "Surveillance near New Market (TT Nagar PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "ASI Lokesh Chouhan"
+  },
+  {
+    "report_id": "SUR0006",
+    "date": "2025-06-30",
+    "location": "Patna",
+    "state": "Bihar",
+    "neighborhood": "Patna City",
+    "subject_ids": [
+      "P020"
+    ],
+    "subject_names": [
+      "Vijay Thakur"
+    ],
+    "activity": "Vehicle Transfer",
+    "vehicle": "BR10SL2871",
+    "description": "Surveillance near Patna City (Gandhi Maidan PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "SI Manoj Thakur"
+  },
+  {
+    "report_id": "SUR0007",
+    "date": "2025-02-24",
+    "location": "Amritsar",
+    "state": "Punjab",
+    "neighborhood": "Ranjit Avenue",
+    "subject_ids": [
+      "P011",
+      "P010",
+      "P006"
+    ],
+    "subject_names": [
+      "Hemant Dhillon",
+      "Vinod Chaudhary",
+      "Deepak Raghuvanshi"
+    ],
+    "activity": "Communication",
+    "vehicle": "PB10ZH1858",
+    "description": "Surveillance near Ranjit Avenue (Ranjit Avenue PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "Inspector Manoj Sidhu"
+  },
+  {
+    "report_id": "SUR0008",
+    "date": "2024-02-16",
+    "location": "Central Delhi",
+    "state": "Delhi",
+    "neighborhood": "Sadar Bazaar",
+    "subject_ids": [
+      "P009"
+    ],
+    "subject_names": [
+      "Bablu Malhotra"
+    ],
+    "activity": "Consignment Movement",
+    "vehicle": null,
+    "description": "Surveillance near Sadar Bazaar (Paharganj PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Low",
+    "officer": "SI Venkatesh Malhotra"
+  },
+  {
+    "report_id": "SUR0009",
+    "date": "2022-06-24",
+    "location": "Pune City",
+    "state": "Maharashtra",
+    "neighborhood": "Hadapsar Gaon",
+    "subject_ids": [
+      "P058",
+      "P023"
+    ],
+    "subject_names": [
+      "Sanjay Shaikh",
+      "Salman Shekhawat"
+    ],
+    "activity": "Vehicle Transfer",
+    "vehicle": null,
+    "description": "Surveillance near Hadapsar Gaon (Kothrud PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "SI Shafiq Gaikwad"
+  },
+  {
+    "report_id": "SUR0010",
+    "date": "2025-07-22",
+    "location": "Madurai",
+    "state": "Tamil Nadu",
+    "neighborhood": "Meenakshi Amman Kovil St",
+    "subject_ids": [
+      "P008"
+    ],
+    "subject_names": [
+      "Ananya Pillai"
+    ],
+    "activity": "Vehicle Transfer",
+    "vehicle": null,
+    "description": "Surveillance near Meenakshi Amman Kovil St (Tallakulam PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Low",
+    "officer": "SI Biswajit Rajendran"
+  },
+  {
+    "report_id": "SUR0011",
+    "date": "2024-01-18",
+    "location": "Mysuru",
+    "state": "Karnataka",
+    "neighborhood": "Devaraja Market",
+    "subject_ids": [
+      "P040"
+    ],
+    "subject_names": [
+      "Vikram Shetty"
+    ],
+    "activity": "Vehicle Transfer",
+    "vehicle": null,
+    "description": "Surveillance near Devaraja Market (Devaraja PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "HC Naveen Rao"
+  },
+  {
+    "report_id": "SUR0012",
+    "date": "2023-06-23",
+    "location": "Ahmedabad",
+    "state": "Gujarat",
+    "neighborhood": "Kalupur",
+    "subject_ids": [
+      "P004"
+    ],
+    "subject_names": [
+      "Ajay Parmar"
+    ],
+    "activity": "Consignment Movement",
+    "vehicle": "GJ06BJ7506",
+    "description": "Surveillance near Kalupur (Satellite PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Low",
+    "officer": "SI Bablu Patel"
+  },
+  {
+    "report_id": "SUR0013",
+    "date": "2022-02-09",
+    "location": "Lucknow",
+    "state": "Uttar Pradesh",
+    "neighborhood": "Alambagh",
+    "subject_ids": [
+      "P056"
+    ],
+    "subject_names": [
+      "Vikram Verma"
+    ],
+    "activity": "Vehicle Transfer",
+    "vehicle": null,
+    "description": "Surveillance near Alambagh (Hazratganj PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "Inspector Jaswinder Yadav"
+  },
+  {
+    "report_id": "SUR0014",
+    "date": "2026-01-12",
+    "location": "Hyderabad",
+    "state": "Telangana",
+    "neighborhood": "Abids",
+    "subject_ids": [
+      "P044",
+      "P051",
+      "P049"
+    ],
+    "subject_names": [
+      "Kishore Naidu",
+      "Jaswinder Krishnan",
+      "Rakesh Qureshi"
+    ],
+    "activity": "Vehicle Transfer",
+    "vehicle": "TS10KJ1365",
+    "description": "Surveillance near Abids (Abids PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "HC Hemant Ali"
+  },
+  {
+    "report_id": "SUR0015",
+    "date": "2026-07-19",
+    "location": "Lucknow",
+    "state": "Uttar Pradesh",
+    "neighborhood": "Hazratganj",
+    "subject_ids": [
+      "P056",
+      "P033"
+    ],
+    "subject_names": [
+      "Vikram Verma",
+      "Revathi Patel"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": "UP14HC2902",
+    "description": "Surveillance near Hazratganj (Chowk PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "HC Ravi Pandey"
+  },
+  {
+    "report_id": "SUR0016",
+    "date": "2026-01-20",
+    "location": "Lucknow",
+    "state": "Uttar Pradesh",
+    "neighborhood": "Hazratganj",
+    "subject_ids": [
+      "P056"
+    ],
+    "subject_names": [
+      "Vikram Verma"
+    ],
+    "activity": "Meeting",
+    "vehicle": "UP32WC2560",
+    "description": "Surveillance near Hazratganj (Aminabad PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "SI Vijay Mishra"
+  },
+  {
+    "report_id": "SUR0017",
+    "date": "2026-01-10",
+    "location": "Chennai",
+    "state": "Tamil Nadu",
+    "neighborhood": "Mylapore",
+    "subject_ids": [
+      "P008",
+      "P011",
+      "P006"
+    ],
+    "subject_names": [
+      "Ananya Pillai",
+      "Hemant Dhillon",
+      "Deepak Raghuvanshi"
+    ],
+    "activity": "Meeting",
+    "vehicle": null,
+    "description": "Surveillance near Mylapore (Egmore PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "ASI Rajesh Selvam"
+  },
+  {
+    "report_id": "SUR0018",
+    "date": "2024-12-20",
+    "location": "Rangareddy",
+    "state": "Telangana",
+    "neighborhood": "LB Nagar",
+    "subject_ids": [
+      "P025"
+    ],
+    "subject_names": [
+      "Rahul Reddy"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": "TS08ZS9920",
+    "description": "Surveillance near LB Nagar (Gachibowli PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "Inspector Imran Ali"
+  },
+  {
+    "report_id": "SUR0019",
+    "date": "2023-02-09",
+    "location": "Mumbai City",
+    "state": "Maharashtra",
+    "neighborhood": "Crawford Market",
+    "subject_ids": [
+      "P038",
+      "P004",
+      "P014"
+    ],
+    "subject_names": [
+      "Prakash Shaikh",
+      "Ajay Parmar",
+      "Sachin Singh"
+    ],
+    "activity": "Vehicle Transfer",
+    "vehicle": null,
+    "description": "Surveillance near Crawford Market (Dongri PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "HC Joseph Jadhav"
+  },
+  {
+    "report_id": "SUR0020",
+    "date": "2022-11-29",
+    "location": "Gaya",
+    "state": "Bihar",
+    "neighborhood": "Station Road",
+    "subject_ids": [
+      "P012"
+    ],
+    "subject_names": [
+      "Mukesh Jha"
+    ],
+    "activity": "Consignment Movement",
+    "vehicle": "BR06WP8302",
+    "description": "Surveillance near Station Road (Kotwali PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "ASI Senthil Yadav"
+  },
+  {
+    "report_id": "SUR0021",
+    "date": "2026-03-25",
+    "location": "Jaipur",
+    "state": "Rajasthan",
+    "neighborhood": "MI Road",
+    "subject_ids": [
+      "P048",
+      "P005"
+    ],
+    "subject_names": [
+      "Nirmala Choudhary",
+      "Nirmala Kulkarni"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": null,
+    "description": "Surveillance near MI Road (Vidhyadhar Nagar PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Low",
+    "officer": "Inspector Harpreet Choudhary"
+  },
+  {
+    "report_id": "SUR0022",
+    "date": "2025-10-12",
+    "location": "Mysuru",
+    "state": "Karnataka",
+    "neighborhood": "Devaraja Market",
+    "subject_ids": [
+      "P040"
+    ],
+    "subject_names": [
+      "Vikram Shetty"
+    ],
+    "activity": "Recce",
+    "vehicle": "KA51YC5217",
+    "description": "Surveillance near Devaraja Market (Devaraja PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "HC Pappu Rao"
+  },
+  {
+    "report_id": "SUR0023",
+    "date": "2023-09-07",
+    "location": "Surat",
+    "state": "Gujarat",
+    "neighborhood": "Mahidharpura",
+    "subject_ids": [
+      "P054",
+      "P048",
+      "P051"
+    ],
+    "subject_names": [
+      "Imran Desai",
+      "Nirmala Choudhary",
+      "Jaswinder Krishnan"
+    ],
+    "activity": "Consignment Movement",
+    "vehicle": null,
+    "description": "Surveillance near Mahidharpura (Athwalines PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "ASI Mohit Shah"
+  },
+  {
+    "report_id": "SUR0024",
+    "date": "2024-08-10",
+    "location": "Gaya",
+    "state": "Bihar",
+    "neighborhood": "Civil Lines",
+    "subject_ids": [
+      "P045"
+    ],
+    "subject_names": [
+      "Anirban Sinha"
+    ],
+    "activity": "Consignment Movement",
+    "vehicle": null,
+    "description": "Surveillance near Civil Lines (Kotwali PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "Inspector Srinivas Jha"
+  },
+  {
+    "report_id": "SUR0025",
+    "date": "2022-02-20",
+    "location": "Surat",
+    "state": "Gujarat",
+    "neighborhood": "Mahidharpura",
+    "subject_ids": [
+      "P010"
+    ],
+    "subject_names": [
+      "Vinod Chaudhary"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": "GJ18XE6545",
+    "description": "Surveillance near Mahidharpura (Varachha PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "HC Senthil Solanki"
+  },
+  {
+    "report_id": "SUR0026",
+    "date": "2024-03-12",
+    "location": "Mumbai City",
+    "state": "Maharashtra",
+    "neighborhood": "Colaba Causeway",
+    "subject_ids": [
+      "P058",
+      "P047",
+      "P014"
+    ],
+    "subject_names": [
+      "Sanjay Shaikh",
+      "Jignesh Shaikh",
+      "Sachin Singh"
+    ],
+    "activity": "Consignment Movement",
+    "vehicle": null,
+    "description": "Surveillance near Colaba Causeway (Byculla PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "ASI Amit Shaikh"
+  },
+  {
+    "report_id": "SUR0027",
+    "date": "2023-01-25",
+    "location": "Amritsar",
+    "state": "Punjab",
+    "neighborhood": "Ranjit Avenue",
+    "subject_ids": [
+      "P011",
+      "P039"
+    ],
+    "subject_names": [
+      "Hemant Dhillon",
+      "Jaswinder Saxena"
+    ],
+    "activity": "Consignment Movement",
+    "vehicle": "PB65PP2619",
+    "description": "Surveillance near Ranjit Avenue (Kotwali PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "HC Harpreet Singh"
+  },
+  {
+    "report_id": "SUR0028",
+    "date": "2023-08-16",
+    "location": "Rangareddy",
+    "state": "Telangana",
+    "neighborhood": "LB Nagar",
+    "subject_ids": [
+      "P021"
+    ],
+    "subject_names": [
+      "Rakesh Reddy"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": null,
+    "description": "Surveillance near LB Nagar (LB Nagar PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "ASI Murugan Naidu"
+  },
+  {
+    "report_id": "SUR0029",
+    "date": "2025-07-15",
+    "location": "Patna",
+    "state": "Bihar",
+    "neighborhood": "Patna City",
+    "subject_ids": [
+      "P020"
+    ],
+    "subject_names": [
+      "Vijay Thakur"
+    ],
+    "activity": "Vehicle Transfer",
+    "vehicle": "BR10WD9816",
+    "description": "Surveillance near Patna City (Kankarbagh PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "SI Arif Paswan"
+  },
+  {
+    "report_id": "SUR0030",
+    "date": "2022-05-10",
+    "location": "Varanasi",
+    "state": "Uttar Pradesh",
+    "neighborhood": "Cantt",
+    "subject_ids": [
+      "P052",
+      "P022"
+    ],
+    "subject_names": [
+      "Srinivas Singh",
+      "Nitin Subramanian"
+    ],
+    "activity": "Meeting",
+    "vehicle": "UP65HG5345",
+    "description": "Surveillance near Cantt (Lanka PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "SI Anirban Verma"
+  },
+  {
+    "report_id": "SUR0031",
+    "date": "2023-10-22",
+    "location": "Jaipur",
+    "state": "Rajasthan",
+    "neighborhood": "Malviya Nagar",
+    "subject_ids": [
+      "P036",
+      "P019"
+    ],
+    "subject_names": [
+      "Harpreet Shekhawat",
+      "Meena Chouhan"
+    ],
+    "activity": "Recce",
+    "vehicle": "RJ19ZV9985",
+    "description": "Surveillance near Malviya Nagar (Sanganer PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "ASI Naveen Jain"
+  },
+  {
+    "report_id": "SUR0032",
+    "date": "2025-07-01",
+    "location": "Indore",
+    "state": "Madhya Pradesh",
+    "neighborhood": "Rajwada",
+    "subject_ids": [
+      "P057",
+      "P002"
+    ],
+    "subject_names": [
+      "Geeta Tiwari",
+      "Mukesh Tiwari"
+    ],
+    "activity": "Vehicle Transfer",
+    "vehicle": null,
+    "description": "Surveillance near Rajwada (Sanyogitaganj PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "Inspector Biswajit Khan"
+  },
+  {
+    "report_id": "SUR0033",
+    "date": "2024-01-16",
+    "location": "Mumbai Suburban",
+    "state": "Maharashtra",
+    "neighborhood": "Bandra West",
+    "subject_ids": [
+      "P005",
+      "P044"
+    ],
+    "subject_names": [
+      "Nirmala Kulkarni",
+      "Kishore Naidu"
+    ],
+    "activity": "Meeting",
+    "vehicle": "MH02XA5362",
+    "description": "Surveillance near Bandra West (Dharavi PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "Inspector Bablu Shinde"
+  },
+  {
+    "report_id": "SUR0034",
+    "date": "2025-05-08",
+    "location": "Hyderabad",
+    "state": "Telangana",
+    "neighborhood": "Banjara Hills",
+    "subject_ids": [
+      "P021",
+      "P023"
+    ],
+    "subject_names": [
+      "Rakesh Reddy",
+      "Salman Shekhawat"
+    ],
+    "activity": "Communication",
+    "vehicle": null,
+    "description": "Surveillance near Banjara Hills (Golconda PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Low",
+    "officer": "ASI Ganesh Yadav"
+  },
+  {
+    "report_id": "SUR0035",
+    "date": "2025-12-05",
+    "location": "Central Delhi",
+    "state": "Delhi",
+    "neighborhood": "Sadar Bazaar",
+    "subject_ids": [
+      "P016",
+      "P052"
+    ],
+    "subject_names": [
+      "Anil Bansal",
+      "Srinivas Singh"
+    ],
+    "activity": "Meeting",
+    "vehicle": null,
+    "description": "Surveillance near Sadar Bazaar (Paharganj PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "ASI Imran Sharma"
+  },
+  {
+    "report_id": "SUR0036",
+    "date": "2024-01-25",
+    "location": "Central Delhi",
+    "state": "Delhi",
+    "neighborhood": "Paharganj",
+    "subject_ids": [
+      "P042"
+    ],
+    "subject_names": [
+      "Mary Qureshi"
+    ],
+    "activity": "Consignment Movement",
+    "vehicle": "DL03RX6260",
+    "description": "Surveillance near Paharganj (Karol Bagh PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "Inspector Dilip Qureshi"
+  },
+  {
+    "report_id": "SUR0037",
+    "date": "2023-07-20",
+    "location": "Mumbai Suburban",
+    "state": "Maharashtra",
+    "neighborhood": "Dharavi",
+    "subject_ids": [
+      "P060"
+    ],
+    "subject_names": [
+      "Ganesh Jadhav"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": "MH12KF9609",
+    "description": "Surveillance near Dharavi (Dharavi PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "SI Amit Jadhav"
+  },
+  {
+    "report_id": "SUR0038",
+    "date": "2024-01-26",
+    "location": "Varanasi",
+    "state": "Uttar Pradesh",
+    "neighborhood": "Cantt",
+    "subject_ids": [
+      "P056"
+    ],
+    "subject_names": [
+      "Vikram Verma"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": null,
+    "description": "Surveillance near Cantt (Kotwali PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "HC Anirban Ansari"
+  },
+  {
+    "report_id": "SUR0039",
+    "date": "2025-03-04",
+    "location": "Hyderabad",
+    "state": "Telangana",
+    "neighborhood": "Abids",
+    "subject_ids": [
+      "P021",
+      "P023",
+      "P012"
+    ],
+    "subject_names": [
+      "Rakesh Reddy",
+      "Salman Shekhawat",
+      "Mukesh Jha"
+    ],
+    "activity": "Communication",
+    "vehicle": null,
+    "description": "Surveillance near Abids (Chikkadpally PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "Low",
+    "officer": "ASI Naveen Reddy"
+  },
+  {
+    "report_id": "SUR0040",
+    "date": "2024-12-06",
+    "location": "South Delhi",
+    "state": "Delhi",
+    "neighborhood": "Hauz Khas Village",
+    "subject_ids": [
+      "P009"
+    ],
+    "subject_names": [
+      "Bablu Malhotra"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": "DL03CM5851",
+    "description": "Surveillance near Hauz Khas Village (Hauz Khas PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "HC Murugan Qureshi"
+  },
+  {
+    "report_id": "SUR0041",
+    "date": "2022-05-08",
+    "location": "Jodhpur",
+    "state": "Rajasthan",
+    "neighborhood": "Ghanta Ghar",
+    "subject_ids": [
+      "P032"
+    ],
+    "subject_names": [
+      "Rekha Rathore"
+    ],
+    "activity": "Communication",
+    "vehicle": "RJ27ZE8981",
+    "description": "Surveillance near Ghanta Ghar (Ratanada PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Low",
+    "officer": "ASI Venkatesh Meena"
+  },
+  {
+    "report_id": "SUR0042",
+    "date": "2023-05-06",
+    "location": "North East Delhi",
+    "state": "Delhi",
+    "neighborhood": "Jafrabad",
+    "subject_ids": [
+      "P049"
+    ],
+    "subject_names": [
+      "Rakesh Qureshi"
+    ],
+    "activity": "Meeting",
+    "vehicle": "DL09AB3695",
+    "description": "Surveillance near Jafrabad (Seelampur PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "HC Suresh Khanna"
+  },
+  {
+    "report_id": "SUR0043",
+    "date": "2023-10-17",
+    "location": "Ahmedabad",
+    "state": "Gujarat",
+    "neighborhood": "Vatva GIDC",
+    "subject_ids": [
+      "P010"
+    ],
+    "subject_names": [
+      "Vinod Chaudhary"
+    ],
+    "activity": "Vehicle Transfer",
+    "vehicle": null,
+    "description": "Surveillance near Vatva GIDC (Kalupur PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "HC Sachin Solanki"
+  },
+  {
+    "report_id": "SUR0044",
+    "date": "2023-02-14",
+    "location": "Jaipur",
+    "state": "Rajasthan",
+    "neighborhood": "Johari Bazaar",
+    "subject_ids": [
+      "P032",
+      "P038"
+    ],
+    "subject_names": [
+      "Rekha Rathore",
+      "Prakash Shaikh"
+    ],
+    "activity": "Communication",
+    "vehicle": null,
+    "description": "Surveillance near Johari Bazaar (Malviya Nagar PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "Inspector Rahul Gurjar"
+  },
+  {
+    "report_id": "SUR0045",
+    "date": "2022-11-08",
+    "location": "Indore",
+    "state": "Madhya Pradesh",
+    "neighborhood": "Rajwada",
+    "subject_ids": [
+      "P006",
+      "P024",
+      "P011"
+    ],
+    "subject_names": [
+      "Deepak Raghuvanshi",
+      "Dilip Shah",
+      "Hemant Dhillon"
+    ],
+    "activity": "Communication",
+    "vehicle": null,
+    "description": "Surveillance near Rajwada (Sanyogitaganj PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "SI Bablu Dubey"
+  },
+  {
+    "report_id": "SUR0046",
+    "date": "2023-06-09",
+    "location": "Hyderabad",
+    "state": "Telangana",
+    "neighborhood": "Koti",
+    "subject_ids": [
+      "P025",
+      "P011",
+      "P055"
+    ],
+    "subject_names": [
+      "Rahul Reddy",
+      "Hemant Dhillon",
+      "Vinod Sidhu"
+    ],
+    "activity": "Vehicle Transfer",
+    "vehicle": null,
+    "description": "Surveillance near Koti (Golconda PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "Inspector Sanjay Ali"
+  },
+  {
+    "report_id": "SUR0047",
+    "date": "2022-08-19",
+    "location": "Chennai",
+    "state": "Tamil Nadu",
+    "neighborhood": "Pondy Bazaar",
+    "subject_ids": [
+      "P029",
+      "P038"
+    ],
+    "subject_names": [
+      "Sushma Krishnan",
+      "Prakash Shaikh"
+    ],
+    "activity": "Meeting",
+    "vehicle": null,
+    "description": "Surveillance near Pondy Bazaar (Royapettah PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Low",
+    "officer": "ASI Sunil Krishnan"
+  },
+  {
+    "report_id": "SUR0048",
+    "date": "2024-08-07",
+    "location": "Jaipur",
+    "state": "Rajasthan",
+    "neighborhood": "MI Road",
+    "subject_ids": [
+      "P048",
+      "P040",
+      "P054"
+    ],
+    "subject_names": [
+      "Nirmala Choudhary",
+      "Vikram Shetty",
+      "Imran Desai"
+    ],
+    "activity": "Meeting",
+    "vehicle": "RJ19VJ3553",
+    "description": "Surveillance near MI Road (Vidhyadhar Nagar PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "Low",
+    "officer": "SI Rahul Meena"
+  },
+  {
+    "report_id": "SUR0049",
+    "date": "2024-10-20",
+    "location": "Varanasi",
+    "state": "Uttar Pradesh",
+    "neighborhood": "Godowlia",
+    "subject_ids": [
+      "P056"
+    ],
+    "subject_names": [
+      "Vikram Verma"
+    ],
+    "activity": "Recce",
+    "vehicle": null,
+    "description": "Surveillance near Godowlia (Kotwali PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "Inspector Karthik Tiwari"
+  },
+  {
+    "report_id": "SUR0050",
+    "date": "2025-06-16",
+    "location": "Mumbai Suburban",
+    "state": "Maharashtra",
+    "neighborhood": "Andheri East",
+    "subject_ids": [
+      "P031",
+      "P033"
+    ],
+    "subject_names": [
+      "Deepak Shaikh",
+      "Revathi Patel"
+    ],
+    "activity": "Meeting",
+    "vehicle": "MH01WB0184",
+    "description": "Surveillance near Andheri East (Kurla PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "HC Salman Shaikh"
+  },
+  {
+    "report_id": "SUR0051",
+    "date": "2024-01-24",
+    "location": "Mumbai City",
+    "state": "Maharashtra",
+    "neighborhood": "Colaba Causeway",
+    "subject_ids": [
+      "P047",
+      "P013"
+    ],
+    "subject_names": [
+      "Jignesh Shaikh",
+      "Jaswinder Deshmukh"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": "MH12MC4588",
+    "description": "Surveillance near Colaba Causeway (Byculla PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "HC Salman Patil"
+  },
+  {
+    "report_id": "SUR0052",
+    "date": "2024-07-24",
+    "location": "Patna",
+    "state": "Bihar",
+    "neighborhood": "Patna City",
+    "subject_ids": [
+      "P020"
+    ],
+    "subject_names": [
+      "Vijay Thakur"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": null,
+    "description": "Surveillance near Patna City (Kankarbagh PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Low",
+    "officer": "Inspector Ramesh Kumar"
+  },
+  {
+    "report_id": "SUR0053",
+    "date": "2025-04-02",
+    "location": "Bhopal",
+    "state": "Madhya Pradesh",
+    "neighborhood": "Chowk Bazaar",
+    "subject_ids": [
+      "P006"
+    ],
+    "subject_names": [
+      "Deepak Raghuvanshi"
+    ],
+    "activity": "Recce",
+    "vehicle": "MP07AZ9228",
+    "description": "Surveillance near Chowk Bazaar (Hanumanganj PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "HC Bhupinder Khan"
+  },
+  {
+    "report_id": "SUR0054",
+    "date": "2025-10-20",
+    "location": "Ludhiana",
+    "state": "Punjab",
+    "neighborhood": "Focal Point",
+    "subject_ids": [
+      "P014"
+    ],
+    "subject_names": [
+      "Sachin Singh"
+    ],
+    "activity": "Consignment Movement",
+    "vehicle": null,
+    "description": "Surveillance near Focal Point (Sarabha Nagar PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "Inspector Jignesh Dhillon"
+  },
+  {
+    "report_id": "SUR0055",
+    "date": "2026-04-26",
+    "location": "Patna",
+    "state": "Bihar",
+    "neighborhood": "Gandhi Maidan",
+    "subject_ids": [
+      "P012",
+      "P038"
+    ],
+    "subject_names": [
+      "Mukesh Jha",
+      "Prakash Shaikh"
+    ],
+    "activity": "Vehicle Transfer",
+    "vehicle": "BR10GJ0400",
+    "description": "Surveillance near Gandhi Maidan (Kotwali PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "ASI Pankaj Paswan"
+  },
+  {
+    "report_id": "SUR0056",
+    "date": "2025-12-10",
+    "location": "Gautam Buddh Nagar",
+    "state": "Uttar Pradesh",
+    "neighborhood": "Greater Noida West",
+    "subject_ids": [
+      "P052",
+      "P020"
+    ],
+    "subject_names": [
+      "Srinivas Singh",
+      "Vijay Thakur"
+    ],
+    "activity": "Consignment Movement",
+    "vehicle": "UP80BK5965",
+    "description": "Surveillance near Greater Noida West (Sector 20 Noida PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Low",
+    "officer": "SI Srinivas Verma"
+  },
+  {
+    "report_id": "SUR0057",
+    "date": "2026-02-14",
+    "location": "Ludhiana",
+    "state": "Punjab",
+    "neighborhood": "Model Town",
+    "subject_ids": [
+      "P011",
+      "P024",
+      "P039"
+    ],
+    "subject_names": [
+      "Hemant Dhillon",
+      "Dilip Shah",
+      "Jaswinder Saxena"
+    ],
+    "activity": "Recce",
+    "vehicle": null,
+    "description": "Surveillance near Model Town (Model Town PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "Inspector Gurpreet Dhillon"
+  },
+  {
+    "report_id": "SUR0058",
+    "date": "2024-06-03",
+    "location": "Gautam Buddh Nagar",
+    "state": "Uttar Pradesh",
+    "neighborhood": "Sector 62 Noida",
+    "subject_ids": [
+      "P050",
+      "P052"
+    ],
+    "subject_names": [
+      "Senthil Mishra",
+      "Srinivas Singh"
+    ],
+    "activity": "Meeting",
+    "vehicle": "UP16LM7645",
+    "description": "Surveillance near Sector 62 Noida (Sector 20 Noida PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "ASI Suresh Shukla"
+  },
+  {
+    "report_id": "SUR0059",
+    "date": "2026-10-10",
+    "location": "North 24 Parganas",
+    "state": "West Bengal",
+    "neighborhood": "Dum Dum",
+    "subject_ids": [
+      "P059",
+      "P041",
+      "P034"
+    ],
+    "subject_names": [
+      "Vijay Mondal",
+      "Vinod Selvam",
+      "Kavita Goud"
+    ],
+    "activity": "Communication",
+    "vehicle": null,
+    "description": "Surveillance near Dum Dum (Basirhat PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "Inspector Arjun Mukherjee"
+  },
+  {
+    "report_id": "SUR0060",
+    "date": "2023-06-06",
+    "location": "Bhopal",
+    "state": "Madhya Pradesh",
+    "neighborhood": "New Market",
+    "subject_ids": [
+      "P057",
+      "P002"
+    ],
+    "subject_names": [
+      "Geeta Tiwari",
+      "Mukesh Tiwari"
+    ],
+    "activity": "Communication",
+    "vehicle": "MP09HY5487",
+    "description": "Surveillance near New Market (Habibganj PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "HC Faizan Khan"
+  },
+  {
+    "report_id": "SUR0061",
+    "date": "2025-03-27",
+    "location": "Jodhpur",
+    "state": "Rajasthan",
+    "neighborhood": "Sardarpura",
+    "subject_ids": [
+      "P036",
+      "P034"
+    ],
+    "subject_names": [
+      "Harpreet Shekhawat",
+      "Kavita Goud"
+    ],
+    "activity": "Vehicle Transfer",
+    "vehicle": "RJ14HX7433",
+    "description": "Surveillance near Sardarpura (Ratanada PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "ASI Thomas Rathore"
+  },
+  {
+    "report_id": "SUR0062",
+    "date": "2026-03-28",
+    "location": "Varanasi",
+    "state": "Uttar Pradesh",
+    "neighborhood": "Godowlia",
+    "subject_ids": [
+      "P052",
+      "P022",
+      "P045"
+    ],
+    "subject_names": [
+      "Srinivas Singh",
+      "Nitin Subramanian",
+      "Anirban Sinha"
+    ],
+    "activity": "Consignment Movement",
+    "vehicle": null,
+    "description": "Surveillance near Godowlia (Dashashwamedh PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "HC Bhavesh Pandey"
+  },
+  {
+    "report_id": "SUR0063",
+    "date": "2022-09-05",
+    "location": "Bhopal",
+    "state": "Madhya Pradesh",
+    "neighborhood": "Kohefiza",
+    "subject_ids": [
+      "P002"
+    ],
+    "subject_names": [
+      "Mukesh Tiwari"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": null,
+    "description": "Surveillance near Kohefiza (TT Nagar PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Low",
+    "officer": "HC Rakesh Saxena"
+  },
+  {
+    "report_id": "SUR0064",
+    "date": "2022-01-22",
+    "location": "Pune City",
+    "state": "Maharashtra",
+    "neighborhood": "Swargate Bus Stand",
+    "subject_ids": [
+      "P028"
+    ],
+    "subject_names": [
+      "Rahul Kulkarni"
+    ],
+    "activity": "Recce",
+    "vehicle": "MH03NM3416",
+    "description": "Surveillance near Swargate Bus Stand (Kothrud PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "Inspector Subhash Shaikh"
+  },
+  {
+    "report_id": "SUR0065",
+    "date": "2022-03-05",
+    "location": "Mysuru",
+    "state": "Karnataka",
+    "neighborhood": "Lashkar Mohalla",
+    "subject_ids": [
+      "P040",
+      "P054",
+      "P032"
+    ],
+    "subject_names": [
+      "Vikram Shetty",
+      "Imran Desai",
+      "Rekha Rathore"
+    ],
+    "activity": "Vehicle Transfer",
+    "vehicle": "KA05UD6926",
+    "description": "Surveillance near Lashkar Mohalla (Lashkar PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "Inspector Amit Hegde"
+  },
+  {
+    "report_id": "SUR0066",
+    "date": "2023-06-01",
+    "location": "Jaipur",
+    "state": "Rajasthan",
+    "neighborhood": "Sanganer",
+    "subject_ids": [
+      "P032"
+    ],
+    "subject_names": [
+      "Rekha Rathore"
+    ],
+    "activity": "Communication",
+    "vehicle": null,
+    "description": "Surveillance near Sanganer (Malviya Nagar PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "HC Srinivas Shekhawat"
+  },
+  {
+    "report_id": "SUR0067",
+    "date": "2026-10-17",
+    "location": "Madurai",
+    "state": "Tamil Nadu",
+    "neighborhood": "Goripalayam",
+    "subject_ids": [
+      "P022",
+      "P052",
+      "P050"
+    ],
+    "subject_names": [
+      "Nitin Subramanian",
+      "Srinivas Singh",
+      "Senthil Mishra"
+    ],
+    "activity": "Consignment Movement",
+    "vehicle": null,
+    "description": "Surveillance near Goripalayam (Thilagar Thidal PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "HC Rahul Selvam"
+  },
+  {
+    "report_id": "SUR0068",
+    "date": "2024-06-29",
+    "location": "Mumbai City",
+    "state": "Maharashtra",
+    "neighborhood": "Dadar TT",
+    "subject_ids": [
+      "P038"
+    ],
+    "subject_names": [
+      "Prakash Shaikh"
+    ],
+    "activity": "Meeting",
+    "vehicle": "MH12JZ9258",
+    "description": "Surveillance near Dadar TT (Colaba PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "HC Rakesh Jadhav"
+  },
+  {
+    "report_id": "SUR0069",
+    "date": "2024-09-22",
+    "location": "Hyderabad",
+    "state": "Telangana",
+    "neighborhood": "Tolichowki",
+    "subject_ids": [
+      "P034",
+      "P059",
+      "P005"
+    ],
+    "subject_names": [
+      "Kavita Goud",
+      "Vijay Mondal",
+      "Nirmala Kulkarni"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": null,
+    "description": "Surveillance near Tolichowki (Golconda PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "Inspector Suresh Goud"
+  },
+  {
+    "report_id": "SUR0070",
+    "date": "2025-04-10",
+    "location": "Rangareddy",
+    "state": "Telangana",
+    "neighborhood": "LB Nagar",
+    "subject_ids": [
+      "P015"
+    ],
+    "subject_names": [
+      "Faizan Rao"
+    ],
+    "activity": "Consignment Movement",
+    "vehicle": null,
+    "description": "Surveillance near LB Nagar (Gachibowli PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "HC Manoj Rao"
+  },
+  {
+    "report_id": "SUR0071",
+    "date": "2024-10-13",
+    "location": "New Delhi",
+    "state": "Delhi",
+    "neighborhood": "Mandi House",
+    "subject_ids": [
+      "P009"
+    ],
+    "subject_names": [
+      "Bablu Malhotra"
+    ],
+    "activity": "Vehicle Transfer",
+    "vehicle": "DL08AZ8605",
+    "description": "Surveillance near Mandi House (Connaught Place PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "HC Murugan Bansal"
+  },
+  {
+    "report_id": "SUR0072",
+    "date": "2025-12-08",
+    "location": "Gaya",
+    "state": "Bihar",
+    "neighborhood": "Bodh Gaya Road",
+    "subject_ids": [
+      "P018"
+    ],
+    "subject_names": [
+      "Sanjay Kumar"
+    ],
+    "activity": "Consignment Movement",
+    "vehicle": null,
+    "description": "Surveillance near Bodh Gaya Road (Civil Lines PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Low",
+    "officer": "SI Nitin Yadav"
+  },
+  {
+    "report_id": "SUR0073",
+    "date": "2022-02-19",
+    "location": "Lucknow",
+    "state": "Uttar Pradesh",
+    "neighborhood": "Hazratganj",
+    "subject_ids": [
+      "P026",
+      "P044"
+    ],
+    "subject_names": [
+      "Bhupinder Ansari",
+      "Kishore Naidu"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": null,
+    "description": "Surveillance near Hazratganj (Alambagh PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "ASI Venkatesh Shukla"
+  },
+  {
+    "report_id": "SUR0074",
+    "date": "2023-02-19",
+    "location": "Bengaluru Urban",
+    "state": "Karnataka",
+    "neighborhood": "Whitefield",
+    "subject_ids": [
+      "P017",
+      "P010",
+      "P007"
+    ],
+    "subject_names": [
+      "Ajay Kumar",
+      "Vinod Chaudhary",
+      "Santosh Deshmukh"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": null,
+    "description": "Surveillance near Whitefield (Koramangala PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "HC Gurpreet Gowda"
+  },
+  {
+    "report_id": "SUR0075",
+    "date": "2023-10-17",
+    "location": "Chennai",
+    "state": "Tamil Nadu",
+    "neighborhood": "Pondy Bazaar",
+    "subject_ids": [
+      "P051",
+      "P044",
+      "P005"
+    ],
+    "subject_names": [
+      "Jaswinder Krishnan",
+      "Kishore Naidu",
+      "Nirmala Kulkarni"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": "TN02GY7779",
+    "description": "Surveillance near Pondy Bazaar (Washermanpet PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "Inspector Ajay Pillai"
+  },
+  {
+    "report_id": "SUR0076",
+    "date": "2025-09-28",
+    "location": "Hyderabad",
+    "state": "Telangana",
+    "neighborhood": "Banjara Hills",
+    "subject_ids": [
+      "P025"
+    ],
+    "subject_names": [
+      "Rahul Reddy"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": "TS08CS8412",
+    "description": "Surveillance near Banjara Hills (Banjara Hills PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Low",
+    "officer": "ASI Pankaj Ali"
+  },
+  {
+    "report_id": "SUR0077",
+    "date": "2022-05-03",
+    "location": "Ahmedabad",
+    "state": "Gujarat",
+    "neighborhood": "Satellite",
+    "subject_ids": [
+      "P054",
+      "P040"
+    ],
+    "subject_names": [
+      "Imran Desai",
+      "Vikram Shetty"
+    ],
+    "activity": "Consignment Movement",
+    "vehicle": null,
+    "description": "Surveillance near Satellite (Vatva PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "Inspector Amit Shah"
+  },
+  {
+    "report_id": "SUR0078",
+    "date": "2025-06-13",
+    "location": "Mumbai City",
+    "state": "Maharashtra",
+    "neighborhood": "Lalbaug",
+    "subject_ids": [
+      "P047",
+      "P026",
+      "P013"
+    ],
+    "subject_names": [
+      "Jignesh Shaikh",
+      "Bhupinder Ansari",
+      "Jaswinder Deshmukh"
+    ],
+    "activity": "Communication",
+    "vehicle": "MH31XF3955",
+    "description": "Surveillance near Lalbaug (Dadar PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "Inspector Kishore Jadhav"
+  },
+  {
+    "report_id": "SUR0079",
+    "date": "2026-05-02",
+    "location": "Bhopal",
+    "state": "Madhya Pradesh",
+    "neighborhood": "Habibganj",
+    "subject_ids": [
+      "P039",
+      "P006"
+    ],
+    "subject_names": [
+      "Jaswinder Saxena",
+      "Deepak Raghuvanshi"
+    ],
+    "activity": "Recce",
+    "vehicle": null,
+    "description": "Surveillance near Habibganj (Habibganj PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "Inspector Mukesh Saxena"
+  },
+  {
+    "report_id": "SUR0080",
+    "date": "2024-11-13",
+    "location": "Varanasi",
+    "state": "Uttar Pradesh",
+    "neighborhood": "Cantt",
+    "subject_ids": [
+      "P052",
+      "P022",
+      "P028"
+    ],
+    "subject_names": [
+      "Srinivas Singh",
+      "Nitin Subramanian",
+      "Rahul Kulkarni"
+    ],
+    "activity": "Consignment Movement",
+    "vehicle": null,
+    "description": "Surveillance near Cantt (Dashashwamedh PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "Inspector Arif Mishra"
+  },
+  {
+    "report_id": "SUR0081",
+    "date": "2023-07-10",
+    "location": "Jaipur",
+    "state": "Rajasthan",
+    "neighborhood": "MI Road",
+    "subject_ids": [
+      "P032",
+      "P036",
+      "P014"
+    ],
+    "subject_names": [
+      "Rekha Rathore",
+      "Harpreet Shekhawat",
+      "Sachin Singh"
+    ],
+    "activity": "Vehicle Transfer",
+    "vehicle": "RJ19LL3923",
+    "description": "Surveillance near MI Road (Vidhyadhar Nagar PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "SI Salman Meena"
+  },
+  {
+    "report_id": "SUR0082",
+    "date": "2024-05-18",
+    "location": "Hyderabad",
+    "state": "Telangana",
+    "neighborhood": "Koti",
+    "subject_ids": [
+      "P034",
+      "P059"
+    ],
+    "subject_names": [
+      "Kavita Goud",
+      "Vijay Mondal"
+    ],
+    "activity": "Recce",
+    "vehicle": "TS11EZ4834",
+    "description": "Surveillance near Koti (Chikkadpally PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "SI Thomas Yadav"
+  },
+  {
+    "report_id": "SUR0083",
+    "date": "2025-07-31",
+    "location": "Hyderabad",
+    "state": "Telangana",
+    "neighborhood": "Abids",
+    "subject_ids": [
+      "P021",
+      "P047",
+      "P013"
+    ],
+    "subject_names": [
+      "Rakesh Reddy",
+      "Jignesh Shaikh",
+      "Jaswinder Deshmukh"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": null,
+    "description": "Surveillance near Abids (Banjara Hills PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "ASI Rohit Naidu"
+  },
+  {
+    "report_id": "SUR0084",
+    "date": "2025-03-09",
+    "location": "Central Delhi",
+    "state": "Delhi",
+    "neighborhood": "Chandni Chowk",
+    "subject_ids": [
+      "P016",
+      "P027"
+    ],
+    "subject_names": [
+      "Anil Bansal",
+      "Santosh Mishra"
+    ],
+    "activity": "Consignment Movement",
+    "vehicle": "DL03JW1181",
+    "description": "Surveillance near Chandni Chowk (Kamla Market PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "HC Jaswinder Arora"
+  },
+  {
+    "report_id": "SUR0085",
+    "date": "2024-10-10",
+    "location": "Mumbai Suburban",
+    "state": "Maharashtra",
+    "neighborhood": "Kurla West",
+    "subject_ids": [
+      "P005"
+    ],
+    "subject_names": [
+      "Nirmala Kulkarni"
+    ],
+    "activity": "Consignment Movement",
+    "vehicle": "MH14VJ8375",
+    "description": "Surveillance near Kurla West (Bandra PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "ASI Mukesh Patil"
+  },
+  {
+    "report_id": "SUR0086",
+    "date": "2024-09-02",
+    "location": "Madurai",
+    "state": "Tamil Nadu",
+    "neighborhood": "Meenakshi Amman Kovil St",
+    "subject_ids": [
+      "P041",
+      "P032"
+    ],
+    "subject_names": [
+      "Vinod Selvam",
+      "Rekha Rathore"
+    ],
+    "activity": "Consignment Movement",
+    "vehicle": null,
+    "description": "Surveillance near Meenakshi Amman Kovil St (Anna Nagar PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Low",
+    "officer": "ASI Ramesh Pillai"
+  },
+  {
+    "report_id": "SUR0087",
+    "date": "2023-07-23",
+    "location": "New Delhi",
+    "state": "Delhi",
+    "neighborhood": "Connaught Place",
+    "subject_ids": [
+      "P049",
+      "P004"
+    ],
+    "subject_names": [
+      "Rakesh Qureshi",
+      "Ajay Parmar"
+    ],
+    "activity": "Meeting",
+    "vehicle": "DL04ED6935",
+    "description": "Surveillance near Connaught Place (Parliament Street PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "HC Nitin Sharma"
+  },
+  {
+    "report_id": "SUR0088",
+    "date": "2026-01-13",
+    "location": "Coimbatore",
+    "state": "Tamil Nadu",
+    "neighborhood": "Ukkadam",
+    "subject_ids": [
+      "P008"
+    ],
+    "subject_names": [
+      "Ananya Pillai"
+    ],
+    "activity": "Vehicle Transfer",
+    "vehicle": null,
+    "description": "Surveillance near Ukkadam (R.S. Puram PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "ASI Vinod Krishnan"
+  },
+  {
+    "report_id": "SUR0089",
+    "date": "2025-02-07",
+    "location": "Kamrup Metropolitan",
+    "state": "Assam",
+    "neighborhood": "Paltan Bazaar",
+    "subject_ids": [
+      "P037",
+      "P055",
+      "P017"
+    ],
+    "subject_names": [
+      "Rekha Das",
+      "Vinod Sidhu",
+      "Ajay Kumar"
+    ],
+    "activity": "Communication",
+    "vehicle": null,
+    "description": "Surveillance near Paltan Bazaar (Dispur PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "ASI Hemant Baruah"
+  },
+  {
+    "report_id": "SUR0090",
+    "date": "2022-07-06",
+    "location": "Lucknow",
+    "state": "Uttar Pradesh",
+    "neighborhood": "Gomti Nagar",
+    "subject_ids": [
+      "P035"
+    ],
+    "subject_names": [
+      "Sunil Mishra"
+    ],
+    "activity": "Communication",
+    "vehicle": "UP32SD1568",
+    "description": "Surveillance near Gomti Nagar (Hazratganj PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "Inspector Vinod Pandey"
+  },
+  {
+    "report_id": "SUR0091",
+    "date": "2022-08-08",
+    "location": "Bengaluru Urban",
+    "state": "Karnataka",
+    "neighborhood": "Jayanagar 4th Block",
+    "subject_ids": [
+      "P040",
+      "P027"
+    ],
+    "subject_names": [
+      "Vikram Shetty",
+      "Santosh Mishra"
+    ],
+    "activity": "Meeting",
+    "vehicle": null,
+    "description": "Surveillance near Jayanagar 4th Block (Indiranagar PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "Inspector Mohit Reddy"
+  },
+  {
+    "report_id": "SUR0092",
+    "date": "2024-06-25",
+    "location": "Amritsar",
+    "state": "Punjab",
+    "neighborhood": "Sultanwind",
+    "subject_ids": [
+      "P055",
+      "P017",
+      "P007"
+    ],
+    "subject_names": [
+      "Vinod Sidhu",
+      "Ajay Kumar",
+      "Santosh Deshmukh"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": "PB65WN0378",
+    "description": "Surveillance near Sultanwind (Ranjit Avenue PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "ASI Shafiq Dhillon"
+  },
+  {
+    "report_id": "SUR0093",
+    "date": "2024-10-19",
+    "location": "Coimbatore",
+    "state": "Tamil Nadu",
+    "neighborhood": "R.S. Puram",
+    "subject_ids": [
+      "P051",
+      "P022"
+    ],
+    "subject_names": [
+      "Jaswinder Krishnan",
+      "Nitin Subramanian"
+    ],
+    "activity": "Communication",
+    "vehicle": "TN09WG6111",
+    "description": "Surveillance near R.S. Puram (R.S. Puram PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "HC Biswajit Selvam"
+  },
+  {
+    "report_id": "SUR0094",
+    "date": "2023-03-23",
+    "location": "Rangareddy",
+    "state": "Telangana",
+    "neighborhood": "Gachibowli",
+    "subject_ids": [
+      "P025",
+      "P011",
+      "P052"
+    ],
+    "subject_names": [
+      "Rahul Reddy",
+      "Hemant Dhillon",
+      "Srinivas Singh"
+    ],
+    "activity": "Vehicle Transfer",
+    "vehicle": null,
+    "description": "Surveillance near Gachibowli (Rajendranagar PS) observed 3 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "ASI Thomas Goud"
+  },
+  {
+    "report_id": "SUR0095",
+    "date": "2025-11-06",
+    "location": "Rangareddy",
+    "state": "Telangana",
+    "neighborhood": "Gachibowli",
+    "subject_ids": [
+      "P025"
+    ],
+    "subject_names": [
+      "Rahul Reddy"
+    ],
+    "activity": "Communication",
+    "vehicle": null,
+    "description": "Surveillance near Gachibowli (LB Nagar PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Low",
+    "officer": "Inspector Thomas Reddy"
+  },
+  {
+    "report_id": "SUR0096",
+    "date": "2024-06-12",
+    "location": "Kamrup Metropolitan",
+    "state": "Assam",
+    "neighborhood": "Beltola",
+    "subject_ids": [
+      "P037",
+      "P042"
+    ],
+    "subject_names": [
+      "Rekha Das",
+      "Mary Qureshi"
+    ],
+    "activity": "Recce",
+    "vehicle": "AS02CP4177",
+    "description": "Surveillance near Beltola (Paltan Bazaar PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "ASI Mukesh Das"
+  },
+  {
+    "report_id": "SUR0097",
+    "date": "2024-12-23",
+    "location": "Nagpur City",
+    "state": "Maharashtra",
+    "neighborhood": "Itwari",
+    "subject_ids": [
+      "P031",
+      "P017"
+    ],
+    "subject_names": [
+      "Deepak Shaikh",
+      "Ajay Kumar"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": "MH12MB3746",
+    "description": "Surveillance near Itwari (Kotwali PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "Low",
+    "officer": "ASI Arjun Patil"
+  },
+  {
+    "report_id": "SUR0098",
+    "date": "2023-08-24",
+    "location": "Indore",
+    "state": "Madhya Pradesh",
+    "neighborhood": "Rajwada",
+    "subject_ids": [
+      "P006",
+      "P019"
+    ],
+    "subject_names": [
+      "Deepak Raghuvanshi",
+      "Meena Chouhan"
+    ],
+    "activity": "Cash Handover",
+    "vehicle": "MP07FH6709",
+    "description": "Surveillance near Rajwada (Palasia PS) observed 2 subject(s) in suspicious activity.",
+    "risk_level": "High",
+    "officer": "ASI Ganesh Tiwari"
+  },
+  {
+    "report_id": "SUR0099",
+    "date": "2022-04-17",
+    "location": "Lucknow",
+    "state": "Uttar Pradesh",
+    "neighborhood": "Alambagh",
+    "subject_ids": [
+      "P056"
+    ],
+    "subject_names": [
+      "Vikram Verma"
+    ],
+    "activity": "Communication",
+    "vehicle": "UP80FK8978",
+    "description": "Surveillance near Alambagh (Aminabad PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Critical",
+    "officer": "Inspector Anil Pandey"
+  },
+  {
+    "report_id": "SUR0100",
+    "date": "2022-05-18",
+    "location": "Kanpur Nagar",
+    "state": "Uttar Pradesh",
+    "neighborhood": "Mall Road",
+    "subject_ids": [
+      "P052"
+    ],
+    "subject_names": [
+      "Srinivas Singh"
+    ],
+    "activity": "Meeting",
+    "vehicle": null,
+    "description": "Surveillance near Mall Road (Kalyanpur PS) observed 1 subject(s) in suspicious activity.",
+    "risk_level": "Medium",
+    "officer": "HC Kishore Verma"
+  }
+]

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Admin Login — CrimeGraph AI</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+  <style>
+    body { display: flex; align-items: center; justify-content: center; min-height: 100vh; padding: 16px;
+           background: radial-gradient(ellipse at top, rgba(99,102,241,0.15), transparent 60%), var(--bg-base); }
+    .login-card { width: 100%; max-width: 400px; background: var(--bg-card); border: 1px solid var(--border);
+                  border-radius: var(--radius-xl); padding: 36px 32px; box-shadow: var(--shadow-card); }
+    .login-brand { display: flex; align-items: center; gap: 12px; margin-bottom: 28px; }
+    .login-brand svg { width: 44px; height: 44px; }
+    .login-title { font-size: 22px; font-weight: 800; color: var(--text-primary); }
+    .login-sub { font-size: 12px; color: var(--text-muted); }
+    .login-field { display: flex; flex-direction: column; gap: 6px; margin-bottom: 16px; }
+    .login-field label { font-size: 11px; font-weight: 600; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.6px; }
+    .login-field input { background: var(--bg-input); border: 1px solid var(--border); border-radius: var(--radius-md);
+                         padding: 11px 14px; color: var(--text-primary); font-size: 14px; font-family: inherit; outline: none; }
+    .login-field input:focus { border-color: var(--border-active); box-shadow: 0 0 0 2px rgba(99,102,241,0.15); }
+    .login-btn { width: 100%; justify-content: center; padding: 12px; font-size: 14px; margin-top: 6px; }
+    .login-error { background: var(--red-dim); border: 1px solid rgba(239,68,68,0.4); color: var(--red);
+                   font-size: 12.5px; padding: 10px 12px; border-radius: var(--radius-sm); margin-bottom: 16px; }
+    .login-note { font-size: 11px; color: var(--text-muted); margin-top: 20px; text-align: center; line-height: 1.6; }
+  </style>
+</head>
+<body>
+  <form class="login-card" method="post" autocomplete="off">
+    <div class="login-brand">
+      <svg viewBox="0 0 40 40" fill="none">
+        <circle cx="20" cy="20" r="8" fill="#ef4444" opacity="0.9"/>
+        <circle cx="8" cy="10" r="5" fill="#f97316" opacity="0.8"/>
+        <circle cx="32" cy="10" r="5" fill="#f97316" opacity="0.8"/>
+        <circle cx="8" cy="30" r="5" fill="#eab308" opacity="0.8"/>
+        <circle cx="32" cy="30" r="5" fill="#eab308" opacity="0.8"/>
+        <line x1="20" y1="20" x2="8" y2="10" stroke="#ef4444" stroke-width="1.5" opacity="0.6"/>
+        <line x1="20" y1="20" x2="32" y2="10" stroke="#ef4444" stroke-width="1.5" opacity="0.6"/>
+        <line x1="20" y1="20" x2="8" y2="30" stroke="#ef4444" stroke-width="1.5" opacity="0.6"/>
+        <line x1="20" y1="20" x2="32" y2="30" stroke="#ef4444" stroke-width="1.5" opacity="0.6"/>
+      </svg>
+      <div>
+        <div class="login-title">CrimeGraph AI</div>
+        <div class="login-sub">Restricted access · Administrators only</div>
+      </div>
+    </div>
+
+    {% if error %}<div class="login-error">{{ error }}</div>{% endif %}
+
+    <div class="login-field">
+      <label for="username">Username</label>
+      <input id="username" name="username" required autofocus />
+    </div>
+    <div class="login-field">
+      <label for="password">Password</label>
+      <input id="password" name="password" type="password" required />
+    </div>
+    <button class="btn btn-primary login-btn" type="submit">Sign in</button>
+
+    <div class="login-note">Unauthorised access is prohibited.<br>SIH26189 · Synthetic data for demonstration</div>
+  </form>
+</body>
+</html>

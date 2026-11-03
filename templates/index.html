@@ -1,0 +1,790 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CrimeGraph AI — Criminal Network Analysis System | SIH26189</title>
+  <meta name="description" content="AI-Powered Criminal Network Analysis System for Ministry of Home Affairs. Uncover hidden networks, detect suspicious patterns, and identify key influencers in criminal organizations." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+</head>
+<body>
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-logo">
+      <div class="logo-icon">
+        <svg viewBox="0 0 40 40" fill="none">
+          <circle cx="20" cy="20" r="8" fill="#ef4444" opacity="0.9"/>
+          <circle cx="8" cy="10" r="5" fill="#f97316" opacity="0.8"/>
+          <circle cx="32" cy="10" r="5" fill="#f97316" opacity="0.8"/>
+          <circle cx="8" cy="30" r="5" fill="#eab308" opacity="0.8"/>
+          <circle cx="32" cy="30" r="5" fill="#eab308" opacity="0.8"/>
+          <line x1="20" y1="20" x2="8" y2="10" stroke="#ef4444" stroke-width="1.5" opacity="0.6"/>
+          <line x1="20" y1="20" x2="32" y2="10" stroke="#ef4444" stroke-width="1.5" opacity="0.6"/>
+          <line x1="20" y1="20" x2="8" y2="30" stroke="#ef4444" stroke-width="1.5" opacity="0.6"/>
+          <line x1="20" y1="20" x2="32" y2="30" stroke="#ef4444" stroke-width="1.5" opacity="0.6"/>
+          <line x1="8" y1="10" x2="32" y2="10" stroke="#6366f1" stroke-width="1" opacity="0.4"/>
+          <line x1="8" y1="30" x2="32" y2="30" stroke="#6366f1" stroke-width="1" opacity="0.4"/>
+        </svg>
+      </div>
+      <div class="logo-text">
+        <span class="logo-title">CrimeGraph</span>
+        <span class="logo-sub">AI Intelligence Platform</span>
+      </div>
+    </div>
+
+    <nav class="sidebar-nav">
+      <div class="nav-section-label">ANALYSIS</div>
+      <a href="#" class="nav-item active" data-tab="dashboard" id="nav-dashboard">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+        <span>Dashboard</span>
+      </a>
+      <a href="#" class="nav-item" data-tab="network" id="nav-network">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="5" r="2"/><circle cx="5" cy="19" r="2"/><circle cx="19" cy="19" r="2"/><line x1="12" y1="7" x2="5" y2="17"/><line x1="12" y1="7" x2="19" y2="17"/><line x1="5" y1="19" x2="19" y2="19"/></svg>
+        <span>Network Graph</span>
+        <span class="badge badge-red" id="badge-network">LIVE</span>
+      </a>
+      <a href="#" class="nav-item" data-tab="suspects" id="nav-suspects">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+        <span>Suspects</span>
+      </a>
+      <a href="#" class="nav-item" data-tab="firs" id="nav-firs">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+        <span>FIR Records</span>
+      </a>
+      <div class="nav-section-label">INTELLIGENCE</div>
+      <a href="#" class="nav-item" data-tab="financial" id="nav-financial">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+        <span>Financial Intel</span>
+      </a>
+      <a href="#" class="nav-item" data-tab="cdr" id="nav-cdr">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.15 12a19.79 19.79 0 0 1-3.07-8.63A2 2 0 0 1 3.12 1.18l3-.08a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L7.09 8.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 21 16l-.08 0z"/></svg>
+        <span>CDR Analysis</span>
+      </a>
+      <a href="#" class="nav-item" data-tab="communities" id="nav-communities">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+        <span>Criminal Groups</span>
+      </a>
+      <a href="#" class="nav-item" data-tab="analytics" id="nav-analytics">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
+        <span>Analytics</span>
+      </a>
+      <div class="nav-section-label">RECORDS</div>
+      <a href="#" class="nav-item" data-tab="addrecord" id="nav-addrecord">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><line x1="19" y1="8" x2="19" y2="14"/><line x1="22" y1="11" x2="16" y2="11"/></svg>
+        <span>Add Record</span>
+      </a>
+      <a href="#" class="nav-item" data-tab="investigations" id="nav-investigations">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>
+        <span>Investigations</span>
+        <span class="badge badge-red" id="badge-overdue" style="display:none"></span>
+      </a>
+      <div class="nav-section-label">LEGAL</div>
+      <a href="#" class="nav-item" data-tab="legal" id="nav-legal">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3v18"/><path d="M5 7h14"/><path d="M5 7l-3 7a3 3 0 0 0 6 0z"/><path d="M19 7l-3 7a3 3 0 0 0 6 0z"/><path d="M8 21h8"/></svg>
+        <span>Lawful Action</span>
+        <span class="badge badge-blue">NEW</span>
+      </a>
+    </nav>
+
+    <div class="sidebar-footer">
+      <div class="system-status">
+        <div class="status-dot"></div>
+        <span>System Active</span>
+      </div>
+      <div class="sidebar-meta">SIH26189 · MHA India · Synthetic data</div>
+    </div>
+  </aside>
+
+  <!-- ═══ MAIN CONTENT ═══ -->
+  <main class="main-content" id="main-content">
+
+    <!-- TOP BAR -->
+    <header class="topbar">
+      <div class="topbar-left">
+        <button class="sidebar-toggle" id="sidebar-toggle" aria-label="Toggle sidebar">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+        </button>
+        <div class="breadcrumb">
+          <span class="breadcrumb-root">CrimeGraph AI</span>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="breadcrumb-sep"><polyline points="9 18 15 12 9 6"/></svg>
+          <span class="breadcrumb-current" id="breadcrumb-current">Dashboard</span>
+        </div>
+      </div>
+      <div class="topbar-center">
+        <div class="global-search">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          <input type="text" id="global-search-input" placeholder="Search suspects, FIR no., police station, district..." autocomplete="off" />
+          <div class="search-results" id="search-results"></div>
+        </div>
+      </div>
+      <div class="topbar-right">
+        <div class="alert-bell" title="Active Alerts">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg>
+          <span class="alert-count" id="alert-count">0</span>
+        </div>
+        <div class="user-menu">
+          <div class="user-avatar" title="{{ user.rank if user else '' }}">{{ user.initials if user else 'IO' }}</div>
+          <div class="user-info">
+            <div class="user-name">{{ user.name if user else '' }}</div>
+            <div class="user-rank">{{ user.rank if user else '' }}</div>
+          </div>
+          <a class="btn btn-sm btn-ghost" href="{{ url_for('logout') }}">Logout</a>
+        </div>
+      </div>
+    </header>
+
+    <!-- ═══ TAB: DASHBOARD ═══ -->
+    <div class="tab-content active" id="tab-dashboard">
+      <div class="page-header">
+        <div>
+          <h1 class="page-title">Intelligence Dashboard</h1>
+          <p class="page-subtitle">Real-time overview of criminal network activity and key metrics</p>
+        </div>
+        <div class="page-actions">
+          <button class="btn btn-ghost" id="refresh-btn" onclick="refreshAll()">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg>
+            Refresh
+          </button>
+        </div>
+      </div>
+
+      <!-- KPI Cards -->
+      <div class="kpi-grid" id="kpi-grid">
+        <div class="kpi-card kpi-danger loading">
+          <div class="kpi-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+          </div>
+          <div class="kpi-body">
+            <div class="kpi-value" id="kpi-high-risk">--</div>
+            <div class="kpi-label">High-Risk Suspects</div>
+          </div>
+          <div class="kpi-trend up">↑ Active</div>
+        </div>
+        <div class="kpi-card kpi-warning loading">
+          <div class="kpi-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+          </div>
+          <div class="kpi-body">
+            <div class="kpi-value" id="kpi-firs">--</div>
+            <div class="kpi-label">Total FIRs</div>
+          </div>
+          <div class="kpi-trend">Registered</div>
+        </div>
+        <div class="kpi-card kpi-info loading">
+          <div class="kpi-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="5" r="2"/><circle cx="5" cy="19" r="2"/><circle cx="19" cy="19" r="2"/><line x1="12" y1="7" x2="5" y2="17"/><line x1="12" y1="7" x2="19" y2="17"/></svg>
+          </div>
+          <div class="kpi-body">
+            <div class="kpi-value" id="kpi-nodes">--</div>
+            <div class="kpi-label">Network Nodes</div>
+          </div>
+          <div class="kpi-trend">Mapped</div>
+        </div>
+        <div class="kpi-card kpi-success loading">
+          <div class="kpi-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+          </div>
+          <div class="kpi-body">
+            <div class="kpi-value" id="kpi-transactions">--</div>
+            <div class="kpi-label">Transactions Tracked</div>
+          </div>
+          <div class="kpi-trend">Monitored</div>
+        </div>
+        <div class="kpi-card kpi-purple loading">
+          <div class="kpi-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+          </div>
+          <div class="kpi-body">
+            <div class="kpi-value" id="kpi-groups">--</div>
+            <div class="kpi-label">Criminal Groups</div>
+          </div>
+          <div class="kpi-trend">Detected</div>
+        </div>
+        <div class="kpi-card kpi-orange loading">
+          <div class="kpi-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+          </div>
+          <div class="kpi-body">
+            <div class="kpi-value" id="kpi-fugitives">--</div>
+            <div class="kpi-label">Fugitives</div>
+          </div>
+          <div class="kpi-trend danger">WANTED</div>
+        </div>
+      </div>
+
+      <!-- Dashboard Grid -->
+      <div class="dashboard-grid">
+        <!-- Top Suspects -->
+        <div class="card top-suspects-card">
+          <div class="card-header">
+            <h2 class="card-title">
+              <span class="title-dot red"></span>Top Threat Suspects
+            </h2>
+            <button class="btn btn-sm btn-ghost" onclick="switchTab('suspects')">View All →</button>
+          </div>
+          <div class="top-suspects-list" id="top-suspects-list">
+            <div class="loading-spinner"></div>
+          </div>
+        </div>
+
+        <!-- Network Mini-Map -->
+        <div class="card network-mini-card">
+          <div class="card-header">
+            <h2 class="card-title">
+              <span class="title-dot blue"></span>Network Overview
+            </h2>
+            <button class="btn btn-sm btn-ghost" onclick="switchTab('network')">Full View →</button>
+          </div>
+          <div class="mini-network" id="mini-network"></div>
+        </div>
+
+        <!-- Recent FIRs -->
+        <div class="card recent-firs-card">
+          <div class="card-header">
+            <h2 class="card-title">
+              <span class="title-dot yellow"></span>Recent FIRs
+            </h2>
+            <button class="btn btn-sm btn-ghost" onclick="switchTab('firs')">View All →</button>
+          </div>
+          <div class="recent-firs-list" id="recent-firs-list">
+            <div class="loading-spinner"></div>
+          </div>
+        </div>
+
+        <!-- Activity Timeline -->
+        <div class="card activity-card">
+          <div class="card-header">
+            <h2 class="card-title">
+              <span class="title-dot green"></span>Crime Type Distribution
+            </h2>
+          </div>
+          <canvas id="crime-chart" height="200"></canvas>
+        </div>
+
+        <!-- Threat Score Distribution -->
+        <div class="card threat-dist-card">
+          <div class="card-header">
+            <h2 class="card-title">
+              <span class="title-dot purple"></span>Threat Score Distribution
+            </h2>
+          </div>
+          <canvas id="threat-chart" height="200"></canvas>
+        </div>
+
+        <!-- Location Heatmap -->
+        <div class="card location-card">
+          <div class="card-header">
+            <h2 class="card-title">
+              <span class="title-dot orange"></span>Top Activity Locations
+            </h2>
+          </div>
+          <div class="location-bars" id="location-bars">
+            <div class="loading-spinner"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ═══ TAB: NETWORK GRAPH ═══ -->
+    <div class="tab-content" id="tab-network">
+      <div class="page-header">
+        <div>
+          <h1 class="page-title">Criminal Network Graph</h1>
+          <p class="page-subtitle">Interactive force-directed visualization of criminal relationships</p>
+        </div>
+        <div class="page-actions">
+          <div class="filter-group">
+            <label>Min Threat</label>
+            <input type="range" id="threat-filter" min="0" max="1" step="0.1" value="0" />
+            <span id="threat-filter-val">0.0</span>
+          </div>
+          <button class="btn btn-primary" id="apply-filter-btn" onclick="applyGraphFilter()">Apply Filter</button>
+          <button class="btn btn-ghost" onclick="resetGraphFilter()">Reset</button>
+        </div>
+      </div>
+      <div class="graph-container">
+        <div class="graph-legend">
+          <div class="legend-title">Node Size = Threat Score</div>
+          <div class="legend-item"><span class="legend-dot" style="background:#ef4444"></span>High Risk (>0.6)</div>
+          <div class="legend-item"><span class="legend-dot" style="background:#f97316"></span>Medium (0.3-0.6)</div>
+          <div class="legend-item"><span class="legend-dot" style="background:#22c55e"></span>Low (&lt;0.3)</div>
+          <div class="legend-item"><span class="legend-dot fugitive"></span>Fugitive</div>
+        </div>
+        <svg id="network-svg"></svg>
+        <div class="graph-controls">
+          <button class="graph-btn" id="zoom-in-btn" title="Zoom In">+</button>
+          <button class="graph-btn" id="zoom-out-btn" title="Zoom Out">−</button>
+          <button class="graph-btn" id="fit-btn" title="Fit to Screen">⊡</button>
+        </div>
+        <div class="node-tooltip" id="node-tooltip"></div>
+      </div>
+    </div>
+
+    <!-- ═══ TAB: SUSPECTS ═══ -->
+    <div class="tab-content" id="tab-suspects">
+      <div class="page-header">
+        <div>
+          <h1 class="page-title">Suspect Database</h1>
+          <p class="page-subtitle">AI-ranked suspects with centrality metrics and threat scoring</p>
+        </div>
+      </div>
+      <div class="filter-bar">
+        <div class="search-box">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          <input type="text" id="suspect-search" placeholder="Search by name, alias, ID..." oninput="filterSuspects()" />
+        </div>
+        <select id="suspect-state" onchange="filterSuspects()" class="filter-select">
+          <option value="">All States</option>
+        </select>
+        <select id="suspect-role" onchange="filterSuspects()" class="filter-select">
+          <option value="">All Roles</option>
+          <option>Gang Leader</option><option>Deputy</option><option>Shooter</option>
+          <option>Foot Soldier</option><option>Associate</option><option>Lookout (Khabri)</option>
+          <option>Financier</option><option>Courier (Carrier)</option><option>Enforcer</option>
+          <option>Cyber Operator</option><option>Smuggler</option><option>Informant</option>
+          <option>Hawala Operator</option><option>Supplier</option>
+        </select>
+        <select id="suspect-status" onchange="filterSuspects()" class="filter-select">
+          <option value="">All Status</option>
+          <option>Active</option><option>Fugitive</option><option>Arrested</option>
+          <option>On Bail</option><option>Judicial Custody</option><option>Deceased</option>
+        </select>
+        <select id="suspect-sort" onchange="filterSuspects()" class="filter-select">
+          <option value="computed_threat_score">Sort: Threat Score</option>
+          <option value="betweenness_centrality">Sort: Betweenness</option>
+          <option value="pagerank">Sort: PageRank</option>
+          <option value="fir_count">Sort: FIR Count</option>
+        </select>
+      </div>
+      <div class="suspects-grid" id="suspects-grid">
+        <div class="loading-spinner"></div>
+      </div>
+    </div>
+
+    <!-- ═══ TAB: FIRs ═══ -->
+    <div class="tab-content" id="tab-firs">
+      <div class="page-header">
+        <div>
+          <h1 class="page-title">FIR Records</h1>
+          <p class="page-subtitle">FIR No. format: STATE / DISTRICT / POLICE STATION / FIR No. / YEAR, with CCTNS-style 17-digit ID. Sections under IPC before 1 July 2024, BNS after.</p>
+        </div>
+      </div>
+      <div class="filter-bar">
+        <div class="search-box">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          <input type="text" id="fir-search" placeholder="FIR no., CCTNS ID, section, PS, accused..." oninput="filterFIRs()" />
+        </div>
+        <select id="fir-state" onchange="onFirStateChange()" class="filter-select">
+          <option value="">All States</option>
+        </select>
+        <select id="fir-district" onchange="filterFIRs()" class="filter-select">
+          <option value="">All Districts</option>
+        </select>
+        <select id="fir-category" onchange="onFirCategoryChange()" class="filter-select">
+          <option value="">All Categories</option>
+        </select>
+        <select id="fir-crime" onchange="filterFIRs()" class="filter-select">
+          <option value="">All Sub-categories</option>
+        </select>
+        <select id="fir-severity" onchange="filterFIRs()" class="filter-select">
+          <option value="">All Severity</option>
+          <option>Critical</option><option>High</option><option>Medium</option><option>Low</option>
+        </select>
+        <select id="fir-status" onchange="filterFIRs()" class="filter-select">
+          <option value="">All Status</option>
+        </select>
+      </div>
+      <div class="fir-count" id="fir-count"></div>
+      <div class="firs-table-container">
+        <table class="data-table" id="firs-table">
+          <thead>
+            <tr>
+              <th>FIR No.</th><th>Date</th><th>Police Station</th><th>Category</th><th>Crime &amp; Sections</th>
+              <th>Accused</th><th>Severity</th><th>Status</th><th>Amount</th>
+            </tr>
+          </thead>
+          <tbody id="firs-tbody">
+            <tr><td colspan="9" class="loading-cell"><div class="loading-spinner"></div></td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- ═══ TAB: FINANCIAL ═══ -->
+    <div class="tab-content" id="tab-financial">
+      <div class="page-header">
+        <div>
+          <h1 class="page-title">Financial Intelligence</h1>
+          <p class="page-subtitle">Track suspicious financial flows, hawala networks, and money laundering</p>
+        </div>
+        <div class="page-actions">
+          <label class="toggle-label">
+            <input type="checkbox" id="suspicious-only-txn" onchange="loadTransactions()" />
+            <span>Suspicious Only</span>
+          </label>
+        </div>
+      </div>
+      <div class="fin-stats-row" id="fin-stats-row">
+        <div class="fin-stat-card">
+          <div class="fin-stat-label">Total Transactions</div>
+          <div class="fin-stat-value" id="fin-total">--</div>
+        </div>
+        <div class="fin-stat-card fin-danger">
+          <div class="fin-stat-label">Suspicious Transactions</div>
+          <div class="fin-stat-value" id="fin-suspicious">--</div>
+        </div>
+        <div class="fin-stat-card fin-warning">
+          <div class="fin-stat-label">Largest Amount</div>
+          <div class="fin-stat-value" id="fin-largest">--</div>
+        </div>
+        <div class="fin-stat-card fin-info">
+          <div class="fin-stat-label">Hawala Transactions</div>
+          <div class="fin-stat-value" id="fin-hawala">--</div>
+        </div>
+      </div>
+      <div class="fin-grid">
+        <div class="card" style="grid-column: span 2;">
+          <div class="card-header">
+            <h2 class="card-title"><span class="title-dot red"></span>Transaction Records</h2>
+          </div>
+          <div class="transactions-table-container">
+            <table class="data-table">
+              <thead>
+                <tr><th>TXN ID</th><th>Date</th><th>Sender</th><th>Receiver</th><th>Amount</th><th>Currency</th><th>Channel</th><th>Purpose</th><th>Flag</th></tr>
+              </thead>
+              <tbody id="txn-tbody">
+                <tr><td colspan="9" class="loading-cell"><div class="loading-spinner"></div></td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header"><h2 class="card-title"><span class="title-dot yellow"></span>Channel Distribution</h2></div>
+          <canvas id="channel-chart" height="250"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <!-- ═══ TAB: CDR ═══ -->
+    <div class="tab-content" id="tab-cdr">
+      <div class="page-header">
+        <div>
+          <h1 class="page-title">Call Detail Records (CDR)</h1>
+          <p class="page-subtitle">Communication pattern analysis and suspicious call detection</p>
+        </div>
+        <div class="page-actions">
+          <label class="toggle-label">
+            <input type="checkbox" id="suspicious-only-cdr" onchange="loadCDRs()" />
+            <span>Suspicious Only</span>
+          </label>
+        </div>
+      </div>
+      <div class="cdr-table-container">
+        <table class="data-table">
+          <thead>
+            <tr><th>CDR ID</th><th>Date/Time</th><th>Caller</th><th>Receiver</th><th>Duration</th><th>Type</th><th>Location</th><th>Suspicious</th></tr>
+          </thead>
+          <tbody id="cdr-tbody">
+            <tr><td colspan="8" class="loading-cell"><div class="loading-spinner"></div></td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- ═══ TAB: COMMUNITIES ═══ -->
+    <div class="tab-content" id="tab-communities">
+      <div class="page-header">
+        <div>
+          <h1 class="page-title">Criminal Groups & Communities</h1>
+          <p class="page-subtitle">AI-detected criminal clusters using graph community detection algorithms</p>
+        </div>
+      </div>
+      <div class="communities-grid" id="communities-grid">
+        <div class="loading-spinner"></div>
+      </div>
+    </div>
+
+    <!-- ═══ TAB: ANALYTICS ═══ -->
+    <div class="tab-content" id="tab-analytics">
+      <div class="page-header">
+        <div>
+          <h1 class="page-title">Analytics &amp; Insights</h1>
+          <p class="page-subtitle">Filter crime patterns by period, State / UT, district and crime category</p>
+        </div>
+      </div>
+      <div class="filter-bar analytics-filters">
+        <div class="filter-field">
+          <label for="an-period">Period</label>
+          <select id="an-period" class="filter-select" onchange="onPeriodChange()">
+            <option value="all">All time</option>
+            <option value="30d">Last 30 days</option>
+            <option value="3m">Last 3 months</option>
+            <option value="6m">Last 6 months</option>
+            <option value="12m">Last 12 months</option>
+            <option value="post-bns">Since BNS (1 Jul 2024)</option>
+            <option value="pre-bns">Before BNS (IPC era)</option>
+            <option value="custom">Custom range…</option>
+          </select>
+        </div>
+        <div class="filter-field custom-range" id="an-custom-range">
+          <label for="an-start">From</label>
+          <input type="date" id="an-start" class="filter-select" onchange="applyAnalyticsFilters()" />
+        </div>
+        <div class="filter-field custom-range" id="an-custom-range-end">
+          <label for="an-end">To</label>
+          <input type="date" id="an-end" class="filter-select" onchange="applyAnalyticsFilters()" />
+        </div>
+        <div class="filter-field">
+          <label for="an-state">State / UT</label>
+          <select id="an-state" class="filter-select" onchange="onAnalyticsStateChange()">
+            <option value="">All States</option>
+          </select>
+        </div>
+        <div class="filter-field">
+          <label for="an-district">District / Area</label>
+          <select id="an-district" class="filter-select" onchange="applyAnalyticsFilters()" disabled>
+            <option value="">All Districts</option>
+          </select>
+        </div>
+        <div class="filter-field">
+          <label for="an-category">Category</label>
+          <select id="an-category" class="filter-select" onchange="applyAnalyticsFilters()">
+            <option value="">All Categories</option>
+          </select>
+        </div>
+        <button class="btn btn-ghost" onclick="resetAnalyticsFilters()">Reset</button>
+      </div>
+      <div class="filter-summary" id="an-filter-summary"></div>
+
+      <div class="fin-stats-row">
+        <div class="fin-stat-card"><div class="fin-stat-label">FIRs in view</div><div class="fin-stat-value" id="an-kpi-firs">--</div></div>
+        <div class="fin-stat-card fin-danger"><div class="fin-stat-label">Heinous cases</div><div class="fin-stat-value" id="an-kpi-heinous">--</div></div>
+        <div class="fin-stat-card fin-warning"><div class="fin-stat-label">Persons accused</div><div class="fin-stat-value" id="an-kpi-accused">--</div></div>
+        <div class="fin-stat-card fin-info"><div class="fin-stat-label">Amount involved</div><div class="fin-stat-value" id="an-kpi-amount">--</div></div>
+      </div>
+
+      <div class="analytics-grid">
+        <div class="card">
+          <div class="card-header"><h2 class="card-title"><span class="title-dot red"></span>Crime Category (Heinous / Major / Minor)</h2></div>
+          <canvas id="analytics-category-chart" height="300"></canvas>
+        </div>
+        <div class="card">
+          <div class="card-header"><h2 class="card-title"><span class="title-dot purple"></span>NCRB Crime Heads</h2></div>
+          <canvas id="analytics-head-chart" height="300"></canvas>
+        </div>
+        <div class="card">
+          <div class="card-header"><h2 class="card-title"><span class="title-dot red"></span>Top Sub-categories</h2></div>
+          <canvas id="analytics-crime-chart" height="300"></canvas>
+        </div>
+        <div class="card">
+          <div class="card-header"><h2 class="card-title"><span class="title-dot blue"></span>Monthly FIR Trend</h2></div>
+          <canvas id="analytics-monthly-chart" height="300"></canvas>
+        </div>
+        <div class="card" style="grid-column: span 2;">
+          <div class="card-header"><h2 class="card-title"><span class="title-dot orange"></span><span id="an-area-title">FIRs by State / UT</span></h2></div>
+          <canvas id="analytics-location-chart" height="200"></canvas>
+        </div>
+        <div class="card">
+          <div class="card-header"><h2 class="card-title"><span class="title-dot yellow"></span>Severity Distribution</h2></div>
+          <canvas id="analytics-severity-chart" height="300"></canvas>
+        </div>
+        <div class="card">
+          <div class="card-header"><h2 class="card-title"><span class="title-dot green"></span>Accused Status</h2></div>
+          <canvas id="analytics-status-chart" height="300"></canvas>
+        </div>
+        <div class="card">
+          <div class="card-header"><h2 class="card-title"><span class="title-dot blue"></span>Law Applied (IPC vs BNS vs Special Acts)</h2></div>
+          <canvas id="analytics-regime-chart" height="300"></canvas>
+        </div>
+        <div class="card">
+          <div class="card-header"><h2 class="card-title"><span class="title-dot purple"></span>Category → Sub-category Breakdown</h2></div>
+          <div class="hierarchy-table" id="analytics-hierarchy"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ═══ TAB: ADD RECORD ═══ -->
+    <div class="tab-content" id="tab-addrecord">
+      <div class="page-header">
+        <div>
+          <h1 class="page-title">Add Person Record</h1>
+          <p class="page-subtitle">Add a new suspect. On saving, the portal checks phones, call records, vehicles, gangs, FIRs and locality to find links with people already on record.</p>
+        </div>
+        <div class="page-actions">
+          <button class="btn btn-ghost" type="button" onclick="fillSampleRecord()">Fill sample data</button>
+          <button class="btn btn-ghost" type="button" onclick="resetRecordForm()">Clear</button>
+        </div>
+      </div>
+      <div class="record-layout">
+        <form class="card record-form" id="record-form" onsubmit="saveRecord(event)">
+          <div class="form-section">Identity</div>
+          <div class="form-grid">
+            <label class="form-field span-2">Full name *<input name="name" required /></label>
+            <label class="form-field">Alias<input name="alias" /></label>
+            <label class="form-field">Gender<select name="gender" class="filter-select"><option>Male</option><option>Female</option><option>Transgender</option></select></label>
+            <label class="form-field">Date of birth<input name="date_of_birth" type="date" /></label>
+            <label class="form-field">Status<select name="status" class="filter-select"><option>Active</option><option>Fugitive</option><option>Arrested</option><option>On Bail</option><option>Judicial Custody</option></select></label>
+            <label class="form-field span-2">Identification marks<input name="identification_marks" /></label>
+          </div>
+          <div class="form-section">Contact</div>
+          <div class="form-grid">
+            <label class="form-field">Mobile number<input name="phone" placeholder="+91-98XXXXXXXX" /></label>
+            <label class="form-field">Email<input name="email" type="email" /></label>
+            <label class="form-field span-2">Numbers this person calls (comma-separated)<input name="contact_numbers" placeholder="+91-98XXXXXXXX, +91-70XXXXXXXX" /></label>
+          </div>
+          <div class="form-section">Location</div>
+          <div class="form-grid">
+            <label class="form-field">State / UT *<select name="state" id="rec-state" class="filter-select" required onchange="onRecordStateChange()"></select></label>
+            <label class="form-field">District *<select name="district" id="rec-district" class="filter-select" required onchange="onRecordDistrictChange()"></select></label>
+            <label class="form-field">Home police station<select name="home_police_station" id="rec-ps" class="filter-select"></select></label>
+            <label class="form-field">Locality<input name="locality" id="rec-locality" list="rec-localities" /><datalist id="rec-localities"></datalist></label>
+          </div>
+          <div class="form-section">Criminal profile</div>
+          <div class="form-grid">
+            <label class="form-field">Role<select name="role" id="rec-role" class="filter-select"></select></label>
+            <label class="form-field">Gang / organisation<select name="organization" id="rec-org" class="filter-select"></select></label>
+            <label class="form-field">Vehicle no.<input name="vehicle" placeholder="MH01AB1234" /></label>
+            <label class="form-field">Linked FIR (adds as co-accused)<input name="linked_fir_id" list="rec-firs" placeholder="e.g. DL/NED/WELC/0186/2026" /><datalist id="rec-firs"></datalist></label>
+            <label class="form-field">Previous cases<input name="criminal_history" type="number" min="0" max="50" value="0" /></label>
+            <label class="form-field">Previous arrests<input name="arrest_count" type="number" min="0" max="50" value="0" /></label>
+            <label class="form-field span-2">Known associates (already on record)<select name="associate_ids" id="rec-associates" class="filter-select multi" multiple size="4"></select></label>
+            <label class="form-field check span-2"><input type="checkbox" name="history_sheeter" /> History-sheeter</label>
+            <label class="form-field span-2">Notes<textarea name="notes" rows="2"></textarea></label>
+          </div>
+          <div class="form-actions">
+            <button class="btn btn-ghost" type="button" onclick="previewLinks()">Check links</button>
+            <button class="btn btn-primary" type="submit" id="rec-save">Save record</button>
+          </div>
+        </form>
+
+        <div class="record-side">
+          <div class="card">
+            <div class="card-header"><h2 class="card-title"><span class="title-dot red"></span><span id="links-title">Link analysis</span></h2></div>
+            <div id="links-panel" class="links-panel">
+              <div class="empty-hint">Fill the form (or click <b>Fill sample data</b>) and press <b>Check links</b> or <b>Save record</b> to see how this person connects to people already on record.</div>
+            </div>
+          </div>
+          <div class="card" style="margin-top:16px">
+            <div class="card-header"><h2 class="card-title"><span class="title-dot green"></span>Recently added</h2></div>
+            <div id="recent-records" class="recent-records"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ═══ TAB: INVESTIGATIONS ═══ -->
+    <div class="tab-content" id="tab-investigations">
+      <div class="page-header">
+        <div>
+          <h1 class="page-title">Investigation Tracking</h1>
+          <p class="page-subtitle">Case progress from FIR to trial. Chargesheet deadline per BNSS s.187(3): 90 days from arrest for offences punishable with death, life or 10+ years, otherwise 60 days.</p>
+        </div>
+        <div class="page-actions">
+          <select id="inv-new-fir" class="filter-select" style="max-width:320px"></select>
+          <button class="btn btn-primary" onclick="openNewInvestigation()">Open investigation</button>
+        </div>
+      </div>
+      <div class="fin-stats-row">
+        <div class="fin-stat-card"><div class="fin-stat-label">Open cases</div><div class="fin-stat-value" id="inv-kpi-open">--</div></div>
+        <div class="fin-stat-card fin-danger"><div class="fin-stat-label">Chargesheet overdue</div><div class="fin-stat-value" id="inv-kpi-overdue">--</div></div>
+        <div class="fin-stat-card fin-warning"><div class="fin-stat-label">Due in 15 days</div><div class="fin-stat-value" id="inv-kpi-due">--</div></div>
+        <div class="fin-stat-card fin-info"><div class="fin-stat-label">Chargesheeted / trial</div><div class="fin-stat-value" id="inv-kpi-cs">--</div></div>
+      </div>
+      <div class="filter-bar" style="margin-bottom:14px">
+        <div class="search-box">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          <input type="text" id="inv-search" placeholder="Case ID, FIR no., IO, accused..." oninput="renderInvestigations()" />
+        </div>
+        <select id="inv-state" class="filter-select" onchange="renderInvestigations()"><option value="">All States</option></select>
+        <select id="inv-stage" class="filter-select" onchange="renderInvestigations()"><option value="">All Stages</option></select>
+        <select id="inv-priority" class="filter-select" onchange="renderInvestigations()">
+          <option value="">All Priorities</option><option>P1 - Urgent</option><option>P2 - High</option><option>P3 - Normal</option><option>P4 - Low</option>
+        </select>
+        <label class="toggle-label"><input type="checkbox" id="inv-overdue" onchange="renderInvestigations()" /><span>Overdue only</span></label>
+      </div>
+      <div class="firs-table-container">
+        <table class="data-table">
+          <thead><tr><th>Case</th><th>FIR / Crime</th><th>Police Station</th><th>IO</th><th>Stage</th><th>Chargesheet deadline</th><th>Priority</th></tr></thead>
+          <tbody id="inv-tbody"><tr><td colspan="7" class="loading-cell"><div class="loading-spinner"></div></td></tr></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- ═══ TAB: LAWFUL ACTION ═══ -->
+    <div class="tab-content" id="tab-legal">
+      <div class="page-header">
+        <div>
+          <h1 class="page-title">Possible Lawful Action</h1>
+          <p class="page-subtitle">Current criminal laws, procedure under BNSS 2023, crime-wise options and latest legal news</p>
+        </div>
+      </div>
+      <div class="legal-banner">
+        <strong>New criminal laws in force from 1 July 2024.</strong>
+        Bharatiya Nyaya Sanhita (BNS), Bharatiya Nagarik Suraksha Sanhita (BNSS) and Bharatiya Sakshya Adhiniyam (BSA)
+        replaced the IPC, CrPC and Indian Evidence Act. Offences committed before that date stay under the old laws.
+        <span class="legal-disclaimer">Reference aid only, not legal advice. Always check the bare Act and current court rulings.</span>
+      </div>
+
+      <div class="legal-grid">
+        <div class="card legal-finder">
+          <div class="card-header"><h2 class="card-title"><span class="title-dot red"></span>Find actions for a crime</h2></div>
+          <div class="filter-bar" style="margin-bottom:12px">
+            <select id="legal-category" class="filter-select" onchange="onLegalCategoryChange()"></select>
+            <select id="legal-crime" class="filter-select" onchange="renderLegalCrime()"></select>
+          </div>
+          <div id="legal-crime-detail"></div>
+        </div>
+
+        <div class="card">
+          <div class="card-header">
+            <h2 class="card-title"><span class="title-dot blue"></span>Latest news</h2>
+            <select id="news-topic" class="filter-select" onchange="loadNews()">
+              <option value="new-laws">New criminal laws</option>
+              <option value="supreme-court">Supreme Court judgments</option>
+              <option value="cyber">Cyber crime</option>
+              <option value="ndps">Narcotics / NDPS</option>
+              <option value="organised">Organised crime</option>
+              <option value="women">Crimes against women</option>
+            </select>
+          </div>
+          <div class="news-list" id="news-list"><div class="loading-spinner"></div></div>
+        </div>
+      </div>
+
+      <div class="card" style="margin-top:20px">
+        <div class="card-header"><h2 class="card-title"><span class="title-dot purple"></span>Current laws (official text on India Code)</h2></div>
+        <div class="law-grid" id="law-grid"></div>
+      </div>
+
+      <div class="legal-grid" style="margin-top:20px">
+        <div class="card">
+          <div class="card-header"><h2 class="card-title"><span class="title-dot yellow"></span>Procedure under BNSS / BSA</h2></div>
+          <ol class="procedure-list" id="procedure-list"></ol>
+        </div>
+        <div class="card">
+          <div class="card-header"><h2 class="card-title"><span class="title-dot green"></span>Official portals &amp; helplines</h2></div>
+          <div class="helpline-row" id="helpline-row"></div>
+          <ul class="portal-list" id="portal-list"></ul>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- ═══ PERSON DETAIL MODAL ═══ -->
+  <div class="modal-overlay" id="modal-overlay" onclick="closeModal()"></div>
+  <div class="modal" id="person-modal">
+    <button class="modal-close" onclick="closeModal()">✕</button>
+    <div id="modal-content"></div>
+  </div>
+
+  <!-- Scripts -->
+  <!-- Bundled locally so the app works without internet -->
+  <script src="{{ url_for('static', filename='vendor/d3.min.js') }}"></script>
+  <script src="{{ url_for('static', filename='vendor/chart.umd.min.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>

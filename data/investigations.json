@@ -1,0 +1,5820 @@
+[
+  {
+    "case_id": "INV-2022-0001",
+    "fir_id": "UP/LUC/GOMT/0079/2022",
+    "fir_no": "0079/2022",
+    "crime_type": "Drug Trafficking (Commercial Qty)",
+    "crime_category": "Heinous",
+    "sections": [
+      "NDPS Act 1985 Sec 21(c)"
+    ],
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "police_station": "Gomti Nagar PS",
+    "io_name": "SI Kishore Mishra",
+    "priority": "P1 - Urgent",
+    "opened_on": "2022-02-08",
+    "accused_ids": [
+      "P026"
+    ],
+    "accused_names": [
+      "Bhupinder Ansari"
+    ],
+    "stage_index": 5,
+    "stage": "Chargesheet Filed",
+    "arrest_date": "2024-06-18",
+    "deadline_days": 90,
+    "chargesheet_due": "2024-09-16",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-02-08",
+        "stage": "FIR Registered",
+        "by": "SI Kishore Mishra",
+        "note": "FIR 0079/2022 registered at Gomti Nagar PS u/s NDPS Act 1985 Sec 21(c)."
+      },
+      {
+        "date": "2022-11-24",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Kishore Mishra",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2023-09-07",
+        "stage": "Evidence Collection",
+        "by": "SI Kishore Mishra",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2024-06-18",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Kishore Mishra",
+        "note": "1 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2025-04-01",
+        "stage": "Custody & Remand",
+        "by": "SI Kishore Mishra",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-01-15",
+        "stage": "Chargesheet Filed",
+        "by": "SI Kishore Mishra",
+        "note": "Chargesheet filed before the court."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0002",
+    "fir_id": "TS/RAN/RAJE/0047/2022",
+    "fir_no": "0047/2022",
+    "crime_type": "Grievous Hurt",
+    "crime_category": "Major",
+    "sections": [
+      "IPC 325",
+      "IPC 34"
+    ],
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "police_station": "Rajendranagar PS",
+    "io_name": "SI Senthil Rao",
+    "priority": "P2 - High",
+    "opened_on": "2022-02-23",
+    "accused_ids": [
+      "P021",
+      "P012",
+      "P023",
+      "P047"
+    ],
+    "accused_names": [
+      "Rakesh Reddy",
+      "Mukesh Jha",
+      "Salman Shekhawat",
+      "Jignesh Shaikh"
+    ],
+    "stage_index": 6,
+    "stage": "Under Trial",
+    "arrest_date": "2024-02-26",
+    "deadline_days": 60,
+    "chargesheet_due": "2024-04-26",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-02-23",
+        "stage": "FIR Registered",
+        "by": "SI Senthil Rao",
+        "note": "FIR 0047/2022 registered at Rajendranagar PS u/s IPC 325, IPC 34."
+      },
+      {
+        "date": "2022-10-24",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Senthil Rao",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2023-06-28",
+        "stage": "Evidence Collection",
+        "by": "SI Senthil Rao",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2024-02-26",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Senthil Rao",
+        "note": "4 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2024-10-25",
+        "stage": "Custody & Remand",
+        "by": "SI Senthil Rao",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2025-06-25",
+        "stage": "Chargesheet Filed",
+        "by": "SI Senthil Rao",
+        "note": "Chargesheet filed before the court."
+      },
+      {
+        "date": "2026-02-24",
+        "stage": "Under Trial",
+        "by": "SI Senthil Rao",
+        "note": "Charges framed; trial in progress."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0003",
+    "fir_id": "MH/NC/SADA/0163/2022",
+    "fir_no": "0163/2022",
+    "crime_type": "Kidnapping & Abduction",
+    "crime_category": "Major",
+    "sections": [
+      "IPC 363",
+      "IPC 34"
+    ],
+    "state": "Maharashtra",
+    "district": "Nagpur City",
+    "police_station": "Sadar PS",
+    "io_name": "Inspector Bhupinder Pawar",
+    "priority": "P2 - High",
+    "opened_on": "2022-03-11",
+    "accused_ids": [
+      "P009",
+      "P057"
+    ],
+    "accused_names": [
+      "Bablu Malhotra",
+      "Geeta Tiwari"
+    ],
+    "stage_index": 6,
+    "stage": "Under Trial",
+    "arrest_date": "2024-03-04",
+    "deadline_days": 60,
+    "chargesheet_due": "2024-05-03",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-03-11",
+        "stage": "FIR Registered",
+        "by": "Inspector Bhupinder Pawar",
+        "note": "FIR 0163/2022 registered at Sadar PS u/s IPC 363, IPC 34."
+      },
+      {
+        "date": "2022-11-10",
+        "stage": "Scene Visit & Forensics",
+        "by": "Inspector Bhupinder Pawar",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2023-07-07",
+        "stage": "Evidence Collection",
+        "by": "Inspector Bhupinder Pawar",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2024-03-04",
+        "stage": "Arrest / Notice Served",
+        "by": "Inspector Bhupinder Pawar",
+        "note": "2 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2024-10-31",
+        "stage": "Custody & Remand",
+        "by": "Inspector Bhupinder Pawar",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2025-06-30",
+        "stage": "Chargesheet Filed",
+        "by": "Inspector Bhupinder Pawar",
+        "note": "Chargesheet filed before the court."
+      },
+      {
+        "date": "2026-02-26",
+        "stage": "Under Trial",
+        "by": "Inspector Bhupinder Pawar",
+        "note": "Charges framed; trial in progress."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0004",
+    "fir_id": "RJ/JAI/ASHO/0089/2022",
+    "fir_no": "0089/2022",
+    "crime_type": "Dacoity",
+    "crime_category": "Heinous",
+    "sections": [
+      "IPC 395",
+      "IPC 34"
+    ],
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "police_station": "Ashok Nagar PS",
+    "io_name": "ASI Rahul Rathore",
+    "priority": "P2 - High",
+    "opened_on": "2022-03-21",
+    "accused_ids": [
+      "P036",
+      "P050",
+      "P045"
+    ],
+    "accused_names": [
+      "Harpreet Shekhawat",
+      "Senthil Mishra",
+      "Anirban Sinha"
+    ],
+    "stage_index": 2,
+    "stage": "Evidence Collection",
+    "arrest_date": null,
+    "deadline_days": 90,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-03-21",
+        "stage": "FIR Registered",
+        "by": "ASI Rahul Rathore",
+        "note": "FIR 0089/2022 registered at Ashok Nagar PS u/s IPC 395, IPC 34."
+      },
+      {
+        "date": "2023-10-03",
+        "stage": "Scene Visit & Forensics",
+        "by": "ASI Rahul Rathore",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-04-14",
+        "stage": "Evidence Collection",
+        "by": "ASI Rahul Rathore",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0005",
+    "fir_id": "TN/CHE/TNAG/0267/2022",
+    "fir_no": "0267/2022",
+    "crime_type": "Hacking / Computer-related Offence",
+    "crime_category": "Minor",
+    "sections": [
+      "IT Act 2000 Sec 66"
+    ],
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "police_station": "T. Nagar PS",
+    "io_name": "SI Jaswinder Murugan",
+    "priority": "P4 - Low",
+    "opened_on": "2022-03-31",
+    "accused_ids": [
+      "P039",
+      "P008"
+    ],
+    "accused_names": [
+      "Jaswinder Saxena",
+      "Ananya Pillai"
+    ],
+    "stage_index": 5,
+    "stage": "Chargesheet Filed",
+    "arrest_date": "2024-07-14",
+    "deadline_days": 60,
+    "chargesheet_due": "2024-09-12",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-03-31",
+        "stage": "FIR Registered",
+        "by": "SI Jaswinder Murugan",
+        "note": "FIR 0267/2022 registered at T. Nagar PS u/s IT Act 2000 Sec 66."
+      },
+      {
+        "date": "2023-01-05",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Jaswinder Murugan",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2023-10-11",
+        "stage": "Evidence Collection",
+        "by": "SI Jaswinder Murugan",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2024-07-14",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Jaswinder Murugan",
+        "note": "2 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2025-04-18",
+        "stage": "Custody & Remand",
+        "by": "SI Jaswinder Murugan",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-01-22",
+        "stage": "Chargesheet Filed",
+        "by": "SI Jaswinder Murugan",
+        "note": "Chargesheet filed before the court."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0006",
+    "fir_id": "PB/LUD/DIVI/0118/2022",
+    "fir_no": "0118/2022",
+    "crime_type": "Gambling / Betting Racket",
+    "crime_category": "Minor",
+    "sections": [
+      "Public Gambling Act 1867 Sec 3/4 (or State Gaming Act)"
+    ],
+    "state": "Punjab",
+    "district": "Ludhiana",
+    "police_station": "Division No. 2 PS",
+    "io_name": "ASI Gurpreet Brar",
+    "priority": "P3 - Normal",
+    "opened_on": "2022-04-14",
+    "accused_ids": [
+      "P014",
+      "P032",
+      "P046",
+      "P018"
+    ],
+    "accused_names": [
+      "Sachin Singh",
+      "Rekha Rathore",
+      "Prakash Verma",
+      "Sanjay Kumar"
+    ],
+    "stage_index": 6,
+    "stage": "Under Trial",
+    "arrest_date": "2024-03-26",
+    "deadline_days": 60,
+    "chargesheet_due": "2024-05-25",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-04-14",
+        "stage": "FIR Registered",
+        "by": "ASI Gurpreet Brar",
+        "note": "FIR 0118/2022 registered at Division No. 2 PS u/s Public Gambling Act 1867 Sec 3/4 (or State Gaming Act)."
+      },
+      {
+        "date": "2022-12-06",
+        "stage": "Scene Visit & Forensics",
+        "by": "ASI Gurpreet Brar",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2023-07-31",
+        "stage": "Evidence Collection",
+        "by": "ASI Gurpreet Brar",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2024-03-26",
+        "stage": "Arrest / Notice Served",
+        "by": "ASI Gurpreet Brar",
+        "note": "4 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2024-11-17",
+        "stage": "Custody & Remand",
+        "by": "ASI Gurpreet Brar",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2025-07-12",
+        "stage": "Chargesheet Filed",
+        "by": "ASI Gurpreet Brar",
+        "note": "Chargesheet filed before the court."
+      },
+      {
+        "date": "2026-03-03",
+        "stage": "Under Trial",
+        "by": "ASI Gurpreet Brar",
+        "note": "Charges framed; trial in progress."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0007",
+    "fir_id": "MH/NC/SITA/0312/2022",
+    "fir_no": "0312/2022",
+    "crime_type": "Money Laundering / Hawala",
+    "crime_category": "Major",
+    "sections": [
+      "PMLA 2002 Sec 3 r/w 4"
+    ],
+    "state": "Maharashtra",
+    "district": "Nagpur City",
+    "police_station": "Sitabuldi PS",
+    "io_name": "SI Santosh Kulkarni",
+    "priority": "P3 - Normal",
+    "opened_on": "2022-04-27",
+    "accused_ids": [
+      "P005",
+      "P048",
+      "P026",
+      "P027"
+    ],
+    "accused_names": [
+      "Nirmala Kulkarni",
+      "Nirmala Choudhary",
+      "Bhupinder Ansari",
+      "Santosh Mishra"
+    ],
+    "stage_index": 4,
+    "stage": "Custody & Remand",
+    "arrest_date": "2025-01-07",
+    "deadline_days": 90,
+    "chargesheet_due": "2025-04-07",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-04-27",
+        "stage": "FIR Registered",
+        "by": "SI Santosh Kulkarni",
+        "note": "FIR 0312/2022 registered at Sitabuldi PS u/s PMLA 2002 Sec 3 r/w 4."
+      },
+      {
+        "date": "2023-03-23",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Santosh Kulkarni",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2024-02-15",
+        "stage": "Evidence Collection",
+        "by": "SI Santosh Kulkarni",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-01-07",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Santosh Kulkarni",
+        "note": "4 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2025-12-03",
+        "stage": "Custody & Remand",
+        "by": "SI Santosh Kulkarni",
+        "note": "Accused produced before Magistrate; police custody granted."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0008",
+    "fir_id": "MH/MC/DONG/0369/2022",
+    "fir_no": "0369/2022",
+    "crime_type": "Kidnapping & Abduction",
+    "crime_category": "Major",
+    "sections": [
+      "IPC 363",
+      "IPC 34"
+    ],
+    "state": "Maharashtra",
+    "district": "Mumbai City",
+    "police_station": "Dongri PS",
+    "io_name": "SI Senthil Jadhav",
+    "priority": "P2 - High",
+    "opened_on": "2022-05-04",
+    "accused_ids": [
+      "P038",
+      "P032"
+    ],
+    "accused_names": [
+      "Prakash Shaikh",
+      "Rekha Rathore"
+    ],
+    "stage_index": 2,
+    "stage": "Evidence Collection",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-05-04",
+        "stage": "FIR Registered",
+        "by": "SI Senthil Jadhav",
+        "note": "FIR 0369/2022 registered at Dongri PS u/s IPC 363, IPC 34."
+      },
+      {
+        "date": "2023-10-31",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Senthil Jadhav",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-04-28",
+        "stage": "Evidence Collection",
+        "by": "SI Senthil Jadhav",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0009",
+    "fir_id": "TS/HYD/CHAR/0333/2022",
+    "fir_no": "0333/2022",
+    "crime_type": "Criminal Breach of Trust",
+    "crime_category": "Major",
+    "sections": [
+      "IPC 406",
+      "IPC 34"
+    ],
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "police_station": "Charminar PS",
+    "io_name": "SI Anil Naidu",
+    "priority": "P3 - Normal",
+    "opened_on": "2022-05-15",
+    "accused_ids": [
+      "P025",
+      "P028",
+      "P051"
+    ],
+    "accused_names": [
+      "Rahul Reddy",
+      "Rahul Kulkarni",
+      "Jaswinder Krishnan"
+    ],
+    "stage_index": 3,
+    "stage": "Arrest / Notice Served",
+    "arrest_date": "2025-09-17",
+    "deadline_days": 60,
+    "chargesheet_due": "2025-11-16",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-05-15",
+        "stage": "FIR Registered",
+        "by": "SI Anil Naidu",
+        "note": "FIR 0333/2022 registered at Charminar PS u/s IPC 406, IPC 34."
+      },
+      {
+        "date": "2023-06-25",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Anil Naidu",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2024-08-06",
+        "stage": "Evidence Collection",
+        "by": "SI Anil Naidu",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-09-17",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Anil Naidu",
+        "note": "3 accused identified; arrests / notices under BNSS s.35."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0010",
+    "fir_id": "KA/BU/JAYA/0215/2022",
+    "fir_no": "0215/2022",
+    "crime_type": "Robbery",
+    "crime_category": "Major",
+    "sections": [
+      "IPC 392"
+    ],
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "police_station": "Jayanagar PS",
+    "io_name": "SI Rakesh Kumar",
+    "priority": "P2 - High",
+    "opened_on": "2022-05-20",
+    "accused_ids": [
+      "P049"
+    ],
+    "accused_names": [
+      "Rakesh Qureshi"
+    ],
+    "stage_index": 5,
+    "stage": "Chargesheet Filed",
+    "arrest_date": "2024-08-08",
+    "deadline_days": 90,
+    "chargesheet_due": "2024-11-06",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-05-20",
+        "stage": "FIR Registered",
+        "by": "SI Rakesh Kumar",
+        "note": "FIR 0215/2022 registered at Jayanagar PS u/s IPC 392."
+      },
+      {
+        "date": "2023-02-14",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Rakesh Kumar",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2023-11-11",
+        "stage": "Evidence Collection",
+        "by": "SI Rakesh Kumar",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2024-08-08",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Rakesh Kumar",
+        "note": "1 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2025-05-05",
+        "stage": "Custody & Remand",
+        "by": "SI Rakesh Kumar",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-01-29",
+        "stage": "Chargesheet Filed",
+        "by": "SI Rakesh Kumar",
+        "note": "Chargesheet filed before the court."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0011",
+    "fir_id": "WB/N2P/BIDH/0399/2022",
+    "fir_no": "0399/2022",
+    "crime_type": "Attempt to Murder",
+    "crime_category": "Heinous",
+    "sections": [
+      "IPC 307",
+      "IPC 34"
+    ],
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "police_station": "Bidhannagar PS",
+    "io_name": "SI Vinod Mukherjee",
+    "priority": "P2 - High",
+    "opened_on": "2022-06-12",
+    "accused_ids": [
+      "P059",
+      "P045",
+      "P049"
+    ],
+    "accused_names": [
+      "Vijay Mondal",
+      "Anirban Sinha",
+      "Rakesh Qureshi"
+    ],
+    "stage_index": 1,
+    "stage": "Scene Visit & Forensics",
+    "arrest_date": null,
+    "deadline_days": 90,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-06-12",
+        "stage": "FIR Registered",
+        "by": "SI Vinod Mukherjee",
+        "note": "FIR 0399/2022 registered at Bidhannagar PS u/s IPC 307, IPC 34."
+      },
+      {
+        "date": "2024-08-21",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Vinod Mukherjee",
+        "note": "Scene inspected; forensic team collected samples."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0012",
+    "fir_id": "GJ/SUR/ATHW/0189/2022",
+    "fir_no": "0189/2022",
+    "crime_type": "Cheating",
+    "crime_category": "Major",
+    "sections": [
+      "IPC 420",
+      "IPC 34"
+    ],
+    "state": "Gujarat",
+    "district": "Surat",
+    "police_station": "Athwalines PS",
+    "io_name": "SI Imran Chaudhary",
+    "priority": "P2 - High",
+    "opened_on": "2022-06-13",
+    "accused_ids": [
+      "P024",
+      "P035",
+      "P006",
+      "P008"
+    ],
+    "accused_names": [
+      "Dilip Shah",
+      "Sunil Mishra",
+      "Deepak Raghuvanshi",
+      "Ananya Pillai"
+    ],
+    "stage_index": 5,
+    "stage": "Chargesheet Filed",
+    "arrest_date": "2024-08-20",
+    "deadline_days": 60,
+    "chargesheet_due": "2024-10-19",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-06-13",
+        "stage": "FIR Registered",
+        "by": "SI Imran Chaudhary",
+        "note": "FIR 0189/2022 registered at Athwalines PS u/s IPC 420, IPC 34."
+      },
+      {
+        "date": "2023-03-09",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Imran Chaudhary",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2023-11-27",
+        "stage": "Evidence Collection",
+        "by": "SI Imran Chaudhary",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2024-08-20",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Imran Chaudhary",
+        "note": "4 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2025-05-14",
+        "stage": "Custody & Remand",
+        "by": "SI Imran Chaudhary",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-02-04",
+        "stage": "Chargesheet Filed",
+        "by": "SI Imran Chaudhary",
+        "note": "Chargesheet filed before the court."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0013",
+    "fir_id": "MH/NC/SADA/0182/2022",
+    "fir_no": "0182/2022",
+    "crime_type": "Grievous Hurt",
+    "crime_category": "Major",
+    "sections": [
+      "IPC 325",
+      "IPC 34"
+    ],
+    "state": "Maharashtra",
+    "district": "Nagpur City",
+    "police_station": "Sadar PS",
+    "io_name": "SI Santosh Kulkarni",
+    "priority": "P2 - High",
+    "opened_on": "2022-07-06",
+    "accused_ids": [
+      "P028",
+      "P050",
+      "P022"
+    ],
+    "accused_names": [
+      "Rahul Kulkarni",
+      "Senthil Mishra",
+      "Nitin Subramanian"
+    ],
+    "stage_index": 0,
+    "stage": "FIR Registered",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-07-06",
+        "stage": "FIR Registered",
+        "by": "SI Santosh Kulkarni",
+        "note": "FIR 0182/2022 registered at Sadar PS u/s IPC 325, IPC 34."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0014",
+    "fir_id": "PB/LUD/DIVI/0143/2022",
+    "fir_no": "0143/2022",
+    "crime_type": "Illegal Arms Possession",
+    "crime_category": "Minor",
+    "sections": [
+      "Arms Act 1959 Sec 25(1B)(a)"
+    ],
+    "state": "Punjab",
+    "district": "Ludhiana",
+    "police_station": "Division No. 2 PS",
+    "io_name": "ASI Naveen Singh",
+    "priority": "P4 - Low",
+    "opened_on": "2022-07-06",
+    "accused_ids": [
+      "P011",
+      "P039"
+    ],
+    "accused_names": [
+      "Hemant Dhillon",
+      "Jaswinder Saxena"
+    ],
+    "stage_index": 3,
+    "stage": "Arrest / Notice Served",
+    "arrest_date": "2025-09-30",
+    "deadline_days": 60,
+    "chargesheet_due": "2025-11-29",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-07-06",
+        "stage": "FIR Registered",
+        "by": "ASI Naveen Singh",
+        "note": "FIR 0143/2022 registered at Division No. 2 PS u/s Arms Act 1959 Sec 25(1B)(a)."
+      },
+      {
+        "date": "2023-08-05",
+        "stage": "Scene Visit & Forensics",
+        "by": "ASI Naveen Singh",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2024-08-30",
+        "stage": "Evidence Collection",
+        "by": "ASI Naveen Singh",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-09-30",
+        "stage": "Arrest / Notice Served",
+        "by": "ASI Naveen Singh",
+        "note": "2 accused identified; arrests / notices under BNSS s.35."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0015",
+    "fir_id": "BR/GAY/RAMP/0065/2022",
+    "fir_no": "0065/2022",
+    "crime_type": "Arms Manufacture / Sale",
+    "crime_category": "Heinous",
+    "sections": [
+      "Arms Act 1959 Sec 25(1)(a)"
+    ],
+    "state": "Bihar",
+    "district": "Gaya",
+    "police_station": "Rampur PS",
+    "io_name": "ASI Faizan Jha",
+    "priority": "P1 - Urgent",
+    "opened_on": "2022-08-16",
+    "accused_ids": [
+      "P004"
+    ],
+    "accused_names": [
+      "Ajay Parmar"
+    ],
+    "stage_index": 6,
+    "stage": "Under Trial",
+    "arrest_date": "2024-06-02",
+    "deadline_days": 90,
+    "chargesheet_due": "2024-08-31",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-08-16",
+        "stage": "FIR Registered",
+        "by": "ASI Faizan Jha",
+        "note": "FIR 0065/2022 registered at Rampur PS u/s Arms Act 1959 Sec 25(1)(a)."
+      },
+      {
+        "date": "2023-03-23",
+        "stage": "Scene Visit & Forensics",
+        "by": "ASI Faizan Jha",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2023-10-28",
+        "stage": "Evidence Collection",
+        "by": "ASI Faizan Jha",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2024-06-02",
+        "stage": "Arrest / Notice Served",
+        "by": "ASI Faizan Jha",
+        "note": "1 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2025-01-07",
+        "stage": "Custody & Remand",
+        "by": "ASI Faizan Jha",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2025-08-14",
+        "stage": "Chargesheet Filed",
+        "by": "ASI Faizan Jha",
+        "note": "Chargesheet filed before the court."
+      },
+      {
+        "date": "2026-03-24",
+        "stage": "Under Trial",
+        "by": "ASI Faizan Jha",
+        "note": "Charges framed; trial in progress."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0016",
+    "fir_id": "MP/IND/VIJA/0228/2022",
+    "fir_no": "0228/2022",
+    "crime_type": "Robbery",
+    "crime_category": "Major",
+    "sections": [
+      "IPC 392",
+      "IPC 34"
+    ],
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "police_station": "Vijay Nagar PS",
+    "io_name": "Inspector Bhavesh Khan",
+    "priority": "P2 - High",
+    "opened_on": "2022-08-26",
+    "accused_ids": [
+      "P023",
+      "P032"
+    ],
+    "accused_names": [
+      "Salman Shekhawat",
+      "Rekha Rathore"
+    ],
+    "stage_index": 3,
+    "stage": "Arrest / Notice Served",
+    "arrest_date": "2025-10-13",
+    "deadline_days": 90,
+    "chargesheet_due": "2026-01-11",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-08-26",
+        "stage": "FIR Registered",
+        "by": "Inspector Bhavesh Khan",
+        "note": "FIR 0228/2022 registered at Vijay Nagar PS u/s IPC 392, IPC 34."
+      },
+      {
+        "date": "2023-09-11",
+        "stage": "Scene Visit & Forensics",
+        "by": "Inspector Bhavesh Khan",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2024-09-26",
+        "stage": "Evidence Collection",
+        "by": "Inspector Bhavesh Khan",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-10-13",
+        "stage": "Arrest / Notice Served",
+        "by": "Inspector Bhavesh Khan",
+        "note": "2 accused identified; arrests / notices under BNSS s.35."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0017",
+    "fir_id": "KA/BU/WHIT/0089/2022",
+    "fir_no": "0089/2022",
+    "crime_type": "Dowry Death",
+    "crime_category": "Heinous",
+    "sections": [
+      "IPC 304B",
+      "IPC 34"
+    ],
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "police_station": "Whitefield PS",
+    "io_name": "Inspector Bhavesh Shetty",
+    "priority": "P2 - High",
+    "opened_on": "2022-08-30",
+    "accused_ids": [
+      "P002",
+      "P009",
+      "P057",
+      "P039"
+    ],
+    "accused_names": [
+      "Mukesh Tiwari",
+      "Bablu Malhotra",
+      "Geeta Tiwari",
+      "Jaswinder Saxena"
+    ],
+    "stage_index": 5,
+    "stage": "Chargesheet Filed",
+    "arrest_date": "2024-09-30",
+    "deadline_days": 90,
+    "chargesheet_due": "2024-12-29",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-08-30",
+        "stage": "FIR Registered",
+        "by": "Inspector Bhavesh Shetty",
+        "note": "FIR 0089/2022 registered at Whitefield PS u/s IPC 304B, IPC 34."
+      },
+      {
+        "date": "2023-05-11",
+        "stage": "Scene Visit & Forensics",
+        "by": "Inspector Bhavesh Shetty",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2024-01-21",
+        "stage": "Evidence Collection",
+        "by": "Inspector Bhavesh Shetty",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2024-09-30",
+        "stage": "Arrest / Notice Served",
+        "by": "Inspector Bhavesh Shetty",
+        "note": "4 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2025-06-07",
+        "stage": "Custody & Remand",
+        "by": "Inspector Bhavesh Shetty",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-02-18",
+        "stage": "Chargesheet Filed",
+        "by": "Inspector Bhavesh Shetty",
+        "note": "Chargesheet filed before the court."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0018",
+    "fir_id": "GJ/SUR/UDHN/0060/2022",
+    "fir_no": "0060/2022",
+    "crime_type": "Kidnapping & Abduction",
+    "crime_category": "Major",
+    "sections": [
+      "IPC 363"
+    ],
+    "state": "Gujarat",
+    "district": "Surat",
+    "police_station": "Udhna PS",
+    "io_name": "SI Anil Chaudhary",
+    "priority": "P2 - High",
+    "opened_on": "2022-09-16",
+    "accused_ids": [
+      "P010"
+    ],
+    "accused_names": [
+      "Vinod Chaudhary"
+    ],
+    "stage_index": 6,
+    "stage": "Under Trial",
+    "arrest_date": "2024-06-22",
+    "deadline_days": 60,
+    "chargesheet_due": "2024-08-21",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-09-16",
+        "stage": "FIR Registered",
+        "by": "SI Anil Chaudhary",
+        "note": "FIR 0060/2022 registered at Udhna PS u/s IPC 363."
+      },
+      {
+        "date": "2023-04-19",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Anil Chaudhary",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2023-11-18",
+        "stage": "Evidence Collection",
+        "by": "SI Anil Chaudhary",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2024-06-22",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Anil Chaudhary",
+        "note": "1 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2025-01-22",
+        "stage": "Custody & Remand",
+        "by": "SI Anil Chaudhary",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2025-08-23",
+        "stage": "Chargesheet Filed",
+        "by": "SI Anil Chaudhary",
+        "note": "Chargesheet filed before the court."
+      },
+      {
+        "date": "2026-03-26",
+        "stage": "Under Trial",
+        "by": "SI Anil Chaudhary",
+        "note": "Charges framed; trial in progress."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0019",
+    "fir_id": "MH/NC/SITA/0336/2022",
+    "fir_no": "0336/2022",
+    "crime_type": "Counterfeit Currency (FICN)",
+    "crime_category": "Heinous",
+    "sections": [
+      "IPC 489A",
+      "IPC 34"
+    ],
+    "state": "Maharashtra",
+    "district": "Nagpur City",
+    "police_station": "Sitabuldi PS",
+    "io_name": "SI Mukesh Deshmukh",
+    "priority": "P1 - Urgent",
+    "opened_on": "2022-10-05",
+    "accused_ids": [
+      "P047",
+      "P058"
+    ],
+    "accused_names": [
+      "Jignesh Shaikh",
+      "Sanjay Shaikh"
+    ],
+    "stage_index": 2,
+    "stage": "Evidence Collection",
+    "arrest_date": null,
+    "deadline_days": 90,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-10-05",
+        "stage": "FIR Registered",
+        "by": "SI Mukesh Deshmukh",
+        "note": "FIR 0336/2022 registered at Sitabuldi PS u/s IPC 489A, IPC 34."
+      },
+      {
+        "date": "2024-02-14",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Mukesh Deshmukh",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-06-19",
+        "stage": "Evidence Collection",
+        "by": "SI Mukesh Deshmukh",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0020",
+    "fir_id": "RJ/JOD/RATA/0326/2022",
+    "fir_no": "0326/2022",
+    "crime_type": "Counterfeit Currency (FICN)",
+    "crime_category": "Heinous",
+    "sections": [
+      "IPC 489A",
+      "IPC 34"
+    ],
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "police_station": "Ratanada PS",
+    "io_name": "SI Hemant Gurjar",
+    "priority": "P2 - High",
+    "opened_on": "2022-11-02",
+    "accused_ids": [
+      "P036",
+      "P019",
+      "P044",
+      "P039"
+    ],
+    "accused_names": [
+      "Harpreet Shekhawat",
+      "Meena Chouhan",
+      "Kishore Naidu",
+      "Jaswinder Saxena"
+    ],
+    "stage_index": 2,
+    "stage": "Evidence Collection",
+    "arrest_date": null,
+    "deadline_days": 90,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-11-02",
+        "stage": "FIR Registered",
+        "by": "SI Hemant Gurjar",
+        "note": "FIR 0326/2022 registered at Ratanada PS u/s IPC 489A, IPC 34."
+      },
+      {
+        "date": "2024-03-01",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Hemant Gurjar",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-06-29",
+        "stage": "Evidence Collection",
+        "by": "SI Hemant Gurjar",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0021",
+    "fir_id": "GJ/SUR/VARA/0132/2022",
+    "fir_no": "0132/2022",
+    "crime_type": "Cheating",
+    "crime_category": "Major",
+    "sections": [
+      "IPC 420",
+      "IPC 34"
+    ],
+    "state": "Gujarat",
+    "district": "Surat",
+    "police_station": "Varachha PS",
+    "io_name": "SI Amit Chaudhary",
+    "priority": "P2 - High",
+    "opened_on": "2022-11-24",
+    "accused_ids": [
+      "P010",
+      "P033"
+    ],
+    "accused_names": [
+      "Vinod Chaudhary",
+      "Revathi Patel"
+    ],
+    "stage_index": 3,
+    "stage": "Arrest / Notice Served",
+    "arrest_date": "2025-11-04",
+    "deadline_days": 60,
+    "chargesheet_due": "2026-01-03",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-11-24",
+        "stage": "FIR Registered",
+        "by": "SI Amit Chaudhary",
+        "note": "FIR 0132/2022 registered at Varachha PS u/s IPC 420, IPC 34."
+      },
+      {
+        "date": "2023-11-19",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Amit Chaudhary",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2024-11-09",
+        "stage": "Evidence Collection",
+        "by": "SI Amit Chaudhary",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-11-04",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Amit Chaudhary",
+        "note": "2 accused identified; arrests / notices under BNSS s.35."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0022",
+    "fir_id": "TN/CHE/EGMO/0209/2022",
+    "fir_no": "0209/2022",
+    "crime_type": "Arms Manufacture / Sale",
+    "crime_category": "Heinous",
+    "sections": [
+      "Arms Act 1959 Sec 25(1)(a)"
+    ],
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "police_station": "Egmore PS",
+    "io_name": "SI Mohit Selvam",
+    "priority": "P1 - Urgent",
+    "opened_on": "2022-12-08",
+    "accused_ids": [
+      "P041",
+      "P035",
+      "P046",
+      "P060"
+    ],
+    "accused_names": [
+      "Vinod Selvam",
+      "Sunil Mishra",
+      "Prakash Verma",
+      "Ganesh Jadhav"
+    ],
+    "stage_index": 1,
+    "stage": "Scene Visit & Forensics",
+    "arrest_date": null,
+    "deadline_days": 90,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-12-08",
+        "stage": "FIR Registered",
+        "by": "SI Mohit Selvam",
+        "note": "FIR 0209/2022 registered at Egmore PS u/s Arms Act 1959 Sec 25(1)(a)."
+      },
+      {
+        "date": "2024-11-19",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Mohit Selvam",
+        "note": "Scene inspected; forensic team collected samples."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2022-0023",
+    "fir_id": "RJ/JAI/VIDH/0234/2022",
+    "fir_no": "0234/2022",
+    "crime_type": "Identity Theft",
+    "crime_category": "Minor",
+    "sections": [
+      "IT Act 2000 Sec 66C"
+    ],
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "police_station": "Vidhyadhar Nagar PS",
+    "io_name": "SI Bhupinder Shekhawat",
+    "priority": "P4 - Low",
+    "opened_on": "2022-12-26",
+    "accused_ids": [
+      "P048"
+    ],
+    "accused_names": [
+      "Nirmala Choudhary"
+    ],
+    "stage_index": 2,
+    "stage": "Evidence Collection",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2022-12-26",
+        "stage": "FIR Registered",
+        "by": "SI Bhupinder Shekhawat",
+        "note": "FIR 0234/2022 registered at Vidhyadhar Nagar PS u/s IT Act 2000 Sec 66C."
+      },
+      {
+        "date": "2024-04-05",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Bhupinder Shekhawat",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-07-16",
+        "stage": "Evidence Collection",
+        "by": "SI Bhupinder Shekhawat",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2023-0024",
+    "fir_id": "MP/BHO/TTNA/0135/2023",
+    "fir_no": "0135/2023",
+    "crime_type": "Motor Vehicle Theft",
+    "crime_category": "Minor",
+    "sections": [
+      "IPC 379",
+      "IPC 34"
+    ],
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "police_station": "TT Nagar PS",
+    "io_name": "ASI Venkatesh Khan",
+    "priority": "P3 - Normal",
+    "opened_on": "2023-01-21",
+    "accused_ids": [
+      "P006",
+      "P015",
+      "P035"
+    ],
+    "accused_names": [
+      "Deepak Raghuvanshi",
+      "Faizan Rao",
+      "Sunil Mishra"
+    ],
+    "stage_index": 0,
+    "stage": "FIR Registered",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2023-01-21",
+        "stage": "FIR Registered",
+        "by": "ASI Venkatesh Khan",
+        "note": "FIR 0135/2023 registered at TT Nagar PS u/s IPC 379, IPC 34."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2023-0025",
+    "fir_id": "UP/VAR/CANT/0059/2023",
+    "fir_no": "0059/2023",
+    "crime_type": "Counterfeit Currency (FICN)",
+    "crime_category": "Heinous",
+    "sections": [
+      "IPC 489A",
+      "IPC 34"
+    ],
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "police_station": "Cantonment PS",
+    "io_name": "ASI Anil Mishra",
+    "priority": "P1 - Urgent",
+    "opened_on": "2023-05-01",
+    "accused_ids": [
+      "P029",
+      "P018",
+      "P014",
+      "P032"
+    ],
+    "accused_names": [
+      "Sushma Krishnan",
+      "Sanjay Kumar",
+      "Sachin Singh",
+      "Rekha Rathore"
+    ],
+    "stage_index": 4,
+    "stage": "Custody & Remand",
+    "arrest_date": "2025-06-05",
+    "deadline_days": 90,
+    "chargesheet_due": "2025-09-03",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2023-05-01",
+        "stage": "FIR Registered",
+        "by": "ASI Anil Mishra",
+        "note": "FIR 0059/2023 registered at Cantonment PS u/s IPC 489A, IPC 34."
+      },
+      {
+        "date": "2024-01-11",
+        "stage": "Scene Visit & Forensics",
+        "by": "ASI Anil Mishra",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2024-09-21",
+        "stage": "Evidence Collection",
+        "by": "ASI Anil Mishra",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-06-05",
+        "stage": "Arrest / Notice Served",
+        "by": "ASI Anil Mishra",
+        "note": "4 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-02-15",
+        "stage": "Custody & Remand",
+        "by": "ASI Anil Mishra",
+        "note": "Accused produced before Magistrate; police custody granted."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2023-0026",
+    "fir_id": "PB/LUD/SARA/0381/2023",
+    "fir_no": "0381/2023",
+    "crime_type": "Counterfeit Currency (FICN)",
+    "crime_category": "Heinous",
+    "sections": [
+      "IPC 489A",
+      "IPC 34"
+    ],
+    "state": "Punjab",
+    "district": "Ludhiana",
+    "police_station": "Sarabha Nagar PS",
+    "io_name": "SI Arif Sandhu",
+    "priority": "P1 - Urgent",
+    "opened_on": "2023-05-02",
+    "accused_ids": [
+      "P014",
+      "P037",
+      "P040"
+    ],
+    "accused_names": [
+      "Sachin Singh",
+      "Rekha Das",
+      "Vikram Shetty"
+    ],
+    "stage_index": 1,
+    "stage": "Scene Visit & Forensics",
+    "arrest_date": null,
+    "deadline_days": 90,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2023-05-02",
+        "stage": "FIR Registered",
+        "by": "SI Arif Sandhu",
+        "note": "FIR 0381/2023 registered at Sarabha Nagar PS u/s IPC 489A, IPC 34."
+      },
+      {
+        "date": "2025-01-28",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Arif Sandhu",
+        "note": "Scene inspected; forensic team collected samples."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2023-0027",
+    "fir_id": "GJ/SUR/ATHW/0241/2023",
+    "fir_no": "0241/2023",
+    "crime_type": "Human Trafficking",
+    "crime_category": "Heinous",
+    "sections": [
+      "IPC 370",
+      "IPC 34"
+    ],
+    "state": "Gujarat",
+    "district": "Surat",
+    "police_station": "Athwalines PS",
+    "io_name": "SI Anirban Desai",
+    "priority": "P1 - Urgent",
+    "opened_on": "2023-05-27",
+    "accused_ids": [
+      "P024",
+      "P006",
+      "P039"
+    ],
+    "accused_names": [
+      "Dilip Shah",
+      "Deepak Raghuvanshi",
+      "Jaswinder Saxena"
+    ],
+    "stage_index": 4,
+    "stage": "Custody & Remand",
+    "arrest_date": "2025-06-16",
+    "deadline_days": 90,
+    "chargesheet_due": "2025-09-14",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2023-05-27",
+        "stage": "FIR Registered",
+        "by": "SI Anirban Desai",
+        "note": "FIR 0241/2023 registered at Athwalines PS u/s IPC 370, IPC 34."
+      },
+      {
+        "date": "2024-02-03",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Anirban Desai",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2024-10-08",
+        "stage": "Evidence Collection",
+        "by": "SI Anirban Desai",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-06-16",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Anirban Desai",
+        "note": "3 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-02-19",
+        "stage": "Custody & Remand",
+        "by": "SI Anirban Desai",
+        "note": "Accused produced before Magistrate; police custody granted."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2023-0028",
+    "fir_id": "DL/SD/HAUZ/0277/2023",
+    "fir_no": "0277/2023",
+    "crime_type": "Robbery",
+    "crime_category": "Major",
+    "sections": [
+      "IPC 392",
+      "IPC 34"
+    ],
+    "state": "Delhi",
+    "district": "South Delhi",
+    "police_station": "Hauz Khas PS",
+    "io_name": "ASI Gurpreet Malhotra",
+    "priority": "P2 - High",
+    "opened_on": "2023-05-27",
+    "accused_ids": [
+      "P049",
+      "P005"
+    ],
+    "accused_names": [
+      "Rakesh Qureshi",
+      "Nirmala Kulkarni"
+    ],
+    "stage_index": 5,
+    "stage": "Chargesheet Filed",
+    "arrest_date": "2025-02-10",
+    "deadline_days": 90,
+    "chargesheet_due": "2025-05-11",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2023-05-27",
+        "stage": "FIR Registered",
+        "by": "ASI Gurpreet Malhotra",
+        "note": "FIR 0277/2023 registered at Hauz Khas PS u/s IPC 392, IPC 34."
+      },
+      {
+        "date": "2023-12-23",
+        "stage": "Scene Visit & Forensics",
+        "by": "ASI Gurpreet Malhotra",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2024-07-17",
+        "stage": "Evidence Collection",
+        "by": "ASI Gurpreet Malhotra",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-02-10",
+        "stage": "Arrest / Notice Served",
+        "by": "ASI Gurpreet Malhotra",
+        "note": "2 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2025-09-06",
+        "stage": "Custody & Remand",
+        "by": "ASI Gurpreet Malhotra",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-04-02",
+        "stage": "Chargesheet Filed",
+        "by": "ASI Gurpreet Malhotra",
+        "note": "Chargesheet filed before the court."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2023-0029",
+    "fir_id": "GJ/AHM/SATE/0064/2023",
+    "fir_no": "0064/2023",
+    "crime_type": "Online Fraud (Cheating by Personation)",
+    "crime_category": "Major",
+    "sections": [
+      "IPC 419",
+      "IT Act 2000 Sec 66D",
+      "IPC 34"
+    ],
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "police_station": "Satellite PS",
+    "io_name": "SI Karthik Solanki",
+    "priority": "P2 - High",
+    "opened_on": "2023-06-19",
+    "accused_ids": [
+      "P033",
+      "P042",
+      "P010",
+      "P031"
+    ],
+    "accused_names": [
+      "Revathi Patel",
+      "Mary Qureshi",
+      "Vinod Chaudhary",
+      "Deepak Shaikh"
+    ],
+    "stage_index": 5,
+    "stage": "Chargesheet Filed",
+    "arrest_date": "2025-02-20",
+    "deadline_days": 60,
+    "chargesheet_due": "2025-04-21",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2023-06-19",
+        "stage": "FIR Registered",
+        "by": "SI Karthik Solanki",
+        "note": "FIR 0064/2023 registered at Satellite PS u/s IPC 419, IT Act 2000 Sec 66D, IPC 34."
+      },
+      {
+        "date": "2024-01-12",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Karthik Solanki",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2024-08-03",
+        "stage": "Evidence Collection",
+        "by": "SI Karthik Solanki",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-02-20",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Karthik Solanki",
+        "note": "4 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2025-09-15",
+        "stage": "Custody & Remand",
+        "by": "SI Karthik Solanki",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-04-04",
+        "stage": "Chargesheet Filed",
+        "by": "SI Karthik Solanki",
+        "note": "Chargesheet filed before the court."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2023-0030",
+    "fir_id": "TN/MAD/ANNA/0386/2023",
+    "fir_no": "0386/2023",
+    "crime_type": "Money Laundering / Hawala",
+    "crime_category": "Major",
+    "sections": [
+      "PMLA 2002 Sec 3 r/w 4"
+    ],
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "police_station": "Anna Nagar PS",
+    "io_name": "SI Senthil Pillai",
+    "priority": "P2 - High",
+    "opened_on": "2023-06-20",
+    "accused_ids": [
+      "P029",
+      "P032"
+    ],
+    "accused_names": [
+      "Sushma Krishnan",
+      "Rekha Rathore"
+    ],
+    "stage_index": 2,
+    "stage": "Evidence Collection",
+    "arrest_date": null,
+    "deadline_days": 90,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2023-06-20",
+        "stage": "FIR Registered",
+        "by": "SI Senthil Pillai",
+        "note": "FIR 0386/2023 registered at Anna Nagar PS u/s PMLA 2002 Sec 3 r/w 4."
+      },
+      {
+        "date": "2024-08-01",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Senthil Pillai",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-09-13",
+        "stage": "Evidence Collection",
+        "by": "SI Senthil Pillai",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2023-0031",
+    "fir_id": "UP/GBN/SECT/0333/2023",
+    "fir_no": "0333/2023",
+    "crime_type": "Rioting",
+    "crime_category": "Minor",
+    "sections": [
+      "IPC 147",
+      "IPC 34"
+    ],
+    "state": "Uttar Pradesh",
+    "district": "Gautam Buddh Nagar",
+    "police_station": "Sector 39 Noida PS",
+    "io_name": "Inspector Abhishek Singh",
+    "priority": "P4 - Low",
+    "opened_on": "2023-07-02",
+    "accused_ids": [
+      "P026",
+      "P049",
+      "P027"
+    ],
+    "accused_names": [
+      "Bhupinder Ansari",
+      "Rakesh Qureshi",
+      "Santosh Mishra"
+    ],
+    "stage_index": 6,
+    "stage": "Under Trial",
+    "arrest_date": "2024-12-04",
+    "deadline_days": 60,
+    "chargesheet_due": "2025-02-02",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2023-07-02",
+        "stage": "FIR Registered",
+        "by": "Inspector Abhishek Singh",
+        "note": "FIR 0333/2023 registered at Sector 39 Noida PS u/s IPC 147, IPC 34."
+      },
+      {
+        "date": "2023-12-23",
+        "stage": "Scene Visit & Forensics",
+        "by": "Inspector Abhishek Singh",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2024-06-15",
+        "stage": "Evidence Collection",
+        "by": "Inspector Abhishek Singh",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2024-12-04",
+        "stage": "Arrest / Notice Served",
+        "by": "Inspector Abhishek Singh",
+        "note": "3 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2025-05-27",
+        "stage": "Custody & Remand",
+        "by": "Inspector Abhishek Singh",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2025-11-16",
+        "stage": "Chargesheet Filed",
+        "by": "Inspector Abhishek Singh",
+        "note": "Chargesheet filed before the court."
+      },
+      {
+        "date": "2026-05-07",
+        "stage": "Under Trial",
+        "by": "Inspector Abhishek Singh",
+        "note": "Charges framed; trial in progress."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2023-0032",
+    "fir_id": "UP/VAR/LANK/0168/2023",
+    "fir_no": "0168/2023",
+    "crime_type": "Human Trafficking",
+    "crime_category": "Heinous",
+    "sections": [
+      "IPC 370",
+      "IPC 34"
+    ],
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "police_station": "Lanka PS",
+    "io_name": "SI Subhash Ansari",
+    "priority": "P1 - Urgent",
+    "opened_on": "2023-08-13",
+    "accused_ids": [
+      "P050",
+      "P022",
+      "P052"
+    ],
+    "accused_names": [
+      "Senthil Mishra",
+      "Nitin Subramanian",
+      "Srinivas Singh"
+    ],
+    "stage_index": 6,
+    "stage": "Under Trial",
+    "arrest_date": "2024-12-27",
+    "deadline_days": 90,
+    "chargesheet_due": "2025-03-27",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2023-08-13",
+        "stage": "FIR Registered",
+        "by": "SI Subhash Ansari",
+        "note": "FIR 0168/2023 registered at Lanka PS u/s IPC 370, IPC 34."
+      },
+      {
+        "date": "2024-01-27",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Subhash Ansari",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2024-07-13",
+        "stage": "Evidence Collection",
+        "by": "SI Subhash Ansari",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2024-12-27",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Subhash Ansari",
+        "note": "3 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2025-06-14",
+        "stage": "Custody & Remand",
+        "by": "SI Subhash Ansari",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2025-11-25",
+        "stage": "Chargesheet Filed",
+        "by": "SI Subhash Ansari",
+        "note": "Chargesheet filed before the court."
+      },
+      {
+        "date": "2026-05-13",
+        "stage": "Under Trial",
+        "by": "SI Subhash Ansari",
+        "note": "Charges framed; trial in progress."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2023-0033",
+    "fir_id": "TN/CHE/ROYA/0212/2023",
+    "fir_no": "0212/2023",
+    "crime_type": "Organised Crime Syndicate Activity",
+    "crime_category": "Heinous",
+    "sections": [
+      "IPC 120B"
+    ],
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "police_station": "Royapettah PS",
+    "io_name": "Inspector Salman Subramanian",
+    "priority": "P1 - Urgent",
+    "opened_on": "2023-08-20",
+    "accused_ids": [
+      "P041"
+    ],
+    "accused_names": [
+      "Vinod Selvam"
+    ],
+    "stage_index": 5,
+    "stage": "Chargesheet Filed",
+    "arrest_date": "2025-03-23",
+    "deadline_days": 90,
+    "chargesheet_due": "2025-06-21",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2023-08-20",
+        "stage": "FIR Registered",
+        "by": "Inspector Salman Subramanian",
+        "note": "FIR 0212/2023 registered at Royapettah PS u/s IPC 120B."
+      },
+      {
+        "date": "2024-03-01",
+        "stage": "Scene Visit & Forensics",
+        "by": "Inspector Salman Subramanian",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2024-09-10",
+        "stage": "Evidence Collection",
+        "by": "Inspector Salman Subramanian",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-03-23",
+        "stage": "Arrest / Notice Served",
+        "by": "Inspector Salman Subramanian",
+        "note": "1 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2025-10-05",
+        "stage": "Custody & Remand",
+        "by": "Inspector Salman Subramanian",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-04-18",
+        "stage": "Chargesheet Filed",
+        "by": "Inspector Salman Subramanian",
+        "note": "Chargesheet filed before the court."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2023-0034",
+    "fir_id": "MH/MS/KURL/0098/2023",
+    "fir_no": "0098/2023",
+    "crime_type": "Culpable Homicide not amounting to Murder",
+    "crime_category": "Heinous",
+    "sections": [
+      "IPC 304",
+      "IPC 34"
+    ],
+    "state": "Maharashtra",
+    "district": "Mumbai Suburban",
+    "police_station": "Kurla PS",
+    "io_name": "SI Bhavesh Gaikwad",
+    "priority": "P1 - Urgent",
+    "opened_on": "2023-08-22",
+    "accused_ids": [
+      "P046",
+      "P055",
+      "P029",
+      "P032"
+    ],
+    "accused_names": [
+      "Prakash Verma",
+      "Vinod Sidhu",
+      "Sushma Krishnan",
+      "Rekha Rathore"
+    ],
+    "stage_index": 6,
+    "stage": "Under Trial",
+    "arrest_date": "2024-12-31",
+    "deadline_days": 90,
+    "chargesheet_due": "2025-03-31",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2023-08-22",
+        "stage": "FIR Registered",
+        "by": "SI Bhavesh Gaikwad",
+        "note": "FIR 0098/2023 registered at Kurla PS u/s IPC 304, IPC 34."
+      },
+      {
+        "date": "2024-02-04",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Bhavesh Gaikwad",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2024-07-18",
+        "stage": "Evidence Collection",
+        "by": "SI Bhavesh Gaikwad",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2024-12-31",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Bhavesh Gaikwad",
+        "note": "4 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2025-06-16",
+        "stage": "Custody & Remand",
+        "by": "SI Bhavesh Gaikwad",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2025-11-30",
+        "stage": "Chargesheet Filed",
+        "by": "SI Bhavesh Gaikwad",
+        "note": "Chargesheet filed before the court."
+      },
+      {
+        "date": "2026-05-15",
+        "stage": "Under Trial",
+        "by": "SI Bhavesh Gaikwad",
+        "note": "Charges framed; trial in progress."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2023-0035",
+    "fir_id": "TS/HYD/CHIK/0104/2023",
+    "fir_no": "0104/2023",
+    "crime_type": "Snatching (Chain / Mobile)",
+    "crime_category": "Minor",
+    "sections": [
+      "IPC 379/356",
+      "IPC 34"
+    ],
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "police_station": "Chikkadpally PS",
+    "io_name": "SI Sunil Rao",
+    "priority": "P4 - Low",
+    "opened_on": "2023-09-04",
+    "accused_ids": [
+      "P021",
+      "P031",
+      "P023",
+      "P013"
+    ],
+    "accused_names": [
+      "Rakesh Reddy",
+      "Deepak Shaikh",
+      "Salman Shekhawat",
+      "Jaswinder Deshmukh"
+    ],
+    "stage_index": 0,
+    "stage": "FIR Registered",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2023-09-04",
+        "stage": "FIR Registered",
+        "by": "SI Sunil Rao",
+        "note": "FIR 0104/2023 registered at Chikkadpally PS u/s IPC 379/356, IPC 34."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2023-0036",
+    "fir_id": "TS/HYD/ABID/0227/2023",
+    "fir_no": "0227/2023",
+    "crime_type": "Cheating",
+    "crime_category": "Major",
+    "sections": [
+      "IPC 420",
+      "IPC 34"
+    ],
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "police_station": "Abids PS",
+    "io_name": "SI Pankaj Goud",
+    "priority": "P3 - Normal",
+    "opened_on": "2023-10-01",
+    "accused_ids": [
+      "P025",
+      "P028"
+    ],
+    "accused_names": [
+      "Rahul Reddy",
+      "Rahul Kulkarni"
+    ],
+    "stage_index": 0,
+    "stage": "FIR Registered",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2023-10-01",
+        "stage": "FIR Registered",
+        "by": "SI Pankaj Goud",
+        "note": "FIR 0227/2023 registered at Abids PS u/s IPC 420, IPC 34."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2023-0037",
+    "fir_id": "MH/MS/BAND/0369/2023",
+    "fir_no": "0369/2023",
+    "crime_type": "Robbery",
+    "crime_category": "Major",
+    "sections": [
+      "IPC 392",
+      "IPC 34"
+    ],
+    "state": "Maharashtra",
+    "district": "Mumbai Suburban",
+    "police_station": "Bandra PS",
+    "io_name": "ASI Jaswinder Patil",
+    "priority": "P2 - High",
+    "opened_on": "2023-12-21",
+    "accused_ids": [
+      "P005",
+      "P027"
+    ],
+    "accused_names": [
+      "Nirmala Kulkarni",
+      "Santosh Mishra"
+    ],
+    "stage_index": 6,
+    "stage": "Under Trial",
+    "arrest_date": "2025-03-12",
+    "deadline_days": 90,
+    "chargesheet_due": "2025-06-10",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2023-12-21",
+        "stage": "FIR Registered",
+        "by": "ASI Jaswinder Patil",
+        "note": "FIR 0369/2023 registered at Bandra PS u/s IPC 392, IPC 34."
+      },
+      {
+        "date": "2024-05-18",
+        "stage": "Scene Visit & Forensics",
+        "by": "ASI Jaswinder Patil",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2024-10-16",
+        "stage": "Evidence Collection",
+        "by": "ASI Jaswinder Patil",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-03-12",
+        "stage": "Arrest / Notice Served",
+        "by": "ASI Jaswinder Patil",
+        "note": "2 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2025-08-07",
+        "stage": "Custody & Remand",
+        "by": "ASI Jaswinder Patil",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-01-01",
+        "stage": "Chargesheet Filed",
+        "by": "ASI Jaswinder Patil",
+        "note": "Chargesheet filed before the court."
+      },
+      {
+        "date": "2026-05-30",
+        "stage": "Under Trial",
+        "by": "ASI Jaswinder Patil",
+        "note": "Charges framed; trial in progress."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2024-0038",
+    "fir_id": "DL/CD/CHAN/0408/2024",
+    "fir_no": "0408/2024",
+    "crime_type": "Money Laundering / Hawala",
+    "crime_category": "Major",
+    "sections": [
+      "PMLA 2002 Sec 3 r/w 4"
+    ],
+    "state": "Delhi",
+    "district": "Central Delhi",
+    "police_station": "Chandni Mahal PS",
+    "io_name": "SI Lokesh Chauhan",
+    "priority": "P2 - High",
+    "opened_on": "2024-01-16",
+    "accused_ids": [
+      "P016"
+    ],
+    "accused_names": [
+      "Anil Bansal"
+    ],
+    "stage_index": 5,
+    "stage": "Chargesheet Filed",
+    "arrest_date": "2025-06-06",
+    "deadline_days": 90,
+    "chargesheet_due": "2025-09-04",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2024-01-16",
+        "stage": "FIR Registered",
+        "by": "SI Lokesh Chauhan",
+        "note": "FIR 0408/2024 registered at Chandni Mahal PS u/s PMLA 2002 Sec 3 r/w 4."
+      },
+      {
+        "date": "2024-07-05",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Lokesh Chauhan",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2024-12-21",
+        "stage": "Evidence Collection",
+        "by": "SI Lokesh Chauhan",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-06-06",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Lokesh Chauhan",
+        "note": "1 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2025-11-22",
+        "stage": "Custody & Remand",
+        "by": "SI Lokesh Chauhan",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-05-10",
+        "stage": "Chargesheet Filed",
+        "by": "SI Lokesh Chauhan",
+        "note": "Chargesheet filed before the court."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2024-0039",
+    "fir_id": "TS/RAN/LBNA/0233/2024",
+    "fir_no": "0233/2024",
+    "crime_type": "Rioting",
+    "crime_category": "Minor",
+    "sections": [
+      "IPC 147",
+      "IPC 34"
+    ],
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "police_station": "LB Nagar PS",
+    "io_name": "Inspector Thomas Rao",
+    "priority": "P4 - Low",
+    "opened_on": "2024-01-24",
+    "accused_ids": [
+      "P044",
+      "P054",
+      "P040"
+    ],
+    "accused_names": [
+      "Kishore Naidu",
+      "Imran Desai",
+      "Vikram Shetty"
+    ],
+    "stage_index": 3,
+    "stage": "Arrest / Notice Served",
+    "arrest_date": "2026-02-18",
+    "deadline_days": 60,
+    "chargesheet_due": "2026-04-19",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2024-01-24",
+        "stage": "FIR Registered",
+        "by": "Inspector Thomas Rao",
+        "note": "FIR 0233/2024 registered at LB Nagar PS u/s IPC 147, IPC 34."
+      },
+      {
+        "date": "2024-10-01",
+        "stage": "Scene Visit & Forensics",
+        "by": "Inspector Thomas Rao",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-06-12",
+        "stage": "Evidence Collection",
+        "by": "Inspector Thomas Rao",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-02-18",
+        "stage": "Arrest / Notice Served",
+        "by": "Inspector Thomas Rao",
+        "note": "3 accused identified; arrests / notices under BNSS s.35."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2024-0040",
+    "fir_id": "UP/LUC/ALAM/0367/2024",
+    "fir_no": "0367/2024",
+    "crime_type": "Money Laundering / Hawala",
+    "crime_category": "Major",
+    "sections": [
+      "PMLA 2002 Sec 3 r/w 4"
+    ],
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "police_station": "Alambagh PS",
+    "io_name": "ASI Sachin Singh",
+    "priority": "P2 - High",
+    "opened_on": "2024-03-17",
+    "accused_ids": [
+      "P053",
+      "P040",
+      "P044"
+    ],
+    "accused_names": [
+      "Harpreet Pandey",
+      "Vikram Shetty",
+      "Kishore Naidu"
+    ],
+    "stage_index": 0,
+    "stage": "FIR Registered",
+    "arrest_date": null,
+    "deadline_days": 90,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2024-03-17",
+        "stage": "FIR Registered",
+        "by": "ASI Sachin Singh",
+        "note": "FIR 0367/2024 registered at Alambagh PS u/s PMLA 2002 Sec 3 r/w 4."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2024-0041",
+    "fir_id": "UP/GBN/SECT/0053/2024",
+    "fir_no": "0053/2024",
+    "crime_type": "Hacking / Computer-related Offence",
+    "crime_category": "Minor",
+    "sections": [
+      "IT Act 2000 Sec 66"
+    ],
+    "state": "Uttar Pradesh",
+    "district": "Gautam Buddh Nagar",
+    "police_station": "Sector 20 Noida PS",
+    "io_name": "Inspector Dilip Pandey",
+    "priority": "P4 - Low",
+    "opened_on": "2024-04-08",
+    "accused_ids": [
+      "P056"
+    ],
+    "accused_names": [
+      "Vikram Verma"
+    ],
+    "stage_index": 6,
+    "stage": "Under Trial",
+    "arrest_date": "2025-05-14",
+    "deadline_days": 60,
+    "chargesheet_due": "2025-07-13",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2024-04-08",
+        "stage": "FIR Registered",
+        "by": "Inspector Dilip Pandey",
+        "note": "FIR 0053/2024 registered at Sector 20 Noida PS u/s IT Act 2000 Sec 66."
+      },
+      {
+        "date": "2024-08-19",
+        "stage": "Scene Visit & Forensics",
+        "by": "Inspector Dilip Pandey",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-01-02",
+        "stage": "Evidence Collection",
+        "by": "Inspector Dilip Pandey",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-05-14",
+        "stage": "Arrest / Notice Served",
+        "by": "Inspector Dilip Pandey",
+        "note": "1 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2025-09-22",
+        "stage": "Custody & Remand",
+        "by": "Inspector Dilip Pandey",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-02-03",
+        "stage": "Chargesheet Filed",
+        "by": "Inspector Dilip Pandey",
+        "note": "Chargesheet filed before the court."
+      },
+      {
+        "date": "2026-06-17",
+        "stage": "Under Trial",
+        "by": "Inspector Dilip Pandey",
+        "note": "Charges framed; trial in progress."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2024-0042",
+    "fir_id": "UP/LUC/AMIN/0313/2024",
+    "fir_no": "0313/2024",
+    "crime_type": "Drug Trafficking (Commercial Qty)",
+    "crime_category": "Heinous",
+    "sections": [
+      "NDPS Act 1985 Sec 21(c)"
+    ],
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "police_station": "Aminabad PS",
+    "io_name": "ASI Venkatesh Ansari",
+    "priority": "P2 - High",
+    "opened_on": "2024-04-11",
+    "accused_ids": [
+      "P053",
+      "P023",
+      "P018"
+    ],
+    "accused_names": [
+      "Harpreet Pandey",
+      "Salman Shekhawat",
+      "Sanjay Kumar"
+    ],
+    "stage_index": 1,
+    "stage": "Scene Visit & Forensics",
+    "arrest_date": null,
+    "deadline_days": 90,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2024-04-11",
+        "stage": "FIR Registered",
+        "by": "ASI Venkatesh Ansari",
+        "note": "FIR 0313/2024 registered at Aminabad PS u/s NDPS Act 1985 Sec 21(c)."
+      },
+      {
+        "date": "2025-07-19",
+        "stage": "Scene Visit & Forensics",
+        "by": "ASI Venkatesh Ansari",
+        "note": "Scene inspected; forensic team collected samples."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2024-0043",
+    "fir_id": "RJ/JAI/VIDH/0165/2024",
+    "fir_no": "0165/2024",
+    "crime_type": "Arms Manufacture / Sale",
+    "crime_category": "Heinous",
+    "sections": [
+      "Arms Act 1959 Sec 25(1)(a)"
+    ],
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "police_station": "Vidhyadhar Nagar PS",
+    "io_name": "Inspector Subhash Jain",
+    "priority": "P2 - High",
+    "opened_on": "2024-04-17",
+    "accused_ids": [
+      "P009",
+      "P057",
+      "P033"
+    ],
+    "accused_names": [
+      "Bablu Malhotra",
+      "Geeta Tiwari",
+      "Revathi Patel"
+    ],
+    "stage_index": 1,
+    "stage": "Scene Visit & Forensics",
+    "arrest_date": null,
+    "deadline_days": 90,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2024-04-17",
+        "stage": "FIR Registered",
+        "by": "Inspector Subhash Jain",
+        "note": "FIR 0165/2024 registered at Vidhyadhar Nagar PS u/s Arms Act 1959 Sec 25(1)(a)."
+      },
+      {
+        "date": "2025-07-22",
+        "stage": "Scene Visit & Forensics",
+        "by": "Inspector Subhash Jain",
+        "note": "Scene inspected; forensic team collected samples."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2024-0044",
+    "fir_id": "GJ/SUR/ATHW/0058/2024",
+    "fir_no": "0058/2024",
+    "crime_type": "Kidnapping for Ransom",
+    "crime_category": "Heinous",
+    "sections": [
+      "IPC 364A",
+      "IPC 34"
+    ],
+    "state": "Gujarat",
+    "district": "Surat",
+    "police_station": "Athwalines PS",
+    "io_name": "SI Sanjay Solanki",
+    "priority": "P1 - Urgent",
+    "opened_on": "2024-04-29",
+    "accused_ids": [
+      "P054",
+      "P040"
+    ],
+    "accused_names": [
+      "Imran Desai",
+      "Vikram Shetty"
+    ],
+    "stage_index": 1,
+    "stage": "Scene Visit & Forensics",
+    "arrest_date": null,
+    "deadline_days": 90,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2024-04-29",
+        "stage": "FIR Registered",
+        "by": "SI Sanjay Solanki",
+        "note": "FIR 0058/2024 registered at Athwalines PS u/s IPC 364A, IPC 34."
+      },
+      {
+        "date": "2025-07-28",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Sanjay Solanki",
+        "note": "Scene inspected; forensic team collected samples."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2024-0045",
+    "fir_id": "MH/NC/SITA/0082/2024",
+    "fir_no": "0082/2024",
+    "crime_type": "Death by Negligence (Rash Driving)",
+    "crime_category": "Major",
+    "sections": [
+      "IPC 304A",
+      "IPC 34"
+    ],
+    "state": "Maharashtra",
+    "district": "Nagpur City",
+    "police_station": "Sitabuldi PS",
+    "io_name": "SI Manoj Shinde",
+    "priority": "P2 - High",
+    "opened_on": "2024-05-01",
+    "accused_ids": [
+      "P028",
+      "P022"
+    ],
+    "accused_names": [
+      "Rahul Kulkarni",
+      "Nitin Subramanian"
+    ],
+    "stage_index": 6,
+    "stage": "Under Trial",
+    "arrest_date": "2025-05-28",
+    "deadline_days": 60,
+    "chargesheet_due": "2025-07-27",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2024-05-01",
+        "stage": "FIR Registered",
+        "by": "SI Manoj Shinde",
+        "note": "FIR 0082/2024 registered at Sitabuldi PS u/s IPC 304A, IPC 34."
+      },
+      {
+        "date": "2024-09-07",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Manoj Shinde",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-01-18",
+        "stage": "Evidence Collection",
+        "by": "SI Manoj Shinde",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-05-28",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Manoj Shinde",
+        "note": "2 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2025-10-01",
+        "stage": "Custody & Remand",
+        "by": "SI Manoj Shinde",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-02-08",
+        "stage": "Chargesheet Filed",
+        "by": "SI Manoj Shinde",
+        "note": "Chargesheet filed before the court."
+      },
+      {
+        "date": "2026-06-18",
+        "stage": "Under Trial",
+        "by": "SI Manoj Shinde",
+        "note": "Charges framed; trial in progress."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2024-0046",
+    "fir_id": "TN/MAD/ANNA/0262/2024",
+    "fir_no": "0262/2024",
+    "crime_type": "Extortion",
+    "crime_category": "Major",
+    "sections": [
+      "IPC 384",
+      "IPC 34"
+    ],
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "police_station": "Anna Nagar PS",
+    "io_name": "Inspector Harpreet Rajendran",
+    "priority": "P3 - Normal",
+    "opened_on": "2024-05-16",
+    "accused_ids": [
+      "P008",
+      "P011",
+      "P035"
+    ],
+    "accused_names": [
+      "Ananya Pillai",
+      "Hemant Dhillon",
+      "Sunil Mishra"
+    ],
+    "stage_index": 2,
+    "stage": "Evidence Collection",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2024-05-16",
+        "stage": "FIR Registered",
+        "by": "Inspector Harpreet Rajendran",
+        "note": "FIR 0262/2024 registered at Anna Nagar PS u/s IPC 384, IPC 34."
+      },
+      {
+        "date": "2025-03-09",
+        "stage": "Scene Visit & Forensics",
+        "by": "Inspector Harpreet Rajendran",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-01-03",
+        "stage": "Evidence Collection",
+        "by": "Inspector Harpreet Rajendran",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2024-0047",
+    "fir_id": "UP/VAR/LANK/0223/2024",
+    "fir_no": "0223/2024",
+    "crime_type": "Human Trafficking",
+    "crime_category": "Heinous",
+    "sections": [
+      "IPC 370",
+      "IPC 34"
+    ],
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "police_station": "Lanka PS",
+    "io_name": "ASI Suresh Mishra",
+    "priority": "P1 - Urgent",
+    "opened_on": "2024-06-18",
+    "accused_ids": [
+      "P035",
+      "P024",
+      "P011",
+      "P003"
+    ],
+    "accused_names": [
+      "Sunil Mishra",
+      "Dilip Shah",
+      "Hemant Dhillon",
+      "Jignesh Choudhary"
+    ],
+    "stage_index": 6,
+    "stage": "Under Trial",
+    "arrest_date": "2025-06-24",
+    "deadline_days": 90,
+    "chargesheet_due": "2025-09-22",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2024-06-18",
+        "stage": "FIR Registered",
+        "by": "ASI Suresh Mishra",
+        "note": "FIR 0223/2024 registered at Lanka PS u/s IPC 370, IPC 34."
+      },
+      {
+        "date": "2024-10-20",
+        "stage": "Scene Visit & Forensics",
+        "by": "ASI Suresh Mishra",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-02-21",
+        "stage": "Evidence Collection",
+        "by": "ASI Suresh Mishra",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-06-24",
+        "stage": "Arrest / Notice Served",
+        "by": "ASI Suresh Mishra",
+        "note": "4 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2025-10-25",
+        "stage": "Custody & Remand",
+        "by": "ASI Suresh Mishra",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-02-25",
+        "stage": "Chargesheet Filed",
+        "by": "ASI Suresh Mishra",
+        "note": "Chargesheet filed before the court."
+      },
+      {
+        "date": "2026-06-25",
+        "stage": "Under Trial",
+        "by": "ASI Suresh Mishra",
+        "note": "Charges framed; trial in progress."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2024-0048",
+    "fir_id": "TN/CHE/MYLA/0164/2024",
+    "fir_no": "0164/2024",
+    "crime_type": "Arms Manufacture / Sale",
+    "crime_category": "Heinous",
+    "sections": [
+      "Arms Act 1959 Sec 25(1)(a)"
+    ],
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "police_station": "Mylapore PS",
+    "io_name": "ASI Hemant Krishnan",
+    "priority": "P1 - Urgent",
+    "opened_on": "2024-07-09",
+    "accused_ids": [
+      "P019"
+    ],
+    "accused_names": [
+      "Meena Chouhan"
+    ],
+    "stage_index": 6,
+    "stage": "Under Trial",
+    "arrest_date": "2025-07-06",
+    "deadline_days": 90,
+    "chargesheet_due": "2025-10-04",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2024-07-09",
+        "stage": "FIR Registered",
+        "by": "ASI Hemant Krishnan",
+        "note": "FIR 0164/2024 registered at Mylapore PS u/s Arms Act 1959 Sec 25(1)(a)."
+      },
+      {
+        "date": "2024-11-07",
+        "stage": "Scene Visit & Forensics",
+        "by": "ASI Hemant Krishnan",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-03-05",
+        "stage": "Evidence Collection",
+        "by": "ASI Hemant Krishnan",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-07-06",
+        "stage": "Arrest / Notice Served",
+        "by": "ASI Hemant Krishnan",
+        "note": "1 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2025-10-31",
+        "stage": "Custody & Remand",
+        "by": "ASI Hemant Krishnan",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-03-01",
+        "stage": "Chargesheet Filed",
+        "by": "ASI Hemant Krishnan",
+        "note": "Chargesheet filed before the court."
+      },
+      {
+        "date": "2026-06-28",
+        "stage": "Under Trial",
+        "by": "ASI Hemant Krishnan",
+        "note": "Charges framed; trial in progress."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2024-0049",
+    "fir_id": "MH/MS/ANDH/0290/2024",
+    "fir_no": "0290/2024",
+    "crime_type": "Gambling / Betting Racket",
+    "crime_category": "Minor",
+    "sections": [
+      "Public Gambling Act 1867 Sec 3/4 (or State Gaming Act)"
+    ],
+    "state": "Maharashtra",
+    "district": "Mumbai Suburban",
+    "police_station": "Andheri PS",
+    "io_name": "SI Bhavesh Jadhav",
+    "priority": "P4 - Low",
+    "opened_on": "2024-08-06",
+    "accused_ids": [
+      "P047",
+      "P055"
+    ],
+    "accused_names": [
+      "Jignesh Shaikh",
+      "Vinod Sidhu"
+    ],
+    "stage_index": 1,
+    "stage": "Scene Visit & Forensics",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2024-08-06",
+        "stage": "FIR Registered",
+        "by": "SI Bhavesh Jadhav",
+        "note": "FIR 0290/2024 registered at Andheri PS u/s Public Gambling Act 1867 Sec 3/4 (or State Gaming Act)."
+      },
+      {
+        "date": "2025-09-18",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Bhavesh Jadhav",
+        "note": "Scene inspected; forensic team collected samples."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2024-0050",
+    "fir_id": "TS/RAN/RAJE/0205/2024",
+    "fir_no": "0205/2024",
+    "crime_type": "Assault to Outrage Modesty",
+    "crime_category": "Major",
+    "sections": [
+      "BNS 74"
+    ],
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "police_station": "Rajendranagar PS",
+    "io_name": "SI Suresh Rao",
+    "priority": "P3 - Normal",
+    "opened_on": "2024-08-27",
+    "accused_ids": [
+      "P021"
+    ],
+    "accused_names": [
+      "Rakesh Reddy"
+    ],
+    "stage_index": 5,
+    "stage": "Chargesheet Filed",
+    "arrest_date": "2025-09-28",
+    "deadline_days": 60,
+    "chargesheet_due": "2025-11-27",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2024-08-27",
+        "stage": "FIR Registered",
+        "by": "SI Suresh Rao",
+        "note": "FIR 0205/2024 registered at Rajendranagar PS u/s BNS 74."
+      },
+      {
+        "date": "2025-01-05",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Suresh Rao",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-05-19",
+        "stage": "Evidence Collection",
+        "by": "SI Suresh Rao",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-09-28",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Suresh Rao",
+        "note": "1 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-02-05",
+        "stage": "Custody & Remand",
+        "by": "SI Suresh Rao",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-06-17",
+        "stage": "Chargesheet Filed",
+        "by": "SI Suresh Rao",
+        "note": "Chargesheet filed before the court."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2024-0051",
+    "fir_id": "UP/GBN/SECT/0411/2024",
+    "fir_no": "0411/2024",
+    "crime_type": "Extortion",
+    "crime_category": "Major",
+    "sections": [
+      "BNS 308(2)",
+      "BNS 3(5)"
+    ],
+    "state": "Uttar Pradesh",
+    "district": "Gautam Buddh Nagar",
+    "police_station": "Sector 39 Noida PS",
+    "io_name": "ASI Ajay Verma",
+    "priority": "P2 - High",
+    "opened_on": "2024-09-07",
+    "accused_ids": [
+      "P053",
+      "P042",
+      "P012"
+    ],
+    "accused_names": [
+      "Harpreet Pandey",
+      "Mary Qureshi",
+      "Mukesh Jha"
+    ],
+    "stage_index": 0,
+    "stage": "FIR Registered",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2024-09-07",
+        "stage": "FIR Registered",
+        "by": "ASI Ajay Verma",
+        "note": "FIR 0411/2024 registered at Sector 39 Noida PS u/s BNS 308(2), BNS 3(5)."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2024-0052",
+    "fir_id": "WB/KOL/PARK/0203/2024",
+    "fir_no": "0203/2024",
+    "crime_type": "Drug Trafficking (Commercial Qty)",
+    "crime_category": "Heinous",
+    "sections": [
+      "NDPS Act 1985 Sec 21(c)"
+    ],
+    "state": "West Bengal",
+    "district": "Kolkata",
+    "police_station": "Park Street PS",
+    "io_name": "Inspector Shafiq Banerjee",
+    "priority": "P2 - High",
+    "opened_on": "2024-10-24",
+    "accused_ids": [
+      "P002",
+      "P057"
+    ],
+    "accused_names": [
+      "Mukesh Tiwari",
+      "Geeta Tiwari"
+    ],
+    "stage_index": 5,
+    "stage": "Chargesheet Filed",
+    "arrest_date": "2025-10-26",
+    "deadline_days": 90,
+    "chargesheet_due": "2026-01-24",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2024-10-24",
+        "stage": "FIR Registered",
+        "by": "Inspector Shafiq Banerjee",
+        "note": "FIR 0203/2024 registered at Park Street PS u/s NDPS Act 1985 Sec 21(c)."
+      },
+      {
+        "date": "2025-02-26",
+        "stage": "Scene Visit & Forensics",
+        "by": "Inspector Shafiq Banerjee",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-06-28",
+        "stage": "Evidence Collection",
+        "by": "Inspector Shafiq Banerjee",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-10-26",
+        "stage": "Arrest / Notice Served",
+        "by": "Inspector Shafiq Banerjee",
+        "note": "2 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-02-26",
+        "stage": "Custody & Remand",
+        "by": "Inspector Shafiq Banerjee",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-06-29",
+        "stage": "Chargesheet Filed",
+        "by": "Inspector Shafiq Banerjee",
+        "note": "Chargesheet filed before the court."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2024-0053",
+    "fir_id": "RJ/JAI/MALV/0096/2024",
+    "fir_no": "0096/2024",
+    "crime_type": "Petty Organised Crime",
+    "crime_category": "Major",
+    "sections": [
+      "BNS 112(2)",
+      "BNS 3(5)"
+    ],
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "police_station": "Malviya Nagar PS",
+    "io_name": "SI Jignesh Rathore",
+    "priority": "P3 - Normal",
+    "opened_on": "2024-10-29",
+    "accused_ids": [
+      "P003",
+      "P045",
+      "P024"
+    ],
+    "accused_names": [
+      "Jignesh Choudhary",
+      "Anirban Sinha",
+      "Dilip Shah"
+    ],
+    "stage_index": 5,
+    "stage": "Chargesheet Filed",
+    "arrest_date": "2025-10-28",
+    "deadline_days": 60,
+    "chargesheet_due": "2025-12-27",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2024-10-29",
+        "stage": "FIR Registered",
+        "by": "SI Jignesh Rathore",
+        "note": "FIR 0096/2024 registered at Malviya Nagar PS u/s BNS 112(2), BNS 3(5)."
+      },
+      {
+        "date": "2025-02-28",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Jignesh Rathore",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-07-01",
+        "stage": "Evidence Collection",
+        "by": "SI Jignesh Rathore",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-10-28",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Jignesh Rathore",
+        "note": "3 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-02-26",
+        "stage": "Custody & Remand",
+        "by": "SI Jignesh Rathore",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-06-29",
+        "stage": "Chargesheet Filed",
+        "by": "SI Jignesh Rathore",
+        "note": "Chargesheet filed before the court."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2024-0054",
+    "fir_id": "TS/RAN/LBNA/0258/2024",
+    "fir_no": "0258/2024",
+    "crime_type": "Human Trafficking",
+    "crime_category": "Heinous",
+    "sections": [
+      "BNS 143",
+      "BNS 3(5)"
+    ],
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "police_station": "LB Nagar PS",
+    "io_name": "SI Ramesh Rao",
+    "priority": "P1 - Urgent",
+    "opened_on": "2024-11-12",
+    "accused_ids": [
+      "P015",
+      "P008",
+      "P045"
+    ],
+    "accused_names": [
+      "Faizan Rao",
+      "Ananya Pillai",
+      "Anirban Sinha"
+    ],
+    "stage_index": 2,
+    "stage": "Evidence Collection",
+    "arrest_date": null,
+    "deadline_days": 90,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2024-11-12",
+        "stage": "FIR Registered",
+        "by": "SI Ramesh Rao",
+        "note": "FIR 0258/2024 registered at LB Nagar PS u/s BNS 143, BNS 3(5)."
+      },
+      {
+        "date": "2025-07-09",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Ramesh Rao",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-03-03",
+        "stage": "Evidence Collection",
+        "by": "SI Ramesh Rao",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2024-0055",
+    "fir_id": "MH/MS/ANDH/0306/2024",
+    "fir_no": "0306/2024",
+    "crime_type": "Extortion",
+    "crime_category": "Major",
+    "sections": [
+      "BNS 308(2)",
+      "BNS 3(5)"
+    ],
+    "state": "Maharashtra",
+    "district": "Mumbai Suburban",
+    "police_station": "Andheri PS",
+    "io_name": "SI Ganesh Jadhav",
+    "priority": "P3 - Normal",
+    "opened_on": "2024-11-22",
+    "accused_ids": [
+      "P005",
+      "P027",
+      "P049"
+    ],
+    "accused_names": [
+      "Nirmala Kulkarni",
+      "Santosh Mishra",
+      "Rakesh Qureshi"
+    ],
+    "stage_index": 2,
+    "stage": "Evidence Collection",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2024-11-22",
+        "stage": "FIR Registered",
+        "by": "SI Ganesh Jadhav",
+        "note": "FIR 0306/2024 registered at Andheri PS u/s BNS 308(2), BNS 3(5)."
+      },
+      {
+        "date": "2025-07-15",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Ganesh Jadhav",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-03-08",
+        "stage": "Evidence Collection",
+        "by": "SI Ganesh Jadhav",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0056",
+    "fir_id": "GJ/SUR/UDHN/0229/2025",
+    "fir_no": "0229/2025",
+    "crime_type": "Murder",
+    "crime_category": "Heinous",
+    "sections": [
+      "BNS 103(1)",
+      "BNS 3(5)"
+    ],
+    "state": "Gujarat",
+    "district": "Surat",
+    "police_station": "Udhna PS",
+    "io_name": "ASI Bablu Solanki",
+    "priority": "P1 - Urgent",
+    "opened_on": "2025-01-04",
+    "accused_ids": [
+      "P033",
+      "P017",
+      "P037",
+      "P031"
+    ],
+    "accused_names": [
+      "Revathi Patel",
+      "Ajay Kumar",
+      "Rekha Das",
+      "Deepak Shaikh"
+    ],
+    "stage_index": 3,
+    "stage": "Arrest / Notice Served",
+    "arrest_date": "2026-05-16",
+    "deadline_days": 90,
+    "chargesheet_due": "2026-08-14",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-01-04",
+        "stage": "FIR Registered",
+        "by": "ASI Bablu Solanki",
+        "note": "FIR 0229/2025 registered at Udhna PS u/s BNS 103(1), BNS 3(5)."
+      },
+      {
+        "date": "2025-06-18",
+        "stage": "Scene Visit & Forensics",
+        "by": "ASI Bablu Solanki",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-11-30",
+        "stage": "Evidence Collection",
+        "by": "ASI Bablu Solanki",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-05-16",
+        "stage": "Arrest / Notice Served",
+        "by": "ASI Bablu Solanki",
+        "note": "4 accused identified; arrests / notices under BNSS s.35."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0057",
+    "fir_id": "RJ/JAI/MALV/0256/2025",
+    "fir_no": "0256/2025",
+    "crime_type": "Kidnapping for Ransom",
+    "crime_category": "Heinous",
+    "sections": [
+      "BNS 140(2)"
+    ],
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "police_station": "Malviya Nagar PS",
+    "io_name": "SI Jaswinder Gurjar",
+    "priority": "P1 - Urgent",
+    "opened_on": "2025-02-13",
+    "accused_ids": [
+      "P028"
+    ],
+    "accused_names": [
+      "Rahul Kulkarni"
+    ],
+    "stage_index": 6,
+    "stage": "Under Trial",
+    "arrest_date": "2025-11-08",
+    "deadline_days": 90,
+    "chargesheet_due": "2026-02-06",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-02-13",
+        "stage": "FIR Registered",
+        "by": "SI Jaswinder Gurjar",
+        "note": "FIR 0256/2025 registered at Malviya Nagar PS u/s BNS 140(2)."
+      },
+      {
+        "date": "2025-05-12",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Jaswinder Gurjar",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-08-12",
+        "stage": "Evidence Collection",
+        "by": "SI Jaswinder Gurjar",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-11-08",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Jaswinder Gurjar",
+        "note": "1 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-02-04",
+        "stage": "Custody & Remand",
+        "by": "SI Jaswinder Gurjar",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-05-02",
+        "stage": "Chargesheet Filed",
+        "by": "SI Jaswinder Gurjar",
+        "note": "Chargesheet filed before the court."
+      },
+      {
+        "date": "2026-08-01",
+        "stage": "Under Trial",
+        "by": "SI Jaswinder Gurjar",
+        "note": "Charges framed; trial in progress."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0058",
+    "fir_id": "MP/BHO/HANU/0300/2025",
+    "fir_no": "0300/2025",
+    "crime_type": "Illegal Arms Possession",
+    "crime_category": "Minor",
+    "sections": [
+      "Arms Act 1959 Sec 25(1B)(a)"
+    ],
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "police_station": "Hanumanganj PS",
+    "io_name": "SI Anil Raghuvanshi",
+    "priority": "P4 - Low",
+    "opened_on": "2025-02-15",
+    "accused_ids": [
+      "P012",
+      "P047",
+      "P021",
+      "P060"
+    ],
+    "accused_names": [
+      "Mukesh Jha",
+      "Jignesh Shaikh",
+      "Rakesh Reddy",
+      "Ganesh Jadhav"
+    ],
+    "stage_index": 1,
+    "stage": "Scene Visit & Forensics",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-02-15",
+        "stage": "FIR Registered",
+        "by": "SI Anil Raghuvanshi",
+        "note": "FIR 0300/2025 registered at Hanumanganj PS u/s Arms Act 1959 Sec 25(1B)(a)."
+      },
+      {
+        "date": "2025-12-24",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Anil Raghuvanshi",
+        "note": "Scene inspected; forensic team collected samples."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0059",
+    "fir_id": "KL/THI/THAM/0384/2025",
+    "fir_no": "0384/2025",
+    "crime_type": "Human Trafficking",
+    "crime_category": "Heinous",
+    "sections": [
+      "BNS 143"
+    ],
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "police_station": "Thampanoor PS",
+    "io_name": "SI Srinivas Thomas",
+    "priority": "P2 - High",
+    "opened_on": "2025-02-24",
+    "accused_ids": [
+      "P048"
+    ],
+    "accused_names": [
+      "Nirmala Choudhary"
+    ],
+    "stage_index": 4,
+    "stage": "Custody & Remand",
+    "arrest_date": "2026-02-26",
+    "deadline_days": 90,
+    "chargesheet_due": "2026-05-27",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-02-24",
+        "stage": "FIR Registered",
+        "by": "SI Srinivas Thomas",
+        "note": "FIR 0384/2025 registered at Thampanoor PS u/s BNS 143."
+      },
+      {
+        "date": "2025-06-27",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Srinivas Thomas",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-10-28",
+        "stage": "Evidence Collection",
+        "by": "SI Srinivas Thomas",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-02-26",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Srinivas Thomas",
+        "note": "1 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-06-26",
+        "stage": "Custody & Remand",
+        "by": "SI Srinivas Thomas",
+        "note": "Accused produced before Magistrate; police custody granted."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0060",
+    "fir_id": "DL/NED/BHAJ/0067/2025",
+    "fir_no": "0067/2025",
+    "crime_type": "Human Trafficking",
+    "crime_category": "Heinous",
+    "sections": [
+      "BNS 143",
+      "BNS 3(5)"
+    ],
+    "state": "Delhi",
+    "district": "North East Delhi",
+    "police_station": "Bhajanpura PS",
+    "io_name": "ASI Venkatesh Arora",
+    "priority": "P1 - Urgent",
+    "opened_on": "2025-03-01",
+    "accused_ids": [
+      "P049",
+      "P026"
+    ],
+    "accused_names": [
+      "Rakesh Qureshi",
+      "Bhupinder Ansari"
+    ],
+    "stage_index": 6,
+    "stage": "Under Trial",
+    "arrest_date": "2025-11-16",
+    "deadline_days": 90,
+    "chargesheet_due": "2026-02-14",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-03-01",
+        "stage": "FIR Registered",
+        "by": "ASI Venkatesh Arora",
+        "note": "FIR 0067/2025 registered at Bhajanpura PS u/s BNS 143, BNS 3(5)."
+      },
+      {
+        "date": "2025-05-28",
+        "stage": "Scene Visit & Forensics",
+        "by": "ASI Venkatesh Arora",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-08-20",
+        "stage": "Evidence Collection",
+        "by": "ASI Venkatesh Arora",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-11-16",
+        "stage": "Arrest / Notice Served",
+        "by": "ASI Venkatesh Arora",
+        "note": "2 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-02-11",
+        "stage": "Custody & Remand",
+        "by": "ASI Venkatesh Arora",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-05-08",
+        "stage": "Chargesheet Filed",
+        "by": "ASI Venkatesh Arora",
+        "note": "Chargesheet filed before the court."
+      },
+      {
+        "date": "2026-07-31",
+        "stage": "Under Trial",
+        "by": "ASI Venkatesh Arora",
+        "note": "Charges framed; trial in progress."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0061",
+    "fir_id": "UP/VAR/LANK/0077/2025",
+    "fir_no": "0077/2025",
+    "crime_type": "Gambling / Betting Racket",
+    "crime_category": "Minor",
+    "sections": [
+      "Public Gambling Act 1867 Sec 3/4 (or State Gaming Act)"
+    ],
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "police_station": "Lanka PS",
+    "io_name": "SI Sunil Shukla",
+    "priority": "P3 - Normal",
+    "opened_on": "2025-05-07",
+    "accused_ids": [
+      "P053",
+      "P014"
+    ],
+    "accused_names": [
+      "Harpreet Pandey",
+      "Sachin Singh"
+    ],
+    "stage_index": 5,
+    "stage": "Chargesheet Filed",
+    "arrest_date": "2026-01-31",
+    "deadline_days": 60,
+    "chargesheet_due": "2026-04-01",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-05-07",
+        "stage": "FIR Registered",
+        "by": "SI Sunil Shukla",
+        "note": "FIR 0077/2025 registered at Lanka PS u/s Public Gambling Act 1867 Sec 3/4 (or State Gaming Act)."
+      },
+      {
+        "date": "2025-08-07",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Sunil Shukla",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-11-05",
+        "stage": "Evidence Collection",
+        "by": "SI Sunil Shukla",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-01-31",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Sunil Shukla",
+        "note": "2 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-04-30",
+        "stage": "Custody & Remand",
+        "by": "SI Sunil Shukla",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-07-30",
+        "stage": "Chargesheet Filed",
+        "by": "SI Sunil Shukla",
+        "note": "Chargesheet filed before the court."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0062",
+    "fir_id": "UP/LUC/GOMT/0052/2025",
+    "fir_no": "0052/2025",
+    "crime_type": "Counterfeit Currency (FICN)",
+    "crime_category": "Heinous",
+    "sections": [
+      "BNS 178",
+      "BNS 3(5)"
+    ],
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "police_station": "Gomti Nagar PS",
+    "io_name": "SI Rahul Shukla",
+    "priority": "P1 - Urgent",
+    "opened_on": "2025-05-14",
+    "accused_ids": [
+      "P043",
+      "P033",
+      "P050"
+    ],
+    "accused_names": [
+      "Simran Verma",
+      "Revathi Patel",
+      "Senthil Mishra"
+    ],
+    "stage_index": 6,
+    "stage": "Under Trial",
+    "arrest_date": "2025-12-27",
+    "deadline_days": 90,
+    "chargesheet_due": "2026-03-27",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-05-14",
+        "stage": "FIR Registered",
+        "by": "SI Rahul Shukla",
+        "note": "FIR 0052/2025 registered at Gomti Nagar PS u/s BNS 178, BNS 3(5)."
+      },
+      {
+        "date": "2025-07-29",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Rahul Shukla",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-10-12",
+        "stage": "Evidence Collection",
+        "by": "SI Rahul Shukla",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2025-12-27",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Rahul Shukla",
+        "note": "3 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-03-15",
+        "stage": "Custody & Remand",
+        "by": "SI Rahul Shukla",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-05-27",
+        "stage": "Chargesheet Filed",
+        "by": "SI Rahul Shukla",
+        "note": "Chargesheet filed before the court."
+      },
+      {
+        "date": "2026-08-13",
+        "stage": "Under Trial",
+        "by": "SI Rahul Shukla",
+        "note": "Charges framed; trial in progress."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0063",
+    "fir_id": "UP/LUC/GOMT/0060/2025",
+    "fir_no": "0060/2025",
+    "crime_type": "Attempt to Murder",
+    "crime_category": "Heinous",
+    "sections": [
+      "BNS 109(1)",
+      "BNS 3(5)"
+    ],
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "police_station": "Gomti Nagar PS",
+    "io_name": "ASI Harpreet Singh",
+    "priority": "P1 - Urgent",
+    "opened_on": "2025-06-13",
+    "accused_ids": [
+      "P035",
+      "P011",
+      "P019",
+      "P048"
+    ],
+    "accused_names": [
+      "Sunil Mishra",
+      "Hemant Dhillon",
+      "Meena Chouhan",
+      "Nirmala Choudhary"
+    ],
+    "stage_index": 6,
+    "stage": "Under Trial",
+    "arrest_date": "2026-01-16",
+    "deadline_days": 90,
+    "chargesheet_due": "2026-04-16",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-06-13",
+        "stage": "FIR Registered",
+        "by": "ASI Harpreet Singh",
+        "note": "FIR 0060/2025 registered at Gomti Nagar PS u/s BNS 109(1), BNS 3(5)."
+      },
+      {
+        "date": "2025-08-24",
+        "stage": "Scene Visit & Forensics",
+        "by": "ASI Harpreet Singh",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-11-03",
+        "stage": "Evidence Collection",
+        "by": "ASI Harpreet Singh",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-01-16",
+        "stage": "Arrest / Notice Served",
+        "by": "ASI Harpreet Singh",
+        "note": "4 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-03-27",
+        "stage": "Custody & Remand",
+        "by": "ASI Harpreet Singh",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-06-06",
+        "stage": "Chargesheet Filed",
+        "by": "ASI Harpreet Singh",
+        "note": "Chargesheet filed before the court."
+      },
+      {
+        "date": "2026-08-15",
+        "stage": "Under Trial",
+        "by": "ASI Harpreet Singh",
+        "note": "Charges framed; trial in progress."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0064",
+    "fir_id": "PB/AMR/RANJ/0081/2025",
+    "fir_no": "0081/2025",
+    "crime_type": "Dacoity",
+    "crime_category": "Heinous",
+    "sections": [
+      "BNS 310(2)",
+      "BNS 3(5)"
+    ],
+    "state": "Punjab",
+    "district": "Amritsar",
+    "police_station": "Ranjit Avenue PS",
+    "io_name": "SI Bhupinder Singh",
+    "priority": "P1 - Urgent",
+    "opened_on": "2025-06-15",
+    "accused_ids": [
+      "P014",
+      "P039"
+    ],
+    "accused_names": [
+      "Sachin Singh",
+      "Jaswinder Saxena"
+    ],
+    "stage_index": 5,
+    "stage": "Chargesheet Filed",
+    "arrest_date": "2026-02-20",
+    "deadline_days": 90,
+    "chargesheet_due": "2026-05-21",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-06-15",
+        "stage": "FIR Registered",
+        "by": "SI Bhupinder Singh",
+        "note": "FIR 0081/2025 registered at Ranjit Avenue PS u/s BNS 310(2), BNS 3(5)."
+      },
+      {
+        "date": "2025-09-06",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Bhupinder Singh",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-11-29",
+        "stage": "Evidence Collection",
+        "by": "SI Bhupinder Singh",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-02-20",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Bhupinder Singh",
+        "note": "2 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-05-15",
+        "stage": "Custody & Remand",
+        "by": "SI Bhupinder Singh",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-08-06",
+        "stage": "Chargesheet Filed",
+        "by": "SI Bhupinder Singh",
+        "note": "Chargesheet filed before the court."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0065",
+    "fir_id": "PB/AMR/CIVI/0329/2025",
+    "fir_no": "0329/2025",
+    "crime_type": "Drug Trafficking (Commercial Qty)",
+    "crime_category": "Heinous",
+    "sections": [
+      "NDPS Act 1985 Sec 21(c)"
+    ],
+    "state": "Punjab",
+    "district": "Amritsar",
+    "police_station": "Civil Lines PS",
+    "io_name": "Inspector Deepak Dhillon",
+    "priority": "P1 - Urgent",
+    "opened_on": "2025-06-19",
+    "accused_ids": [
+      "P014"
+    ],
+    "accused_names": [
+      "Sachin Singh"
+    ],
+    "stage_index": 4,
+    "stage": "Custody & Remand",
+    "arrest_date": "2026-04-12",
+    "deadline_days": 90,
+    "chargesheet_due": "2026-07-11",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-06-19",
+        "stage": "FIR Registered",
+        "by": "Inspector Deepak Dhillon",
+        "note": "FIR 0329/2025 registered at Civil Lines PS u/s NDPS Act 1985 Sec 21(c)."
+      },
+      {
+        "date": "2025-09-26",
+        "stage": "Scene Visit & Forensics",
+        "by": "Inspector Deepak Dhillon",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-01-05",
+        "stage": "Evidence Collection",
+        "by": "Inspector Deepak Dhillon",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-04-12",
+        "stage": "Arrest / Notice Served",
+        "by": "Inspector Deepak Dhillon",
+        "note": "1 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-07-19",
+        "stage": "Custody & Remand",
+        "by": "Inspector Deepak Dhillon",
+        "note": "Accused produced before Magistrate; police custody granted."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0066",
+    "fir_id": "MP/BHO/HANU/0301/2025",
+    "fir_no": "0301/2025",
+    "crime_type": "Illegal Arms Possession",
+    "crime_category": "Minor",
+    "sections": [
+      "Arms Act 1959 Sec 25(1B)(a)"
+    ],
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "police_station": "Hanumanganj PS",
+    "io_name": "SI Pappu Raghuvanshi",
+    "priority": "P4 - Low",
+    "opened_on": "2025-06-23",
+    "accused_ids": [
+      "P002",
+      "P057",
+      "P060",
+      "P009"
+    ],
+    "accused_names": [
+      "Mukesh Tiwari",
+      "Geeta Tiwari",
+      "Ganesh Jadhav",
+      "Bablu Malhotra"
+    ],
+    "stage_index": 3,
+    "stage": "Arrest / Notice Served",
+    "arrest_date": "2026-06-28",
+    "deadline_days": 60,
+    "chargesheet_due": "2026-08-27",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-06-23",
+        "stage": "FIR Registered",
+        "by": "SI Pappu Raghuvanshi",
+        "note": "FIR 0301/2025 registered at Hanumanganj PS u/s Arms Act 1959 Sec 25(1B)(a)."
+      },
+      {
+        "date": "2025-10-26",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Pappu Raghuvanshi",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-02-24",
+        "stage": "Evidence Collection",
+        "by": "SI Pappu Raghuvanshi",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-06-28",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Pappu Raghuvanshi",
+        "note": "4 accused identified; arrests / notices under BNSS s.35."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0067",
+    "fir_id": "MH/NC/SADA/0317/2025",
+    "fir_no": "0317/2025",
+    "crime_type": "Online Fraud (Cheating by Personation)",
+    "crime_category": "Major",
+    "sections": [
+      "BNS 319(2)",
+      "IT Act 2000 Sec 66D",
+      "BNS 3(5)"
+    ],
+    "state": "Maharashtra",
+    "district": "Nagpur City",
+    "police_station": "Sadar PS",
+    "io_name": "ASI Vinod Gaikwad",
+    "priority": "P3 - Normal",
+    "opened_on": "2025-07-25",
+    "accused_ids": [
+      "P005",
+      "P036",
+      "P026"
+    ],
+    "accused_names": [
+      "Nirmala Kulkarni",
+      "Harpreet Shekhawat",
+      "Bhupinder Ansari"
+    ],
+    "stage_index": 5,
+    "stage": "Chargesheet Filed",
+    "arrest_date": "2026-03-14",
+    "deadline_days": 60,
+    "chargesheet_due": "2026-05-13",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-07-25",
+        "stage": "FIR Registered",
+        "by": "ASI Vinod Gaikwad",
+        "note": "FIR 0317/2025 registered at Sadar PS u/s BNS 319(2), IT Act 2000 Sec 66D, BNS 3(5)."
+      },
+      {
+        "date": "2025-10-10",
+        "stage": "Scene Visit & Forensics",
+        "by": "ASI Vinod Gaikwad",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2025-12-24",
+        "stage": "Evidence Collection",
+        "by": "ASI Vinod Gaikwad",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-03-14",
+        "stage": "Arrest / Notice Served",
+        "by": "ASI Vinod Gaikwad",
+        "note": "3 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-05-28",
+        "stage": "Custody & Remand",
+        "by": "ASI Vinod Gaikwad",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-08-13",
+        "stage": "Chargesheet Filed",
+        "by": "ASI Vinod Gaikwad",
+        "note": "Chargesheet filed before the court."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0068",
+    "fir_id": "UP/LUC/AMIN/0212/2025",
+    "fir_no": "0212/2025",
+    "crime_type": "Assault to Outrage Modesty",
+    "crime_category": "Major",
+    "sections": [
+      "BNS 74"
+    ],
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "police_station": "Aminabad PS",
+    "io_name": "Inspector Ajay Tiwari",
+    "priority": "P2 - High",
+    "opened_on": "2025-08-06",
+    "accused_ids": [
+      "P053"
+    ],
+    "accused_names": [
+      "Harpreet Pandey"
+    ],
+    "stage_index": 1,
+    "stage": "Scene Visit & Forensics",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-08-06",
+        "stage": "FIR Registered",
+        "by": "Inspector Ajay Tiwari",
+        "note": "FIR 0212/2025 registered at Aminabad PS u/s BNS 74."
+      },
+      {
+        "date": "2026-03-18",
+        "stage": "Scene Visit & Forensics",
+        "by": "Inspector Ajay Tiwari",
+        "note": "Scene inspected; forensic team collected samples."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0069",
+    "fir_id": "MH/PC/KOTH/0047/2025",
+    "fir_no": "0047/2025",
+    "crime_type": "Culpable Homicide not amounting to Murder",
+    "crime_category": "Heinous",
+    "sections": [
+      "BNS 105"
+    ],
+    "state": "Maharashtra",
+    "district": "Pune City",
+    "police_station": "Kothrud PS",
+    "io_name": "SI Anil Deshmukh",
+    "priority": "P2 - High",
+    "opened_on": "2025-08-18",
+    "accused_ids": [
+      "P007"
+    ],
+    "accused_names": [
+      "Santosh Deshmukh"
+    ],
+    "stage_index": 2,
+    "stage": "Evidence Collection",
+    "arrest_date": null,
+    "deadline_days": 90,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-08-18",
+        "stage": "FIR Registered",
+        "by": "SI Anil Deshmukh",
+        "note": "FIR 0047/2025 registered at Kothrud PS u/s BNS 105."
+      },
+      {
+        "date": "2026-01-09",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Anil Deshmukh",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-06-04",
+        "stage": "Evidence Collection",
+        "by": "SI Anil Deshmukh",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0070",
+    "fir_id": "GJ/AHM/KALU/0250/2025",
+    "fir_no": "0250/2025",
+    "crime_type": "Criminal Breach of Trust",
+    "crime_category": "Major",
+    "sections": [
+      "BNS 316(2)"
+    ],
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "police_station": "Kalupur PS",
+    "io_name": "SI Bhupinder Parmar",
+    "priority": "P3 - Normal",
+    "opened_on": "2025-09-11",
+    "accused_ids": [
+      "P033"
+    ],
+    "accused_names": [
+      "Revathi Patel"
+    ],
+    "stage_index": 5,
+    "stage": "Chargesheet Filed",
+    "arrest_date": "2026-04-06",
+    "deadline_days": 60,
+    "chargesheet_due": "2026-06-05",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-09-11",
+        "stage": "FIR Registered",
+        "by": "SI Bhupinder Parmar",
+        "note": "FIR 0250/2025 registered at Kalupur PS u/s BNS 316(2)."
+      },
+      {
+        "date": "2025-11-21",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Bhupinder Parmar",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-01-25",
+        "stage": "Evidence Collection",
+        "by": "SI Bhupinder Parmar",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-04-06",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Bhupinder Parmar",
+        "note": "1 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-06-13",
+        "stage": "Custody & Remand",
+        "by": "SI Bhupinder Parmar",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-08-20",
+        "stage": "Chargesheet Filed",
+        "by": "SI Bhupinder Parmar",
+        "note": "Chargesheet filed before the court."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0071",
+    "fir_id": "DL/NED/SEEL/0272/2025",
+    "fir_no": "0272/2025",
+    "crime_type": "Criminal Breach of Trust",
+    "crime_category": "Major",
+    "sections": [
+      "BNS 316(2)",
+      "BNS 3(5)"
+    ],
+    "state": "Delhi",
+    "district": "North East Delhi",
+    "police_station": "Seelampur PS",
+    "io_name": "SI Ganesh Arora",
+    "priority": "P2 - High",
+    "opened_on": "2025-09-17",
+    "accused_ids": [
+      "P015",
+      "P010"
+    ],
+    "accused_names": [
+      "Faizan Rao",
+      "Vinod Chaudhary"
+    ],
+    "stage_index": 0,
+    "stage": "FIR Registered",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-09-17",
+        "stage": "FIR Registered",
+        "by": "SI Ganesh Arora",
+        "note": "FIR 0272/2025 registered at Seelampur PS u/s BNS 316(2), BNS 3(5)."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0072",
+    "fir_id": "KA/MYS/DEVA/0354/2025",
+    "fir_no": "0354/2025",
+    "crime_type": "Grievous Hurt",
+    "crime_category": "Major",
+    "sections": [
+      "BNS 117(2)"
+    ],
+    "state": "Karnataka",
+    "district": "Mysuru",
+    "police_station": "Devaraja PS",
+    "io_name": "SI Kishore Kumar",
+    "priority": "P3 - Normal",
+    "opened_on": "2025-09-22",
+    "accused_ids": [
+      "P040"
+    ],
+    "accused_names": [
+      "Vikram Shetty"
+    ],
+    "stage_index": 3,
+    "stage": "Arrest / Notice Served",
+    "arrest_date": "2026-07-21",
+    "deadline_days": 60,
+    "chargesheet_due": "2026-09-19",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-09-22",
+        "stage": "FIR Registered",
+        "by": "SI Kishore Kumar",
+        "note": "FIR 0354/2025 registered at Devaraja PS u/s BNS 117(2)."
+      },
+      {
+        "date": "2025-12-30",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Kishore Kumar",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-04-09",
+        "stage": "Evidence Collection",
+        "by": "SI Kishore Kumar",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-07-21",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Kishore Kumar",
+        "note": "1 accused identified; arrests / notices under BNSS s.35."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0073",
+    "fir_id": "GJ/SUR/VARA/0036/2025",
+    "fir_no": "0036/2025",
+    "crime_type": "Human Trafficking",
+    "crime_category": "Heinous",
+    "sections": [
+      "BNS 143",
+      "BNS 3(5)"
+    ],
+    "state": "Gujarat",
+    "district": "Surat",
+    "police_station": "Varachha PS",
+    "io_name": "ASI Rohit Chaudhary",
+    "priority": "P1 - Urgent",
+    "opened_on": "2025-11-14",
+    "accused_ids": [
+      "P004",
+      "P043"
+    ],
+    "accused_names": [
+      "Ajay Parmar",
+      "Simran Verma"
+    ],
+    "stage_index": 3,
+    "stage": "Arrest / Notice Served",
+    "arrest_date": "2026-08-03",
+    "deadline_days": 90,
+    "chargesheet_due": "2026-11-01",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-11-14",
+        "stage": "FIR Registered",
+        "by": "ASI Rohit Chaudhary",
+        "note": "FIR 0036/2025 registered at Varachha PS u/s BNS 143, BNS 3(5)."
+      },
+      {
+        "date": "2026-02-11",
+        "stage": "Scene Visit & Forensics",
+        "by": "ASI Rohit Chaudhary",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-05-08",
+        "stage": "Evidence Collection",
+        "by": "ASI Rohit Chaudhary",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-08-03",
+        "stage": "Arrest / Notice Served",
+        "by": "ASI Rohit Chaudhary",
+        "note": "2 accused identified; arrests / notices under BNSS s.35."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0074",
+    "fir_id": "BR/GAY/RAMP/0308/2025",
+    "fir_no": "0308/2025",
+    "crime_type": "Petty Organised Crime",
+    "crime_category": "Major",
+    "sections": [
+      "BNS 112(2)",
+      "BNS 3(5)"
+    ],
+    "state": "Bihar",
+    "district": "Gaya",
+    "police_station": "Rampur PS",
+    "io_name": "ASI Ramesh Yadav",
+    "priority": "P2 - High",
+    "opened_on": "2025-11-27",
+    "accused_ids": [
+      "P020",
+      "P028",
+      "P050"
+    ],
+    "accused_names": [
+      "Vijay Thakur",
+      "Rahul Kulkarni",
+      "Senthil Mishra"
+    ],
+    "stage_index": 6,
+    "stage": "Under Trial",
+    "arrest_date": "2026-04-21",
+    "deadline_days": 60,
+    "chargesheet_due": "2026-06-20",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-11-27",
+        "stage": "FIR Registered",
+        "by": "ASI Ramesh Yadav",
+        "note": "FIR 0308/2025 registered at Rampur PS u/s BNS 112(2), BNS 3(5)."
+      },
+      {
+        "date": "2026-01-14",
+        "stage": "Scene Visit & Forensics",
+        "by": "ASI Ramesh Yadav",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-03-02",
+        "stage": "Evidence Collection",
+        "by": "ASI Ramesh Yadav",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-04-21",
+        "stage": "Arrest / Notice Served",
+        "by": "ASI Ramesh Yadav",
+        "note": "3 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-06-05",
+        "stage": "Custody & Remand",
+        "by": "ASI Ramesh Yadav",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-07-23",
+        "stage": "Chargesheet Filed",
+        "by": "ASI Ramesh Yadav",
+        "note": "Chargesheet filed before the court."
+      },
+      {
+        "date": "2026-09-10",
+        "stage": "Under Trial",
+        "by": "ASI Ramesh Yadav",
+        "note": "Charges framed; trial in progress."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0075",
+    "fir_id": "RJ/JAI/MALV/0268/2025",
+    "fir_no": "0268/2025",
+    "crime_type": "Drug Trafficking (Commercial Qty)",
+    "crime_category": "Heinous",
+    "sections": [
+      "NDPS Act 1985 Sec 21(c)"
+    ],
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "police_station": "Malviya Nagar PS",
+    "io_name": "SI Ajay Jain",
+    "priority": "P2 - High",
+    "opened_on": "2025-12-08",
+    "accused_ids": [
+      "P024",
+      "P011",
+      "P032"
+    ],
+    "accused_names": [
+      "Dilip Shah",
+      "Hemant Dhillon",
+      "Rekha Rathore"
+    ],
+    "stage_index": 4,
+    "stage": "Custody & Remand",
+    "arrest_date": "2026-06-20",
+    "deadline_days": 90,
+    "chargesheet_due": "2026-09-18",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-12-08",
+        "stage": "FIR Registered",
+        "by": "SI Ajay Jain",
+        "note": "FIR 0268/2025 registered at Malviya Nagar PS u/s NDPS Act 1985 Sec 21(c)."
+      },
+      {
+        "date": "2026-02-11",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Ajay Jain",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-04-18",
+        "stage": "Evidence Collection",
+        "by": "SI Ajay Jain",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-06-20",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Ajay Jain",
+        "note": "3 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-08-25",
+        "stage": "Custody & Remand",
+        "by": "SI Ajay Jain",
+        "note": "Accused produced before Magistrate; police custody granted."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0076",
+    "fir_id": "MH/MS/BAND/0211/2025",
+    "fir_no": "0211/2025",
+    "crime_type": "Motor Vehicle Theft",
+    "crime_category": "Minor",
+    "sections": [
+      "BNS 303(2)",
+      "BNS 3(5)"
+    ],
+    "state": "Maharashtra",
+    "district": "Mumbai Suburban",
+    "police_station": "Bandra PS",
+    "io_name": "SI Bhavesh Shinde",
+    "priority": "P4 - Low",
+    "opened_on": "2025-12-21",
+    "accused_ids": [
+      "P008",
+      "P014",
+      "P039"
+    ],
+    "accused_names": [
+      "Ananya Pillai",
+      "Sachin Singh",
+      "Jaswinder Saxena"
+    ],
+    "stage_index": 1,
+    "stage": "Scene Visit & Forensics",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-12-21",
+        "stage": "FIR Registered",
+        "by": "SI Bhavesh Shinde",
+        "note": "FIR 0211/2025 registered at Bandra PS u/s BNS 303(2), BNS 3(5)."
+      },
+      {
+        "date": "2026-05-24",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Bhavesh Shinde",
+        "note": "Scene inspected; forensic team collected samples."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2025-0077",
+    "fir_id": "UP/VAR/DASH/0341/2025",
+    "fir_no": "0341/2025",
+    "crime_type": "Extortion",
+    "crime_category": "Major",
+    "sections": [
+      "BNS 308(2)",
+      "BNS 3(5)"
+    ],
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "police_station": "Dashashwamedh PS",
+    "io_name": "ASI Karthik Singh",
+    "priority": "P3 - Normal",
+    "opened_on": "2025-12-28",
+    "accused_ids": [
+      "P046",
+      "P005",
+      "P036"
+    ],
+    "accused_names": [
+      "Prakash Verma",
+      "Nirmala Kulkarni",
+      "Harpreet Shekhawat"
+    ],
+    "stage_index": 0,
+    "stage": "FIR Registered",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2025-12-28",
+        "stage": "FIR Registered",
+        "by": "ASI Karthik Singh",
+        "note": "FIR 0341/2025 registered at Dashashwamedh PS u/s BNS 308(2), BNS 3(5)."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0078",
+    "fir_id": "BR/PAT/KANK/0084/2026",
+    "fir_no": "0084/2026",
+    "crime_type": "Cheating",
+    "crime_category": "Major",
+    "sections": [
+      "BNS 318(4)",
+      "BNS 3(5)"
+    ],
+    "state": "Bihar",
+    "district": "Patna",
+    "police_station": "Kankarbagh PS",
+    "io_name": "SI Srinivas Jha",
+    "priority": "P2 - High",
+    "opened_on": "2026-01-11",
+    "accused_ids": [
+      "P020",
+      "P022",
+      "P052",
+      "P028"
+    ],
+    "accused_names": [
+      "Vijay Thakur",
+      "Nitin Subramanian",
+      "Srinivas Singh",
+      "Rahul Kulkarni"
+    ],
+    "stage_index": 3,
+    "stage": "Arrest / Notice Served",
+    "arrest_date": "2026-08-17",
+    "deadline_days": 60,
+    "chargesheet_due": "2026-10-16",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-01-11",
+        "stage": "FIR Registered",
+        "by": "SI Srinivas Jha",
+        "note": "FIR 0084/2026 registered at Kankarbagh PS u/s BNS 318(4), BNS 3(5)."
+      },
+      {
+        "date": "2026-03-26",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Srinivas Jha",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-06-05",
+        "stage": "Evidence Collection",
+        "by": "SI Srinivas Jha",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-08-17",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Srinivas Jha",
+        "note": "4 accused identified; arrests / notices under BNSS s.35."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0079",
+    "fir_id": "RJ/JAI/VIDH/0383/2026",
+    "fir_no": "0383/2026",
+    "crime_type": "Robbery",
+    "crime_category": "Major",
+    "sections": [
+      "BNS 309(4)"
+    ],
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "police_station": "Vidhyadhar Nagar PS",
+    "io_name": "SI Shafiq Choudhary",
+    "priority": "P2 - High",
+    "opened_on": "2026-01-22",
+    "accused_ids": [
+      "P036"
+    ],
+    "accused_names": [
+      "Harpreet Shekhawat"
+    ],
+    "stage_index": 6,
+    "stage": "Under Trial",
+    "arrest_date": "2026-05-22",
+    "deadline_days": 90,
+    "chargesheet_due": "2026-08-20",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-01-22",
+        "stage": "FIR Registered",
+        "by": "SI Shafiq Choudhary",
+        "note": "FIR 0383/2026 registered at Vidhyadhar Nagar PS u/s BNS 309(4)."
+      },
+      {
+        "date": "2026-03-05",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Shafiq Choudhary",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-04-12",
+        "stage": "Evidence Collection",
+        "by": "SI Shafiq Choudhary",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-05-22",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Shafiq Choudhary",
+        "note": "1 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-06-30",
+        "stage": "Custody & Remand",
+        "by": "SI Shafiq Choudhary",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-08-09",
+        "stage": "Chargesheet Filed",
+        "by": "SI Shafiq Choudhary",
+        "note": "Chargesheet filed before the court."
+      },
+      {
+        "date": "2026-09-19",
+        "stage": "Under Trial",
+        "by": "SI Shafiq Choudhary",
+        "note": "Charges framed; trial in progress."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0080",
+    "fir_id": "WB/N2P/BIDH/0195/2026",
+    "fir_no": "0195/2026",
+    "crime_type": "Forgery for Cheating",
+    "crime_category": "Major",
+    "sections": [
+      "BNS 336(3)",
+      "BNS 3(5)"
+    ],
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "police_station": "Bidhannagar PS",
+    "io_name": "ASI Shafiq Sarkar",
+    "priority": "P2 - High",
+    "opened_on": "2026-02-09",
+    "accused_ids": [
+      "P059",
+      "P034",
+      "P024",
+      "P042"
+    ],
+    "accused_names": [
+      "Vijay Mondal",
+      "Kavita Goud",
+      "Dilip Shah",
+      "Mary Qureshi"
+    ],
+    "stage_index": 0,
+    "stage": "FIR Registered",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-02-09",
+        "stage": "FIR Registered",
+        "by": "ASI Shafiq Sarkar",
+        "note": "FIR 0195/2026 registered at Bidhannagar PS u/s BNS 336(3), BNS 3(5)."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0081",
+    "fir_id": "PB/LUD/DIVI/0348/2026",
+    "fir_no": "0348/2026",
+    "crime_type": "Culpable Homicide not amounting to Murder",
+    "crime_category": "Heinous",
+    "sections": [
+      "BNS 105",
+      "BNS 3(5)"
+    ],
+    "state": "Punjab",
+    "district": "Ludhiana",
+    "police_station": "Division No. 5 PS",
+    "io_name": "SI Dilip Sidhu",
+    "priority": "P2 - High",
+    "opened_on": "2026-02-25",
+    "accused_ids": [
+      "P014",
+      "P018"
+    ],
+    "accused_names": [
+      "Sachin Singh",
+      "Sanjay Kumar"
+    ],
+    "stage_index": 6,
+    "stage": "Under Trial",
+    "arrest_date": "2026-06-12",
+    "deadline_days": 90,
+    "chargesheet_due": "2026-09-10",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-02-25",
+        "stage": "FIR Registered",
+        "by": "SI Dilip Sidhu",
+        "note": "FIR 0348/2026 registered at Division No. 5 PS u/s BNS 105, BNS 3(5)."
+      },
+      {
+        "date": "2026-03-31",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Dilip Sidhu",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-05-05",
+        "stage": "Evidence Collection",
+        "by": "SI Dilip Sidhu",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-06-12",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Dilip Sidhu",
+        "note": "2 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-07-13",
+        "stage": "Custody & Remand",
+        "by": "SI Dilip Sidhu",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-08-17",
+        "stage": "Chargesheet Filed",
+        "by": "SI Dilip Sidhu",
+        "note": "Chargesheet filed before the court."
+      },
+      {
+        "date": "2026-09-24",
+        "stage": "Under Trial",
+        "by": "SI Dilip Sidhu",
+        "note": "Charges framed; trial in progress."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0082",
+    "fir_id": "GJ/AHM/NAVR/0291/2026",
+    "fir_no": "0291/2026",
+    "crime_type": "Illegal Arms Possession",
+    "crime_category": "Minor",
+    "sections": [
+      "Arms Act 1959 Sec 25(1B)(a)"
+    ],
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "police_station": "Navrangpura PS",
+    "io_name": "SI Ganesh Solanki",
+    "priority": "P4 - Low",
+    "opened_on": "2026-03-09",
+    "accused_ids": [
+      "P010"
+    ],
+    "accused_names": [
+      "Vinod Chaudhary"
+    ],
+    "stage_index": 4,
+    "stage": "Custody & Remand",
+    "arrest_date": "2026-07-25",
+    "deadline_days": 60,
+    "chargesheet_due": "2026-09-23",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-03-09",
+        "stage": "FIR Registered",
+        "by": "SI Ganesh Solanki",
+        "note": "FIR 0291/2026 registered at Navrangpura PS u/s Arms Act 1959 Sec 25(1B)(a)."
+      },
+      {
+        "date": "2026-04-24",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Ganesh Solanki",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-06-12",
+        "stage": "Evidence Collection",
+        "by": "SI Ganesh Solanki",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-07-25",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Ganesh Solanki",
+        "note": "1 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-09-10",
+        "stage": "Custody & Remand",
+        "by": "SI Ganesh Solanki",
+        "note": "Accused produced before Magistrate; police custody granted."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0083",
+    "fir_id": "GJ/AHM/SATE/0372/2026",
+    "fir_no": "0372/2026",
+    "crime_type": "Drug Possession (Small Qty)",
+    "crime_category": "Minor",
+    "sections": [
+      "NDPS Act 1985 Sec 20(b)(ii)(A)"
+    ],
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "police_station": "Satellite PS",
+    "io_name": "Inspector Pankaj Desai",
+    "priority": "P4 - Low",
+    "opened_on": "2026-04-19",
+    "accused_ids": [
+      "P024"
+    ],
+    "accused_names": [
+      "Dilip Shah"
+    ],
+    "stage_index": 2,
+    "stage": "Evidence Collection",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-04-19",
+        "stage": "FIR Registered",
+        "by": "Inspector Pankaj Desai",
+        "note": "FIR 0372/2026 registered at Satellite PS u/s NDPS Act 1985 Sec 20(b)(ii)(A)."
+      },
+      {
+        "date": "2026-06-24",
+        "stage": "Scene Visit & Forensics",
+        "by": "Inspector Pankaj Desai",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-08-26",
+        "stage": "Evidence Collection",
+        "by": "Inspector Pankaj Desai",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0084",
+    "fir_id": "DL/CD/PAHA/0344/2026",
+    "fir_no": "0344/2026",
+    "crime_type": "Arms Manufacture / Sale",
+    "crime_category": "Heinous",
+    "sections": [
+      "Arms Act 1959 Sec 25(1)(a)"
+    ],
+    "state": "Delhi",
+    "district": "Central Delhi",
+    "police_station": "Paharganj PS",
+    "io_name": "Inspector Abhishek Arora",
+    "priority": "P2 - High",
+    "opened_on": "2026-05-01",
+    "accused_ids": [
+      "P049",
+      "P051",
+      "P026",
+      "P040"
+    ],
+    "accused_names": [
+      "Rakesh Qureshi",
+      "Jaswinder Krishnan",
+      "Bhupinder Ansari",
+      "Vikram Shetty"
+    ],
+    "stage_index": 3,
+    "stage": "Arrest / Notice Served",
+    "arrest_date": "2026-09-14",
+    "deadline_days": 90,
+    "chargesheet_due": "2026-12-13",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-05-01",
+        "stage": "FIR Registered",
+        "by": "Inspector Abhishek Arora",
+        "note": "FIR 0344/2026 registered at Paharganj PS u/s Arms Act 1959 Sec 25(1)(a)."
+      },
+      {
+        "date": "2026-06-16",
+        "stage": "Scene Visit & Forensics",
+        "by": "Inspector Abhishek Arora",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-07-30",
+        "stage": "Evidence Collection",
+        "by": "Inspector Abhishek Arora",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-09-14",
+        "stage": "Arrest / Notice Served",
+        "by": "Inspector Abhishek Arora",
+        "note": "4 accused identified; arrests / notices under BNSS s.35."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0085",
+    "fir_id": "MP/BHO/HANU/0109/2026",
+    "fir_no": "0109/2026",
+    "crime_type": "Grievous Hurt",
+    "crime_category": "Major",
+    "sections": [
+      "BNS 117(2)",
+      "BNS 3(5)"
+    ],
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "police_station": "Hanumanganj PS",
+    "io_name": "ASI Abhishek Saxena",
+    "priority": "P2 - High",
+    "opened_on": "2026-05-15",
+    "accused_ids": [
+      "P036",
+      "P045",
+      "P024"
+    ],
+    "accused_names": [
+      "Harpreet Shekhawat",
+      "Anirban Sinha",
+      "Dilip Shah"
+    ],
+    "stage_index": 1,
+    "stage": "Scene Visit & Forensics",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-05-15",
+        "stage": "FIR Registered",
+        "by": "ASI Abhishek Saxena",
+        "note": "FIR 0109/2026 registered at Hanumanganj PS u/s BNS 117(2), BNS 3(5)."
+      },
+      {
+        "date": "2026-08-06",
+        "stage": "Scene Visit & Forensics",
+        "by": "ASI Abhishek Saxena",
+        "note": "Scene inspected; forensic team collected samples."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0086",
+    "fir_id": "DL/NED/JAFR/0403/2026",
+    "fir_no": "0403/2026",
+    "crime_type": "Kidnapping for Ransom",
+    "crime_category": "Heinous",
+    "sections": [
+      "BNS 140(2)"
+    ],
+    "state": "Delhi",
+    "district": "North East Delhi",
+    "police_station": "Jafrabad PS",
+    "io_name": "Inspector Vijay Bansal",
+    "priority": "P1 - Urgent",
+    "opened_on": "2026-05-19",
+    "accused_ids": [
+      "P049"
+    ],
+    "accused_names": [
+      "Rakesh Qureshi"
+    ],
+    "stage_index": 5,
+    "stage": "Chargesheet Filed",
+    "arrest_date": "2026-08-09",
+    "deadline_days": 90,
+    "chargesheet_due": "2026-11-07",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-05-19",
+        "stage": "FIR Registered",
+        "by": "Inspector Vijay Bansal",
+        "note": "FIR 0403/2026 registered at Jafrabad PS u/s BNS 140(2)."
+      },
+      {
+        "date": "2026-06-17",
+        "stage": "Scene Visit & Forensics",
+        "by": "Inspector Vijay Bansal",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-07-14",
+        "stage": "Evidence Collection",
+        "by": "Inspector Vijay Bansal",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-08-09",
+        "stage": "Arrest / Notice Served",
+        "by": "Inspector Vijay Bansal",
+        "note": "1 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-09-02",
+        "stage": "Custody & Remand",
+        "by": "Inspector Vijay Bansal",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-09-30",
+        "stage": "Chargesheet Filed",
+        "by": "Inspector Vijay Bansal",
+        "note": "Chargesheet filed before the court."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0087",
+    "fir_id": "UP/LUC/GOMT/0326/2026",
+    "fir_no": "0326/2026",
+    "crime_type": "Drug Possession (Small Qty)",
+    "crime_category": "Minor",
+    "sections": [
+      "NDPS Act 1985 Sec 20(b)(ii)(A)"
+    ],
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "police_station": "Gomti Nagar PS",
+    "io_name": "SI Venkatesh Shukla",
+    "priority": "P4 - Low",
+    "opened_on": "2026-06-02",
+    "accused_ids": [
+      "P027",
+      "P012"
+    ],
+    "accused_names": [
+      "Santosh Mishra",
+      "Mukesh Jha"
+    ],
+    "stage_index": 3,
+    "stage": "Arrest / Notice Served",
+    "arrest_date": "2026-10-19",
+    "deadline_days": 60,
+    "chargesheet_due": "2026-12-18",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-06-02",
+        "stage": "FIR Registered",
+        "by": "SI Venkatesh Shukla",
+        "note": "FIR 0326/2026 registered at Gomti Nagar PS u/s NDPS Act 1985 Sec 20(b)(ii)(A)."
+      },
+      {
+        "date": "2026-07-08",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Venkatesh Shukla",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-08-16",
+        "stage": "Evidence Collection",
+        "by": "SI Venkatesh Shukla",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-09-20",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Venkatesh Shukla",
+        "note": "2 accused identified; arrests / notices under BNSS s.35."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0088",
+    "fir_id": "TN/MAD/TALL/0222/2026",
+    "fir_no": "0222/2026",
+    "crime_type": "Theft",
+    "crime_category": "Minor",
+    "sections": [
+      "BNS 303(2)",
+      "BNS 3(5)"
+    ],
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "police_station": "Tallakulam PS",
+    "io_name": "SI Pappu Krishnan",
+    "priority": "P3 - Normal",
+    "opened_on": "2026-06-09",
+    "accused_ids": [
+      "P005",
+      "P054"
+    ],
+    "accused_names": [
+      "Nirmala Kulkarni",
+      "Imran Desai"
+    ],
+    "stage_index": 2,
+    "stage": "Evidence Collection",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-06-09",
+        "stage": "FIR Registered",
+        "by": "SI Pappu Krishnan",
+        "note": "FIR 0222/2026 registered at Tallakulam PS u/s BNS 303(2), BNS 3(5)."
+      },
+      {
+        "date": "2026-07-26",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Pappu Krishnan",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-09-10",
+        "stage": "Evidence Collection",
+        "by": "SI Pappu Krishnan",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0089",
+    "fir_id": "GJ/SUR/ATHW/0208/2026",
+    "fir_no": "0208/2026",
+    "crime_type": "Dacoity",
+    "crime_category": "Heinous",
+    "sections": [
+      "BNS 310(2)",
+      "BNS 3(5)"
+    ],
+    "state": "Gujarat",
+    "district": "Surat",
+    "police_station": "Athwalines PS",
+    "io_name": "ASI Anirban Shah",
+    "priority": "P2 - High",
+    "opened_on": "2026-07-04",
+    "accused_ids": [
+      "P033",
+      "P017",
+      "P004"
+    ],
+    "accused_names": [
+      "Revathi Patel",
+      "Ajay Kumar",
+      "Ajay Parmar"
+    ],
+    "stage_index": 2,
+    "stage": "Evidence Collection",
+    "arrest_date": null,
+    "deadline_days": 90,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-07-04",
+        "stage": "FIR Registered",
+        "by": "ASI Anirban Shah",
+        "note": "FIR 0208/2026 registered at Athwalines PS u/s BNS 310(2), BNS 3(5)."
+      },
+      {
+        "date": "2026-08-11",
+        "stage": "Scene Visit & Forensics",
+        "by": "ASI Anirban Shah",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-09-20",
+        "stage": "Evidence Collection",
+        "by": "ASI Anirban Shah",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0090",
+    "fir_id": "MH/MC/AZAD/0230/2026",
+    "fir_no": "0230/2026",
+    "crime_type": "Theft",
+    "crime_category": "Minor",
+    "sections": [
+      "BNS 303(2)",
+      "BNS 3(5)"
+    ],
+    "state": "Maharashtra",
+    "district": "Mumbai City",
+    "police_station": "Azad Maidan PS",
+    "io_name": "Inspector Biswajit Gaikwad",
+    "priority": "P4 - Low",
+    "opened_on": "2026-07-17",
+    "accused_ids": [
+      "P005",
+      "P027",
+      "P051"
+    ],
+    "accused_names": [
+      "Nirmala Kulkarni",
+      "Santosh Mishra",
+      "Jaswinder Krishnan"
+    ],
+    "stage_index": 3,
+    "stage": "Arrest / Notice Served",
+    "arrest_date": "2026-10-08",
+    "deadline_days": 60,
+    "chargesheet_due": "2026-12-07",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-07-17",
+        "stage": "FIR Registered",
+        "by": "Inspector Biswajit Gaikwad",
+        "note": "FIR 0230/2026 registered at Azad Maidan PS u/s BNS 303(2), BNS 3(5)."
+      },
+      {
+        "date": "2026-08-13",
+        "stage": "Scene Visit & Forensics",
+        "by": "Inspector Biswajit Gaikwad",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-09-06",
+        "stage": "Evidence Collection",
+        "by": "Inspector Biswajit Gaikwad",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-10-03",
+        "stage": "Arrest / Notice Served",
+        "by": "Inspector Biswajit Gaikwad",
+        "note": "3 accused identified; arrests / notices under BNSS s.35."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0091",
+    "fir_id": "BR/PAT/PIRB/0272/2026",
+    "fir_no": "0272/2026",
+    "crime_type": "Cheating",
+    "crime_category": "Major",
+    "sections": [
+      "BNS 318(4)"
+    ],
+    "state": "Bihar",
+    "district": "Patna",
+    "police_station": "Pirbahore PS",
+    "io_name": "SI Bhupinder Prasad",
+    "priority": "P2 - High",
+    "opened_on": "2026-07-18",
+    "accused_ids": [
+      "P029"
+    ],
+    "accused_names": [
+      "Sushma Krishnan"
+    ],
+    "stage_index": 1,
+    "stage": "Scene Visit & Forensics",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-07-18",
+        "stage": "FIR Registered",
+        "by": "SI Bhupinder Prasad",
+        "note": "FIR 0272/2026 registered at Pirbahore PS u/s BNS 318(4)."
+      },
+      {
+        "date": "2026-09-06",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Bhupinder Prasad",
+        "note": "Scene inspected; forensic team collected samples."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0092",
+    "fir_id": "TN/COI/RSPU/0076/2026",
+    "fir_no": "0076/2026",
+    "crime_type": "Gambling / Betting Racket",
+    "crime_category": "Minor",
+    "sections": [
+      "Public Gambling Act 1867 Sec 3/4 (or State Gaming Act)"
+    ],
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "police_station": "R.S. Puram PS",
+    "io_name": "SI Rakesh Krishnan",
+    "priority": "P4 - Low",
+    "opened_on": "2026-07-22",
+    "accused_ids": [
+      "P051",
+      "P054",
+      "P031",
+      "P049"
+    ],
+    "accused_names": [
+      "Jaswinder Krishnan",
+      "Imran Desai",
+      "Deepak Shaikh",
+      "Rakesh Qureshi"
+    ],
+    "stage_index": 1,
+    "stage": "Scene Visit & Forensics",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-07-22",
+        "stage": "FIR Registered",
+        "by": "SI Rakesh Krishnan",
+        "note": "FIR 0076/2026 registered at R.S. Puram PS u/s Public Gambling Act 1867 Sec 3/4 (or State Gaming Act)."
+      },
+      {
+        "date": "2026-09-09",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Rakesh Krishnan",
+        "note": "Scene inspected; forensic team collected samples."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0093",
+    "fir_id": "UP/VAR/CANT/0368/2026",
+    "fir_no": "0368/2026",
+    "crime_type": "Murder",
+    "crime_category": "Heinous",
+    "sections": [
+      "BNS 103(1)",
+      "BNS 3(5)"
+    ],
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "police_station": "Cantonment PS",
+    "io_name": "SI Amit Yadav",
+    "priority": "P1 - Urgent",
+    "opened_on": "2026-07-31",
+    "accused_ids": [
+      "P052",
+      "P022",
+      "P050",
+      "P028"
+    ],
+    "accused_names": [
+      "Srinivas Singh",
+      "Nitin Subramanian",
+      "Senthil Mishra",
+      "Rahul Kulkarni"
+    ],
+    "stage_index": 5,
+    "stage": "Chargesheet Filed",
+    "arrest_date": "2026-08-02",
+    "deadline_days": 90,
+    "chargesheet_due": "2026-10-31",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-07-31",
+        "stage": "FIR Registered",
+        "by": "SI Amit Yadav",
+        "note": "FIR 0368/2026 registered at Cantonment PS u/s BNS 103(1), BNS 3(5)."
+      },
+      {
+        "date": "2026-08-14",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Amit Yadav",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-09-01",
+        "stage": "Evidence Collection",
+        "by": "SI Amit Yadav",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-09-15",
+        "stage": "Arrest / Notice Served",
+        "by": "SI Amit Yadav",
+        "note": "4 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-08-02",
+        "stage": "Custody & Remand",
+        "by": "SI Amit Yadav",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-08-05",
+        "stage": "Chargesheet Filed",
+        "by": "SI Amit Yadav",
+        "note": "Chargesheet filed before the court."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0094",
+    "fir_id": "RJ/JAI/KOTW/0177/2026",
+    "fir_no": "0177/2026",
+    "crime_type": "Identity Theft",
+    "crime_category": "Minor",
+    "sections": [
+      "IT Act 2000 Sec 66C"
+    ],
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "police_station": "Kotwali PS",
+    "io_name": "ASI Ganesh Choudhary",
+    "priority": "P4 - Low",
+    "opened_on": "2026-07-31",
+    "accused_ids": [
+      "P021",
+      "P047",
+      "P019",
+      "P052"
+    ],
+    "accused_names": [
+      "Rakesh Reddy",
+      "Jignesh Shaikh",
+      "Meena Chouhan",
+      "Srinivas Singh"
+    ],
+    "stage_index": 5,
+    "stage": "Chargesheet Filed",
+    "arrest_date": "2026-09-11",
+    "deadline_days": 60,
+    "chargesheet_due": "2026-11-10",
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-07-31",
+        "stage": "FIR Registered",
+        "by": "ASI Ganesh Choudhary",
+        "note": "FIR 0177/2026 registered at Kotwali PS u/s IT Act 2000 Sec 66C."
+      },
+      {
+        "date": "2026-08-15",
+        "stage": "Scene Visit & Forensics",
+        "by": "ASI Ganesh Choudhary",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-08-30",
+        "stage": "Evidence Collection",
+        "by": "ASI Ganesh Choudhary",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      },
+      {
+        "date": "2026-09-13",
+        "stage": "Arrest / Notice Served",
+        "by": "ASI Ganesh Choudhary",
+        "note": "4 accused identified; arrests / notices under BNSS s.35."
+      },
+      {
+        "date": "2026-09-11",
+        "stage": "Custody & Remand",
+        "by": "ASI Ganesh Choudhary",
+        "note": "Accused produced before Magistrate; police custody granted."
+      },
+      {
+        "date": "2026-09-14",
+        "stage": "Chargesheet Filed",
+        "by": "ASI Ganesh Choudhary",
+        "note": "Chargesheet filed before the court."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0095",
+    "fir_id": "BR/GAY/KOTW/0139/2026",
+    "fir_no": "0139/2026",
+    "crime_type": "Culpable Homicide not amounting to Murder",
+    "crime_category": "Heinous",
+    "sections": [
+      "BNS 105"
+    ],
+    "state": "Bihar",
+    "district": "Gaya",
+    "police_station": "Kotwali PS",
+    "io_name": "SI Ganesh Thakur",
+    "priority": "P1 - Urgent",
+    "opened_on": "2026-08-12",
+    "accused_ids": [
+      "P018"
+    ],
+    "accused_names": [
+      "Sanjay Kumar"
+    ],
+    "stage_index": 1,
+    "stage": "Scene Visit & Forensics",
+    "arrest_date": null,
+    "deadline_days": 90,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-08-12",
+        "stage": "FIR Registered",
+        "by": "SI Ganesh Thakur",
+        "note": "FIR 0139/2026 registered at Kotwali PS u/s BNS 105."
+      },
+      {
+        "date": "2026-09-19",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Ganesh Thakur",
+        "note": "Scene inspected; forensic team collected samples."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0096",
+    "fir_id": "TS/HYD/CHAR/0294/2026",
+    "fir_no": "0294/2026",
+    "crime_type": "Online Fraud (Cheating by Personation)",
+    "crime_category": "Major",
+    "sections": [
+      "BNS 319(2)",
+      "IT Act 2000 Sec 66D"
+    ],
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "police_station": "Charminar PS",
+    "io_name": "SI Vijay Reddy",
+    "priority": "P2 - High",
+    "opened_on": "2026-09-06",
+    "accused_ids": [
+      "P020"
+    ],
+    "accused_names": [
+      "Vijay Thakur"
+    ],
+    "stage_index": 2,
+    "stage": "Evidence Collection",
+    "arrest_date": null,
+    "deadline_days": 60,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-09-06",
+        "stage": "FIR Registered",
+        "by": "SI Vijay Reddy",
+        "note": "FIR 0294/2026 registered at Charminar PS u/s BNS 319(2), IT Act 2000 Sec 66D."
+      },
+      {
+        "date": "2026-09-23",
+        "stage": "Scene Visit & Forensics",
+        "by": "SI Vijay Reddy",
+        "note": "Scene inspected; forensic team collected samples."
+      },
+      {
+        "date": "2026-10-09",
+        "stage": "Evidence Collection",
+        "by": "SI Vijay Reddy",
+        "note": "CDRs requested from service providers; statements of 3 witnesses recorded."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0097",
+    "fir_id": "WB/N2P/BARA/0230/2026",
+    "fir_no": "0230/2026",
+    "crime_type": "Attempt to Murder",
+    "crime_category": "Heinous",
+    "sections": [
+      "BNS 109(1)"
+    ],
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "police_station": "Barasat PS",
+    "io_name": "ASI Anirban Banerjee",
+    "priority": "P1 - Urgent",
+    "opened_on": "2026-09-27",
+    "accused_ids": [
+      "P049"
+    ],
+    "accused_names": [
+      "Rakesh Qureshi"
+    ],
+    "stage_index": 0,
+    "stage": "FIR Registered",
+    "arrest_date": null,
+    "deadline_days": 90,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-09-27",
+        "stage": "FIR Registered",
+        "by": "ASI Anirban Banerjee",
+        "note": "FIR 0230/2026 registered at Barasat PS u/s BNS 109(1)."
+      }
+    ]
+  },
+  {
+    "case_id": "INV-2026-0098",
+    "fir_id": "DL/NED/WELC/0186/2026",
+    "fir_no": "0186/2026",
+    "crime_type": "Money Laundering / Hawala",
+    "crime_category": "Major",
+    "sections": [
+      "PMLA 2002 Sec 3 r/w 4"
+    ],
+    "state": "Delhi",
+    "district": "North East Delhi",
+    "police_station": "Welcome PS",
+    "io_name": "Inspector Sanjay Bansal",
+    "priority": "P2 - High",
+    "opened_on": "2026-09-28",
+    "accused_ids": [
+      "P007",
+      "P031",
+      "P043"
+    ],
+    "accused_names": [
+      "Santosh Deshmukh",
+      "Deepak Shaikh",
+      "Simran Verma"
+    ],
+    "stage_index": 0,
+    "stage": "FIR Registered",
+    "arrest_date": null,
+    "deadline_days": 90,
+    "chargesheet_due": null,
+    "status": "Open",
+    "updates": [
+      {
+        "date": "2026-09-28",
+        "stage": "FIR Registered",
+        "by": "Inspector Sanjay Bansal",
+        "note": "FIR 0186/2026 registered at Welcome PS u/s PMLA 2002 Sec 3 r/w 4."
+      }
+    ]
+  }
+]

@@ -1,0 +1,251 @@
+txn_id,date,sender_id,sender_name,receiver_id,receiver_name,amount,currency,channel,purpose,suspicious,location,state
+TXN00001,2025-09-05,P046,Prakash Verma,P053,Harpreet Pandey,166925.44,INR,Benami Property,Extortion Proceeds,True,Mumbai City,Maharashtra
+TXN00002,2023-10-24,P031,Deepak Shaikh,P008,Ananya Pillai,99117.44,INR,Cash,Arms Purchase,False,Mumbai Suburban,Maharashtra
+TXN00003,2025-09-01,P031,Deepak Shaikh,P042,Mary Qureshi,197760.75,INR,Benami Property,Layering,True,Pune City,Maharashtra
+TXN00004,2022-06-28,P035,Sunil Mishra,P011,Hemant Dhillon,187237.62,INR,Shell Company,Unknown,False,Indore,Madhya Pradesh
+TXN00005,2026-10-05,P036,Harpreet Shekhawat,P008,Ananya Pillai,154401.67,INR,NEFT/RTGS,Unknown,True,Jaipur,Rajasthan
+TXN00006,2026-03-10,P060,Ganesh Jadhav,P059,Vijay Mondal,67445.55,INR,Cash,Bribe,False,Mumbai Suburban,Maharashtra
+TXN00007,2026-09-12,P002,Mukesh Tiwari,P057,Geeta Tiwari,44171463.97,INR,Hawala,Arms Purchase,False,North East Delhi,Delhi
+TXN00008,2023-01-09,P016,Anil Bansal,P005,Nirmala Kulkarni,3846010.72,INR,Benami Property,Extortion Proceeds,True,Indore,Madhya Pradesh
+TXN00009,2022-11-16,P031,Deepak Shaikh,P037,Rekha Das,441767.0,INR,Cash,Unknown,False,Mumbai City,Maharashtra
+TXN00010,2024-10-24,P011,Hemant Dhillon,P035,Sunil Mishra,3692087.67,USDT,Cryptocurrency,Drug Payment,True,Amritsar,Punjab
+TXN00011,2025-06-21,P018,Sanjay Kumar,P035,Sunil Mishra,117264.14,INR,Hawala,Extortion Proceeds,True,Central Delhi,Delhi
+TXN00012,2025-08-07,P039,Jaswinder Saxena,P054,Imran Desai,4222641.56,INR,Shell Company,Unknown,False,Indore,Madhya Pradesh
+TXN00013,2023-05-06,P028,Rahul Kulkarni,P020,Vijay Thakur,1232421.81,INR,Cash,Bribe,True,Surat,Gujarat
+TXN00014,2022-06-24,P049,Rakesh Qureshi,P013,Jaswinder Deshmukh,30415856.59,INR,NEFT/RTGS,Unknown,False,New Delhi,Delhi
+TXN00015,2024-10-21,P004,Ajay Parmar,P033,Revathi Patel,164091.5,INR,Hawala,Arms Purchase,True,Surat,Gujarat
+TXN00016,2025-04-17,P045,Anirban Sinha,P019,Meena Chouhan,2646288.65,AED,Cash,Operational Funds,False,Patna,Bihar
+TXN00017,2026-07-12,P010,Vinod Chaudhary,P007,Santosh Deshmukh,34439906.75,INR,UPI,Bribe,True,Ahmedabad,Gujarat
+TXN00018,2022-09-26,P033,Revathi Patel,P055,Vinod Sidhu,1808787.15,INR,Benami Property,Drug Payment,False,Surat,Gujarat
+TXN00019,2025-05-27,P046,Prakash Verma,P051,Jaswinder Krishnan,479427.67,USDT,Cryptocurrency,Layering,True,Kanpur Nagar,Uttar Pradesh
+TXN00020,2022-07-12,P032,Rekha Rathore,P014,Sachin Singh,1911734.15,AED,Hawala,Bribe,False,Varanasi,Uttar Pradesh
+TXN00021,2023-06-09,P037,Rekha Das,P007,Santosh Deshmukh,3426314.37,INR,Hawala,Operational Funds,True,Gaya,Bihar
+TXN00022,2024-11-15,P032,Rekha Rathore,P029,Sushma Krishnan,47842023.14,INR,NEFT/RTGS,Extortion Proceeds,False,Jaipur,Rajasthan
+TXN00023,2026-06-08,P029,Sushma Krishnan,P014,Sachin Singh,352875.2,INR,Shell Company,Bribe,True,Madurai,Tamil Nadu
+TXN00024,2024-08-04,P019,Meena Chouhan,P045,Anirban Sinha,9207640.41,INR,Hawala,Extortion Proceeds,True,New Delhi,Delhi
+TXN00025,2024-03-23,P053,Harpreet Pandey,P030,Jignesh Shekhawat,1397619.5,INR,Cash,Arms Purchase,False,Coimbatore,Tamil Nadu
+TXN00026,2022-11-15,P039,Jaswinder Saxena,P035,Sunil Mishra,1154812.1,USDT,Cryptocurrency,Bribe,False,Gaya,Bihar
+TXN00027,2023-03-14,P003,Jignesh Choudhary,P051,Jaswinder Krishnan,113631.51,INR,Hawala,Unknown,True,Surat,Gujarat
+TXN00028,2022-06-17,P018,Sanjay Kumar,P029,Sushma Krishnan,4431991.5,INR,Hawala,Drug Payment,True,New Delhi,Delhi
+TXN00029,2026-03-23,P043,Simran Verma,P012,Mukesh Jha,1240399.77,INR,NEFT/RTGS,Drug Payment,False,Lucknow,Uttar Pradesh
+TXN00030,2025-03-14,P035,Sunil Mishra,P008,Ananya Pillai,4203570.64,INR,Shell Company,Layering,False,Gautam Buddh Nagar,Uttar Pradesh
+TXN00031,2024-07-28,P047,Jignesh Shaikh,P058,Sanjay Shaikh,254728.38,INR,UPI,Unknown,True,Varanasi,Uttar Pradesh
+TXN00032,2025-03-30,P027,Santosh Mishra,P005,Nirmala Kulkarni,27878.13,INR,Shell Company,Bribe,False,Lucknow,Uttar Pradesh
+TXN00033,2025-10-23,P035,Sunil Mishra,P045,Anirban Sinha,47979700.5,INR,UPI,Arms Purchase,False,Ahmedabad,Gujarat
+TXN00034,2023-12-22,P058,Sanjay Shaikh,P012,Mukesh Jha,4226836.37,INR,Hawala,Unknown,False,Nagpur City,Maharashtra
+TXN00035,2025-05-03,P060,Ganesh Jadhav,P012,Mukesh Jha,275953.81,USDT,Cryptocurrency,Drug Payment,False,Pune City,Maharashtra
+TXN00036,2026-09-11,P043,Simran Verma,P037,Rekha Das,53922.59,INR,Benami Property,Drug Payment,False,Lucknow,Uttar Pradesh
+TXN00037,2024-05-11,P048,Nirmala Choudhary,P026,Bhupinder Ansari,119210.89,INR,Benami Property,Drug Payment,False,Jaipur,Rajasthan
+TXN00038,2025-08-13,P055,Vinod Sidhu,P007,Santosh Deshmukh,40308582.62,INR,Benami Property,Arms Purchase,True,Ludhiana,Punjab
+TXN00039,2024-04-29,P033,Revathi Patel,P031,Deepak Shaikh,17609.73,INR,Cash,Arms Purchase,True,Indore,Madhya Pradesh
+TXN00040,2023-05-11,P034,Kavita Goud,P040,Vikram Shetty,48807064.54,INR,Hawala,Extortion Proceeds,False,Chennai,Tamil Nadu
+TXN00041,2023-10-14,P004,Ajay Parmar,P038,Prakash Shaikh,12129964.49,INR,Hawala,Extortion Proceeds,True,Surat,Gujarat
+TXN00042,2023-10-23,P033,Revathi Patel,P042,Mary Qureshi,55694.67,INR,UPI,Operational Funds,True,Ahmedabad,Gujarat
+TXN00043,2025-07-23,P038,Prakash Shaikh,P014,Sachin Singh,39991538.68,INR,Hawala,Extortion Proceeds,True,Mumbai City,Maharashtra
+TXN00044,2022-04-16,P020,Vijay Thakur,P028,Rahul Kulkarni,873335.16,INR,Shell Company,Operational Funds,True,Gaya,Bihar
+TXN00045,2023-08-02,P038,Prakash Shaikh,P008,Ananya Pillai,4525721.55,INR,UPI,Drug Payment,True,Mumbai City,Maharashtra
+TXN00046,2024-09-23,P059,Vijay Mondal,P026,Bhupinder Ansari,8434070.83,INR,Cash,Drug Payment,True,Mumbai Suburban,Maharashtra
+TXN00047,2022-01-21,P041,Vinod Selvam,P060,Ganesh Jadhav,333236.53,INR,NEFT/RTGS,Unknown,False,Chennai,Tamil Nadu
+TXN00048,2022-11-21,P022,Nitin Subramanian,P032,Rekha Rathore,38376357.31,AED,Cash,Bribe,True,Madurai,Tamil Nadu
+TXN00049,2023-03-21,P035,Sunil Mishra,P039,Jaswinder Saxena,170494.47,INR,Cash,Extortion Proceeds,True,Kanpur Nagar,Uttar Pradesh
+TXN00050,2025-02-03,P009,Bablu Malhotra,P057,Geeta Tiwari,18244439.48,INR,Shell Company,Drug Payment,False,South Delhi,Delhi
+TXN00051,2025-04-10,P026,Bhupinder Ansari,P017,Ajay Kumar,19021330.83,INR,Cash,Extortion Proceeds,False,Lucknow,Uttar Pradesh
+TXN00052,2023-02-14,P057,Geeta Tiwari,P009,Bablu Malhotra,20881197.76,AED,Hawala,Unknown,False,Bhopal,Madhya Pradesh
+TXN00053,2026-08-21,P011,Hemant Dhillon,P034,Kavita Goud,47767013.71,USDT,Cryptocurrency,Layering,False,Bhopal,Madhya Pradesh
+TXN00054,2022-05-29,P002,Mukesh Tiwari,P057,Geeta Tiwari,331907.76,INR,UPI,Unknown,False,Bhopal,Madhya Pradesh
+TXN00055,2025-03-08,P001,Pankaj Khanna,P022,Nitin Subramanian,4544347.88,INR,Hawala,Drug Payment,False,North East Delhi,Delhi
+TXN00056,2026-03-29,P014,Sachin Singh,P018,Sanjay Kumar,1930024.83,INR,Shell Company,Bribe,False,Ludhiana,Punjab
+TXN00057,2025-05-16,P032,Rekha Rathore,P029,Sushma Krishnan,3160269.93,INR,UPI,Operational Funds,False,Jaipur,Rajasthan
+TXN00058,2024-04-04,P042,Mary Qureshi,P004,Ajay Parmar,448956.47,AED,Benami Property,Operational Funds,False,North East Delhi,Delhi
+TXN00059,2023-10-12,P002,Mukesh Tiwari,P009,Bablu Malhotra,2301549.54,INR,NEFT/RTGS,Arms Purchase,False,Indore,Madhya Pradesh
+TXN00060,2022-07-30,P004,Ajay Parmar,P043,Simran Verma,119767.03,USDT,Cryptocurrency,Unknown,False,Ahmedabad,Gujarat
+TXN00061,2022-06-30,P007,Santosh Deshmukh,P057,Geeta Tiwari,364812.88,INR,UPI,Unknown,True,Pune City,Maharashtra
+TXN00062,2022-04-09,P001,Pankaj Khanna,P046,Prakash Verma,837689.79,INR,Cash,Layering,True,North East Delhi,Delhi
+TXN00063,2022-09-03,P025,Rahul Reddy,P018,Sanjay Kumar,166473.01,INR,Hawala,Layering,True,Hyderabad,Telangana
+TXN00064,2025-03-29,P058,Sanjay Shaikh,P023,Salman Shekhawat,3475710.39,USD,UPI,Arms Purchase,True,Nagpur City,Maharashtra
+TXN00065,2026-09-08,P031,Deepak Shaikh,P033,Revathi Patel,333145.58,USDT,Cryptocurrency,Extortion Proceeds,True,Mumbai City,Maharashtra
+TXN00066,2026-08-04,P045,Anirban Sinha,P035,Sunil Mishra,1345628.43,INR,Hawala,Bribe,True,Mumbai City,Maharashtra
+TXN00067,2022-11-12,P049,Rakesh Qureshi,P048,Nirmala Choudhary,9754721.38,INR,Shell Company,Arms Purchase,False,North East Delhi,Delhi
+TXN00068,2023-07-24,P029,Sushma Krishnan,P034,Kavita Goud,1238883.46,INR,Cash,Unknown,True,Bhopal,Madhya Pradesh
+TXN00069,2023-01-19,P007,Santosh Deshmukh,P010,Vinod Chaudhary,628638.12,INR,Hawala,Drug Payment,False,Mumbai Suburban,Maharashtra
+TXN00070,2024-10-25,P008,Ananya Pillai,P006,Deepak Raghuvanshi,2785670.71,INR,Hawala,Arms Purchase,False,Kolkata,West Bengal
+TXN00071,2025-05-01,P004,Ajay Parmar,P042,Mary Qureshi,2883032.39,INR,UPI,Drug Payment,False,Coimbatore,Tamil Nadu
+TXN00072,2023-06-30,P004,Ajay Parmar,P010,Vinod Chaudhary,42265.22,USDT,Cryptocurrency,Operational Funds,False,Pune City,Maharashtra
+TXN00073,2026-08-15,P057,Geeta Tiwari,P009,Bablu Malhotra,17072012.74,INR,Shell Company,Unknown,False,North East Delhi,Delhi
+TXN00074,2023-01-15,P041,Vinod Selvam,P019,Meena Chouhan,45850209.83,INR,Cash,Extortion Proceeds,False,Chennai,Tamil Nadu
+TXN00075,2023-11-12,P059,Vijay Mondal,P034,Kavita Goud,1138251.45,INR,UPI,Drug Payment,False,New Delhi,Delhi
+TXN00076,2023-12-23,P002,Mukesh Tiwari,P057,Geeta Tiwari,3124214.86,USDT,Cryptocurrency,Drug Payment,True,Bhopal,Madhya Pradesh
+TXN00077,2024-10-27,P031,Deepak Shaikh,P004,Ajay Parmar,379946.31,USDT,Cryptocurrency,Unknown,False,Mumbai Suburban,Maharashtra
+TXN00078,2025-09-20,P020,Vijay Thakur,P023,Salman Shekhawat,1640915.8,INR,NEFT/RTGS,Unknown,False,Gaya,Bihar
+TXN00079,2025-11-05,P046,Prakash Verma,P022,Nitin Subramanian,37769699.42,INR,NEFT/RTGS,Drug Payment,True,Gautam Buddh Nagar,Uttar Pradesh
+TXN00080,2023-02-27,P043,Simran Verma,P023,Salman Shekhawat,9017329.24,AED,NEFT/RTGS,Drug Payment,True,Kanpur Nagar,Uttar Pradesh
+TXN00081,2023-06-28,P018,Sanjay Kumar,P045,Anirban Sinha,20698027.54,INR,UPI,Layering,False,Gaya,Bihar
+TXN00082,2024-06-06,P018,Sanjay Kumar,P014,Sachin Singh,3049980.94,INR,Cash,Arms Purchase,False,Gaya,Bihar
+TXN00083,2022-11-04,P001,Pankaj Khanna,P033,Revathi Patel,48500216.1,INR,Shell Company,Extortion Proceeds,False,South Delhi,Delhi
+TXN00084,2026-08-18,P032,Rekha Rathore,P029,Sushma Krishnan,10554609.47,INR,NEFT/RTGS,Operational Funds,False,Pune City,Maharashtra
+TXN00085,2024-10-25,P043,Simran Verma,P004,Ajay Parmar,48133593.16,INR,Benami Property,Operational Funds,True,Ahmedabad,Gujarat
+TXN00086,2022-03-07,P010,Vinod Chaudhary,P014,Sachin Singh,4698206.44,INR,UPI,Extortion Proceeds,True,Ahmedabad,Gujarat
+TXN00087,2022-12-21,P028,Rahul Kulkarni,P020,Vijay Thakur,24611732.18,AED,NEFT/RTGS,Unknown,True,Mumbai Suburban,Maharashtra
+TXN00088,2022-06-25,P044,Kishore Naidu,P048,Nirmala Choudhary,3049992.91,INR,NEFT/RTGS,Layering,False,Madurai,Tamil Nadu
+TXN00089,2023-10-04,P051,Jaswinder Krishnan,P028,Rahul Kulkarni,47069591.66,INR,Shell Company,Drug Payment,False,Kamrup Metropolitan,Assam
+TXN00090,2022-02-24,P030,Jignesh Shekhawat,P027,Santosh Mishra,897930.44,USDT,Cryptocurrency,Bribe,True,Jodhpur,Rajasthan
+TXN00091,2026-09-27,P020,Vijay Thakur,P050,Senthil Mishra,1066711.28,INR,Benami Property,Drug Payment,True,Kanpur Nagar,Uttar Pradesh
+TXN00092,2023-07-08,P056,Vikram Verma,P034,Kavita Goud,9817201.23,INR,Cash,Unknown,False,Lucknow,Uttar Pradesh
+TXN00093,2023-02-24,P031,Deepak Shaikh,P004,Ajay Parmar,11486835.52,INR,Shell Company,Drug Payment,False,Thiruvananthapuram,Kerala
+TXN00094,2024-09-20,P058,Sanjay Shaikh,P013,Jaswinder Deshmukh,35949861.36,INR,Benami Property,Operational Funds,False,Varanasi,Uttar Pradesh
+TXN00095,2026-09-02,P057,Geeta Tiwari,P002,Mukesh Tiwari,24971714.37,INR,Cash,Operational Funds,False,North East Delhi,Delhi
+TXN00096,2024-06-18,P031,Deepak Shaikh,P054,Imran Desai,32772133.32,INR,Shell Company,Extortion Proceeds,False,Rangareddy,Telangana
+TXN00097,2024-09-10,P010,Vinod Chaudhary,P044,Kishore Naidu,1802520.65,INR,Hawala,Layering,False,Thiruvananthapuram,Kerala
+TXN00098,2026-07-25,P043,Simran Verma,P037,Rekha Das,1166749.39,INR,Hawala,Operational Funds,True,Lucknow,Uttar Pradesh
+TXN00099,2022-10-13,P001,Pankaj Khanna,P039,Jaswinder Saxena,4470908.85,INR,NEFT/RTGS,Operational Funds,True,Patna,Bihar
+TXN00100,2022-05-09,P023,Salman Shekhawat,P058,Sanjay Shaikh,331400.43,USDT,Cryptocurrency,Arms Purchase,True,Kamrup Metropolitan,Assam
+TXN00101,2026-09-15,P037,Rekha Das,P010,Vinod Chaudhary,26768509.76,USD,Cash,Layering,True,Kanpur Nagar,Uttar Pradesh
+TXN00102,2023-10-26,P037,Rekha Das,P055,Vinod Sidhu,47983756.86,INR,Shell Company,Layering,True,Kamrup Metropolitan,Assam
+TXN00103,2024-09-02,P005,Nirmala Kulkarni,P040,Vikram Shetty,3919591.77,USD,Shell Company,Unknown,True,North East Delhi,Delhi
+TXN00104,2022-05-07,P051,Jaswinder Krishnan,P027,Santosh Mishra,16271773.21,INR,Cash,Extortion Proceeds,False,Coimbatore,Tamil Nadu
+TXN00105,2024-07-09,P049,Rakesh Qureshi,P005,Nirmala Kulkarni,1099474.89,INR,Shell Company,Layering,False,North East Delhi,Delhi
+TXN00106,2024-12-18,P017,Ajay Kumar,P033,Revathi Patel,52148.97,INR,Benami Property,Extortion Proceeds,False,Chennai,Tamil Nadu
+TXN00107,2023-01-15,P003,Jignesh Choudhary,P059,Vijay Mondal,37848970.21,AED,NEFT/RTGS,Extortion Proceeds,True,Bhopal,Madhya Pradesh
+TXN00108,2025-06-20,P013,Jaswinder Deshmukh,P038,Prakash Shaikh,43403971.99,INR,NEFT/RTGS,Drug Payment,False,Nagpur City,Maharashtra
+TXN00109,2024-11-25,P025,Rahul Reddy,P057,Geeta Tiwari,954108.52,INR,Benami Property,Operational Funds,True,New Delhi,Delhi
+TXN00110,2024-01-03,P022,Nitin Subramanian,P050,Senthil Mishra,437496.84,INR,Shell Company,Arms Purchase,False,Chennai,Tamil Nadu
+TXN00111,2022-04-27,P037,Rekha Das,P055,Vinod Sidhu,36388305.87,USDT,Cryptocurrency,Operational Funds,True,Kamrup Metropolitan,Assam
+TXN00112,2024-05-13,P060,Ganesh Jadhav,P059,Vijay Mondal,1402300.66,AED,NEFT/RTGS,Operational Funds,False,Mumbai City,Maharashtra
+TXN00113,2022-05-30,P036,Harpreet Shekhawat,P022,Nitin Subramanian,45694573.95,INR,Hawala,Unknown,True,Jaipur,Rajasthan
+TXN00114,2023-07-09,P023,Salman Shekhawat,P028,Rahul Kulkarni,6878343.97,INR,UPI,Layering,False,Jaipur,Rajasthan
+TXN00115,2022-02-23,P023,Salman Shekhawat,P021,Rakesh Reddy,271751.07,AED,Cash,Extortion Proceeds,True,Jaipur,Rajasthan
+TXN00116,2025-12-07,P002,Mukesh Tiwari,P009,Bablu Malhotra,2972952.16,INR,Hawala,Operational Funds,True,Jaipur,Rajasthan
+TXN00117,2022-07-08,P058,Sanjay Shaikh,P013,Jaswinder Deshmukh,5452234.26,INR,UPI,Unknown,True,Nagpur City,Maharashtra
+TXN00118,2022-04-27,P051,Jaswinder Krishnan,P005,Nirmala Kulkarni,37760.75,INR,Benami Property,Arms Purchase,False,Chennai,Tamil Nadu
+TXN00119,2025-09-08,P023,Salman Shekhawat,P013,Jaswinder Deshmukh,331729.24,INR,Hawala,Layering,False,Jaipur,Rajasthan
+TXN00120,2023-09-12,P046,Prakash Verma,P049,Rakesh Qureshi,4010937.82,INR,Shell Company,Extortion Proceeds,False,Kanpur Nagar,Uttar Pradesh
+TXN00121,2025-12-15,P058,Sanjay Shaikh,P047,Jignesh Shaikh,26879346.32,INR,Hawala,Bribe,True,Mumbai City,Maharashtra
+TXN00122,2025-12-01,P034,Kavita Goud,P059,Vijay Mondal,3424586.39,INR,UPI,Operational Funds,False,Bengaluru Urban,Karnataka
+TXN00123,2023-07-26,P054,Imran Desai,P044,Kishore Naidu,22277131.69,INR,Cash,Drug Payment,False,Ahmedabad,Gujarat
+TXN00124,2023-09-17,P003,Jignesh Choudhary,P035,Sunil Mishra,275359.09,INR,Shell Company,Operational Funds,True,Patna,Bihar
+TXN00125,2026-01-26,P049,Rakesh Qureshi,P055,Vinod Sidhu,24533420.46,INR,NEFT/RTGS,Extortion Proceeds,True,South Delhi,Delhi
+TXN00126,2025-03-18,P049,Rakesh Qureshi,P026,Bhupinder Ansari,30573637.45,INR,Hawala,Bribe,True,North East Delhi,Delhi
+TXN00127,2023-07-29,P030,Jignesh Shekhawat,P049,Rakesh Qureshi,47793525.44,INR,Cash,Bribe,True,Jaipur,Rajasthan
+TXN00128,2025-09-12,P019,Meena Chouhan,P035,Sunil Mishra,4020918.29,INR,NEFT/RTGS,Layering,False,Lucknow,Uttar Pradesh
+TXN00129,2022-02-05,P020,Vijay Thakur,P050,Senthil Mishra,539918.16,INR,Hawala,Arms Purchase,False,Patna,Bihar
+TXN00130,2025-02-03,P055,Vinod Sidhu,P037,Rekha Das,4789819.79,USDT,Cryptocurrency,Drug Payment,False,New Delhi,Delhi
+TXN00131,2022-12-24,P050,Senthil Mishra,P028,Rahul Kulkarni,436907.2,INR,Shell Company,Bribe,False,Lucknow,Uttar Pradesh
+TXN00132,2026-01-09,P003,Jignesh Choudhary,P039,Jaswinder Saxena,39798.31,USDT,Cryptocurrency,Extortion Proceeds,True,Jodhpur,Rajasthan
+TXN00133,2023-12-18,P017,Ajay Kumar,P037,Rekha Das,47964.78,INR,UPI,Layering,False,Bengaluru Urban,Karnataka
+TXN00134,2024-05-23,P014,Sachin Singh,P032,Rekha Rathore,1143857.67,INR,Shell Company,Unknown,False,Amritsar,Punjab
+TXN00135,2024-01-25,P027,Santosh Mishra,P024,Dilip Shah,152527.59,INR,UPI,Layering,False,Varanasi,Uttar Pradesh
+TXN00136,2026-08-29,P039,Jaswinder Saxena,P019,Meena Chouhan,6466978.79,INR,Hawala,Drug Payment,True,Indore,Madhya Pradesh
+TXN00137,2026-02-10,P042,Mary Qureshi,P007,Santosh Deshmukh,425321.59,USDT,Cryptocurrency,Layering,True,South Delhi,Delhi
+TXN00138,2026-09-09,P039,Jaswinder Saxena,P036,Harpreet Shekhawat,18187938.9,INR,UPI,Bribe,True,Indore,Madhya Pradesh
+TXN00139,2026-02-09,P024,Dilip Shah,P019,Meena Chouhan,2128465.22,INR,Hawala,Layering,False,Ahmedabad,Gujarat
+TXN00140,2026-08-23,P024,Dilip Shah,P045,Anirban Sinha,463601.3,USDT,Cryptocurrency,Bribe,True,Indore,Madhya Pradesh
+TXN00141,2022-08-30,P027,Santosh Mishra,P040,Vikram Shetty,210166.37,INR,NEFT/RTGS,Bribe,True,Varanasi,Uttar Pradesh
+TXN00142,2022-12-08,P041,Vinod Selvam,P058,Sanjay Shaikh,215126.55,INR,Cash,Extortion Proceeds,True,Chennai,Tamil Nadu
+TXN00143,2022-09-29,P048,Nirmala Choudhary,P005,Nirmala Kulkarni,44009599.49,AED,Cash,Drug Payment,False,Jaipur,Rajasthan
+TXN00144,2023-11-21,P026,Bhupinder Ansari,P044,Kishore Naidu,32394084.84,INR,Benami Property,Extortion Proceeds,False,Lucknow,Uttar Pradesh
+TXN00145,2024-06-11,P048,Nirmala Choudhary,P029,Sushma Krishnan,3909470.29,INR,Benami Property,Extortion Proceeds,False,Jodhpur,Rajasthan
+TXN00146,2024-01-28,P050,Senthil Mishra,P020,Vijay Thakur,34223214.2,USDT,Cryptocurrency,Drug Payment,False,Mumbai City,Maharashtra
+TXN00147,2024-10-07,P012,Mukesh Jha,P058,Sanjay Shaikh,717295.76,INR,NEFT/RTGS,Layering,True,South Delhi,Delhi
+TXN00148,2022-03-27,P055,Vinod Sidhu,P019,Meena Chouhan,44707287.47,INR,UPI,Drug Payment,True,Varanasi,Uttar Pradesh
+TXN00149,2023-08-13,P037,Rekha Das,P021,Rakesh Reddy,2689860.76,INR,Cash,Bribe,False,Lucknow,Uttar Pradesh
+TXN00150,2023-02-28,P059,Vijay Mondal,P034,Kavita Goud,42745549.81,INR,Cash,Operational Funds,True,Kolkata,West Bengal
+TXN00151,2026-09-01,P003,Jignesh Choudhary,P036,Harpreet Shekhawat,191074.87,INR,Hawala,Layering,False,Jaipur,Rajasthan
+TXN00152,2024-06-04,P029,Sushma Krishnan,P038,Prakash Shaikh,1683754.39,AED,Hawala,Arms Purchase,True,North East Delhi,Delhi
+TXN00153,2022-11-17,P008,Ananya Pillai,P053,Harpreet Pandey,20090172.38,INR,NEFT/RTGS,Extortion Proceeds,True,Kolkata,West Bengal
+TXN00154,2025-12-15,P050,Senthil Mishra,P028,Rahul Kulkarni,19288723.94,INR,Cash,Extortion Proceeds,True,Lucknow,Uttar Pradesh
+TXN00155,2022-10-08,P041,Vinod Selvam,P003,Jignesh Choudhary,21929407.56,AED,UPI,Extortion Proceeds,False,Madurai,Tamil Nadu
+TXN00156,2025-07-24,P031,Deepak Shaikh,P010,Vinod Chaudhary,475908.05,AED,UPI,Extortion Proceeds,False,Mumbai Suburban,Maharashtra
+TXN00157,2023-06-23,P028,Rahul Kulkarni,P022,Nitin Subramanian,22113060.34,INR,Shell Company,Extortion Proceeds,False,Mumbai City,Maharashtra
+TXN00158,2024-09-20,P034,Kavita Goud,P059,Vijay Mondal,4085357.8,INR,Shell Company,Arms Purchase,True,Hyderabad,Telangana
+TXN00159,2023-10-29,P019,Meena Chouhan,P006,Deepak Raghuvanshi,334584.91,INR,Hawala,Drug Payment,True,Indore,Madhya Pradesh
+TXN00160,2024-04-23,P043,Simran Verma,P037,Rekha Das,15568701.82,USDT,Cryptocurrency,Arms Purchase,False,Gautam Buddh Nagar,Uttar Pradesh
+TXN00161,2023-10-13,P014,Sachin Singh,P052,Srinivas Singh,2261202.77,INR,Shell Company,Drug Payment,False,Amritsar,Punjab
+TXN00162,2024-04-19,P004,Ajay Parmar,P031,Deepak Shaikh,290527.79,INR,Hawala,Bribe,True,Pune City,Maharashtra
+TXN00163,2022-02-10,P008,Ananya Pillai,P041,Vinod Selvam,5950296.19,USDT,Cryptocurrency,Drug Payment,False,Chennai,Tamil Nadu
+TXN00164,2023-03-08,P046,Prakash Verma,P022,Nitin Subramanian,2909626.98,USDT,Cryptocurrency,Bribe,True,Lucknow,Uttar Pradesh
+TXN00165,2024-04-26,P026,Bhupinder Ansari,P015,Faizan Rao,280946.07,INR,NEFT/RTGS,Operational Funds,False,Chennai,Tamil Nadu
+TXN00166,2023-08-03,P002,Mukesh Tiwari,P009,Bablu Malhotra,609099.63,INR,UPI,Extortion Proceeds,False,Indore,Madhya Pradesh
+TXN00167,2022-06-23,P018,Sanjay Kumar,P038,Prakash Shaikh,46206.22,INR,Benami Property,Unknown,True,Patna,Bihar
+TXN00168,2025-05-25,P002,Mukesh Tiwari,P009,Bablu Malhotra,4031472.91,INR,Benami Property,Extortion Proceeds,False,Jodhpur,Rajasthan
+TXN00169,2024-05-29,P018,Sanjay Kumar,P014,Sachin Singh,118903.95,INR,NEFT/RTGS,Arms Purchase,False,Ludhiana,Punjab
+TXN00170,2026-04-12,P059,Vijay Mondal,P034,Kavita Goud,37156043.01,INR,NEFT/RTGS,Layering,True,Ernakulam,Kerala
+TXN00171,2022-10-22,P026,Bhupinder Ansari,P054,Imran Desai,48911784.24,INR,NEFT/RTGS,Bribe,False,North East Delhi,Delhi
+TXN00172,2026-04-21,P032,Rekha Rathore,P014,Sachin Singh,1634107.32,INR,Cash,Arms Purchase,True,Ludhiana,Punjab
+TXN00173,2023-03-05,P003,Jignesh Choudhary,P045,Anirban Sinha,40761310.58,INR,Shell Company,Arms Purchase,True,Jaipur,Rajasthan
+TXN00174,2024-05-21,P016,Anil Bansal,P022,Nitin Subramanian,8487699.98,INR,Cash,Operational Funds,False,Central Delhi,Delhi
+TXN00175,2024-10-11,P048,Nirmala Choudhary,P040,Vikram Shetty,316820.81,INR,Hawala,Bribe,True,Jaipur,Rajasthan
+TXN00176,2025-10-17,P036,Harpreet Shekhawat,P003,Jignesh Choudhary,2851160.46,INR,Shell Company,Arms Purchase,True,Patna,Bihar
+TXN00177,2024-08-05,P011,Hemant Dhillon,P039,Jaswinder Saxena,468739.22,AED,Hawala,Extortion Proceeds,True,Amritsar,Punjab
+TXN00178,2024-05-02,P060,Ganesh Jadhav,P009,Bablu Malhotra,83671.05,INR,NEFT/RTGS,Operational Funds,False,Ludhiana,Punjab
+TXN00179,2025-07-03,P013,Jaswinder Deshmukh,P012,Mukesh Jha,3175045.07,INR,Cash,Extortion Proceeds,True,Pune City,Maharashtra
+TXN00180,2024-05-22,P015,Faizan Rao,P003,Jignesh Choudhary,37819540.12,INR,Benami Property,Unknown,False,Hyderabad,Telangana
+TXN00181,2023-03-20,P017,Ajay Kumar,P031,Deepak Shaikh,1302463.67,INR,Shell Company,Bribe,True,Mysuru,Karnataka
+TXN00182,2024-08-27,P038,Prakash Shaikh,P032,Rekha Rathore,92368.7,INR,Shell Company,Bribe,False,Lucknow,Uttar Pradesh
+TXN00183,2022-04-17,P052,Srinivas Singh,P022,Nitin Subramanian,260735.58,INR,Cash,Extortion Proceeds,False,Mumbai City,Maharashtra
+TXN00184,2024-02-29,P020,Vijay Thakur,P022,Nitin Subramanian,26351510.07,INR,Benami Property,Layering,False,Jodhpur,Rajasthan
+TXN00185,2022-10-20,P006,Deepak Raghuvanshi,P055,Vinod Sidhu,3022186.39,INR,Shell Company,Unknown,False,Chennai,Tamil Nadu
+TXN00186,2024-01-19,P008,Ananya Pillai,P035,Sunil Mishra,3968351.52,INR,Benami Property,Drug Payment,False,Chennai,Tamil Nadu
+TXN00187,2026-03-12,P036,Harpreet Shekhawat,P060,Ganesh Jadhav,105959.68,INR,UPI,Bribe,False,Jodhpur,Rajasthan
+TXN00188,2025-08-18,P020,Vijay Thakur,P050,Senthil Mishra,3387533.27,INR,Cash,Extortion Proceeds,True,Patna,Bihar
+TXN00189,2024-07-19,P018,Sanjay Kumar,P014,Sachin Singh,1281969.35,INR,Shell Company,Extortion Proceeds,True,Gaya,Bihar
+TXN00190,2022-12-29,P052,Srinivas Singh,P028,Rahul Kulkarni,50584.06,INR,Shell Company,Operational Funds,False,Mysuru,Karnataka
+TXN00191,2023-02-02,P041,Vinod Selvam,P047,Jignesh Shaikh,32630170.57,INR,Benami Property,Unknown,True,South Delhi,Delhi
+TXN00192,2024-04-05,P058,Sanjay Shaikh,P013,Jaswinder Deshmukh,4269725.03,INR,Shell Company,Operational Funds,False,Pune City,Maharashtra
+TXN00193,2025-05-31,P049,Rakesh Qureshi,P044,Kishore Naidu,347471.19,INR,NEFT/RTGS,Extortion Proceeds,True,Patna,Bihar
+TXN00194,2024-08-12,P054,Imran Desai,P020,Vijay Thakur,42624753.24,INR,NEFT/RTGS,Drug Payment,False,Ahmedabad,Gujarat
+TXN00195,2022-01-22,P059,Vijay Mondal,P034,Kavita Goud,322593.35,INR,Benami Property,Extortion Proceeds,True,Mumbai Suburban,Maharashtra
+TXN00196,2022-04-20,P020,Vijay Thakur,P043,Simran Verma,3676612.83,INR,NEFT/RTGS,Bribe,True,Patna,Bihar
+TXN00197,2023-06-16,P027,Santosh Mishra,P044,Kishore Naidu,24781924.57,INR,NEFT/RTGS,Arms Purchase,True,Madurai,Tamil Nadu
+TXN00198,2025-04-13,P023,Salman Shekhawat,P058,Sanjay Shaikh,1200669.02,INR,Benami Property,Extortion Proceeds,False,Jaipur,Rajasthan
+TXN00199,2026-08-27,P042,Mary Qureshi,P052,Srinivas Singh,40743276.34,USDT,Cryptocurrency,Operational Funds,True,Ahmedabad,Gujarat
+TXN00200,2022-10-14,P014,Sachin Singh,P038,Prakash Shaikh,3140693.43,INR,Hawala,Drug Payment,True,Central Delhi,Delhi
+TXN00201,2024-08-31,P058,Sanjay Shaikh,P012,Mukesh Jha,2015023.29,AED,Hawala,Bribe,True,Mumbai City,Maharashtra
+TXN00202,2025-04-30,P020,Vijay Thakur,P028,Rahul Kulkarni,36252429.71,INR,Hawala,Drug Payment,True,Gaya,Bihar
+TXN00203,2023-04-25,P017,Ajay Kumar,P037,Rekha Das,9853489.2,INR,Cash,Arms Purchase,True,Mysuru,Karnataka
+TXN00204,2026-03-20,P026,Bhupinder Ansari,P040,Vikram Shetty,73646.51,USDT,Cryptocurrency,Arms Purchase,True,Varanasi,Uttar Pradesh
+TXN00205,2024-03-21,P004,Ajay Parmar,P021,Rakesh Reddy,235687.99,INR,Hawala,Bribe,True,Ahmedabad,Gujarat
+TXN00206,2026-01-23,P020,Vijay Thakur,P028,Rahul Kulkarni,85527.59,INR,Cash,Unknown,False,Kolkata,West Bengal
+TXN00207,2025-09-30,P031,Deepak Shaikh,P007,Santosh Deshmukh,4241061.46,INR,Hawala,Unknown,True,Pune City,Maharashtra
+TXN00208,2023-11-01,P025,Rahul Reddy,P009,Bablu Malhotra,4189059.84,INR,Benami Property,Drug Payment,True,Bengaluru Urban,Karnataka
+TXN00209,2022-12-31,P035,Sunil Mishra,P036,Harpreet Shekhawat,190874.96,USDT,Cryptocurrency,Arms Purchase,True,Lucknow,Uttar Pradesh
+TXN00210,2023-04-17,P001,Pankaj Khanna,P041,Vinod Selvam,254975.35,INR,Shell Company,Arms Purchase,False,Central Delhi,Delhi
+TXN00211,2025-10-14,P022,Nitin Subramanian,P028,Rahul Kulkarni,656719.97,USD,Hawala,Drug Payment,False,Chennai,Tamil Nadu
+TXN00212,2026-02-09,P026,Bhupinder Ansari,P027,Santosh Mishra,331375.62,INR,Shell Company,Unknown,False,Lucknow,Uttar Pradesh
+TXN00213,2025-09-01,P021,Rakesh Reddy,P058,Sanjay Shaikh,23076652.58,INR,Hawala,Arms Purchase,False,Gaya,Bihar
+TXN00214,2026-09-25,P048,Nirmala Choudhary,P054,Imran Desai,48729661.01,INR,NEFT/RTGS,Bribe,True,Jodhpur,Rajasthan
+TXN00215,2023-02-09,P035,Sunil Mishra,P006,Deepak Raghuvanshi,41577579.92,INR,NEFT/RTGS,Drug Payment,False,Ahmedabad,Gujarat
+TXN00216,2022-04-13,P030,Jignesh Shekhawat,P019,Meena Chouhan,35887443.73,INR,NEFT/RTGS,Arms Purchase,True,Amritsar,Punjab
+TXN00217,2022-02-05,P050,Senthil Mishra,P035,Sunil Mishra,1960846.48,INR,Hawala,Layering,False,Kanpur Nagar,Uttar Pradesh
+TXN00218,2026-01-28,P047,Jignesh Shaikh,P023,Salman Shekhawat,320130.81,INR,UPI,Arms Purchase,False,South Delhi,Delhi
+TXN00219,2023-10-31,P030,Jignesh Shekhawat,P046,Prakash Verma,672293.21,INR,Cash,Extortion Proceeds,True,Jodhpur,Rajasthan
+TXN00220,2022-02-15,P057,Geeta Tiwari,P002,Mukesh Tiwari,475675.85,INR,Hawala,Extortion Proceeds,True,Kanpur Nagar,Uttar Pradesh
+TXN00221,2025-06-14,P006,Deepak Raghuvanshi,P029,Sushma Krishnan,29262093.26,INR,NEFT/RTGS,Extortion Proceeds,True,Bhopal,Madhya Pradesh
+TXN00222,2025-11-11,P024,Dilip Shah,P011,Hemant Dhillon,145658.37,INR,Shell Company,Layering,False,Surat,Gujarat
+TXN00223,2024-04-28,P012,Mukesh Jha,P023,Salman Shekhawat,10839512.44,INR,Benami Property,Layering,True,Kolkata,West Bengal
+TXN00224,2023-10-27,P041,Vinod Selvam,P021,Rakesh Reddy,41224.0,INR,Shell Company,Extortion Proceeds,True,North 24 Parganas,West Bengal
+TXN00225,2024-09-01,P030,Jignesh Shekhawat,P039,Jaswinder Saxena,5565525.11,INR,Hawala,Arms Purchase,True,Jodhpur,Rajasthan
+TXN00226,2024-04-05,P010,Vinod Chaudhary,P043,Simran Verma,333742.26,INR,NEFT/RTGS,Operational Funds,True,Chennai,Tamil Nadu
+TXN00227,2023-08-21,P036,Harpreet Shekhawat,P006,Deepak Raghuvanshi,2531746.33,INR,NEFT/RTGS,Bribe,True,Kamrup Metropolitan,Assam
+TXN00228,2026-03-04,P011,Hemant Dhillon,P045,Anirban Sinha,4953561.08,USDT,Cryptocurrency,Drug Payment,True,Ludhiana,Punjab
+TXN00229,2025-03-14,P009,Bablu Malhotra,P002,Mukesh Tiwari,1303800.97,INR,Cash,Unknown,True,Kolkata,West Bengal
+TXN00230,2023-10-17,P026,Bhupinder Ansari,P049,Rakesh Qureshi,3336240.47,INR,NEFT/RTGS,Extortion Proceeds,True,Gautam Buddh Nagar,Uttar Pradesh
+TXN00231,2024-08-08,P049,Rakesh Qureshi,P051,Jaswinder Krishnan,4217622.96,INR,Benami Property,Unknown,False,Bhopal,Madhya Pradesh
+TXN00232,2025-04-03,P019,Meena Chouhan,P024,Dilip Shah,23814495.61,INR,Hawala,Bribe,True,Bhopal,Madhya Pradesh
+TXN00233,2025-06-02,P040,Vikram Shetty,P026,Bhupinder Ansari,91564.85,INR,NEFT/RTGS,Extortion Proceeds,False,Mysuru,Karnataka
+TXN00234,2022-11-27,P024,Dilip Shah,P045,Anirban Sinha,2160789.45,AED,Benami Property,Bribe,False,Surat,Gujarat
+TXN00235,2022-03-05,P046,Prakash Verma,P060,Ganesh Jadhav,293025.1,INR,Cash,Extortion Proceeds,True,Bengaluru Urban,Karnataka
+TXN00236,2025-05-22,P016,Anil Bansal,P052,Srinivas Singh,4424384.57,AED,Benami Property,Bribe,False,Ludhiana,Punjab
+TXN00237,2024-02-29,P005,Nirmala Kulkarni,P026,Bhupinder Ansari,393690.94,USD,Benami Property,Extortion Proceeds,True,Pune City,Maharashtra
+TXN00238,2026-08-23,P046,Prakash Verma,P051,Jaswinder Krishnan,7690382.14,INR,Hawala,Unknown,True,Lucknow,Uttar Pradesh
+TXN00239,2022-09-12,P050,Senthil Mishra,P052,Srinivas Singh,81532.03,INR,Benami Property,Unknown,True,Gautam Buddh Nagar,Uttar Pradesh
+TXN00240,2026-06-18,P051,Jaswinder Krishnan,P027,Santosh Mishra,1445382.43,INR,UPI,Extortion Proceeds,True,Ahmedabad,Gujarat
+TXN00241,2023-08-28,P030,Jignesh Shekhawat,P059,Vijay Mondal,25010242.95,INR,NEFT/RTGS,Extortion Proceeds,False,Jaipur,Rajasthan
+TXN00242,2024-01-30,P018,Sanjay Kumar,P029,Sushma Krishnan,21322590.58,INR,UPI,Extortion Proceeds,False,Lucknow,Uttar Pradesh
+TXN00243,2022-11-13,P041,Vinod Selvam,P020,Vijay Thakur,41233939.35,INR,NEFT/RTGS,Layering,False,Coimbatore,Tamil Nadu
+TXN00244,2023-09-13,P025,Rahul Reddy,P017,Ajay Kumar,296275.04,USDT,Cryptocurrency,Arms Purchase,False,Hyderabad,Telangana
+TXN00245,2022-11-16,P033,Revathi Patel,P055,Vinod Sidhu,43367471.27,INR,Shell Company,Arms Purchase,False,Ahmedabad,Gujarat
+TXN00246,2024-09-18,P060,Ganesh Jadhav,P032,Rekha Rathore,564046.68,AED,UPI,Arms Purchase,False,Nagpur City,Maharashtra
+TXN00247,2024-10-18,P014,Sachin Singh,P032,Rekha Rathore,3062335.96,INR,NEFT/RTGS,Operational Funds,True,Ludhiana,Punjab
+TXN00248,2025-09-22,P055,Vinod Sidhu,P051,Jaswinder Krishnan,205260.7,INR,NEFT/RTGS,Arms Purchase,True,Ludhiana,Punjab
+TXN00249,2024-12-06,P018,Sanjay Kumar,P014,Sachin Singh,129899.2,USDT,Cryptocurrency,Unknown,True,Patna,Bihar
+TXN00250,2025-06-01,P045,Anirban Sinha,P056,Vikram Verma,2983890.45,INR,Cash,Bribe,True,Gaya,Bihar
